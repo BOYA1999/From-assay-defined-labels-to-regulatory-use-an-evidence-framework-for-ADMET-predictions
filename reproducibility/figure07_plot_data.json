@@ -1,0 +1,93 @@
+{
+  "source": {
+    "authors": "Rich et al.",
+    "title": "Machine Learning ADME Models in Practice: Four Guidelines from a Successful Lead Optimization Case Study",
+    "doi": "10.1021/acsmedchemlett.4c00290",
+    "pmcid": "PMC11318014",
+    "article_type": "Viewpoint",
+    "url": "https://doi.org/10.1021/acsmedchemlett.4c00290",
+    "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11318014/fullTextXML",
+    "sha256": "44c6d380d29d2b6608dd0940d5a3d7aa368c5805cfd80f2ce73509cde6f20888",
+    "locator": "//table-wrap[@id='tbl1']/table",
+    "table_title": "Key Compounds from the Case Study Campaign and Their Properties",
+    "license": "CC BY 4.0; ©2024 The Authors, published by ACS"
+  },
+  "all_five_compounds": [
+    {
+      "compound_id": "1",
+      "target_engagement_nM": 752,
+      "HLM_t_half_min": 83,
+      "RLM_t_half_min": 37,
+      "dog_LM_t_half_min": 2,
+      "MDCK_Papp": 13.8,
+      "MDCK_ER": 0.8,
+      "projected_human_dose": null
+    },
+    {
+      "compound_id": "2",
+      "target_engagement_nM": 100,
+      "HLM_t_half_min": 82,
+      "RLM_t_half_min": 44,
+      "dog_LM_t_half_min": 22,
+      "MDCK_Papp": 3.6,
+      "MDCK_ER": 2.6,
+      "projected_human_dose": null
+    },
+    {
+      "compound_id": "3",
+      "target_engagement_nM": 263,
+      "HLM_t_half_min": 82,
+      "RLM_t_half_min": 32,
+      "dog_LM_t_half_min": 13,
+      "MDCK_Papp": 4.7,
+      "MDCK_ER": 2.2,
+      "projected_human_dose": null
+    },
+    {
+      "compound_id": "4",
+      "target_engagement_nM": 137,
+      "HLM_t_half_min": 65,
+      "RLM_t_half_min": 65,
+      "dog_LM_t_half_min": 57,
+      "MDCK_Papp": 8.1,
+      "MDCK_ER": 0.9,
+      "projected_human_dose": "4× higher than desired"
+    },
+    {
+      "compound_id": "5",
+      "target_engagement_nM": 124,
+      "HLM_t_half_min": 83,
+      "RLM_t_half_min": 72,
+      "dog_LM_t_half_min": 60,
+      "MDCK_Papp": 7.4,
+      "MDCK_ER": 0.8,
+      "projected_human_dose": "desired"
+    }
+  ],
+  "selected_compound_ids": [
+    "2",
+    "5"
+  ],
+  "uncertainty": {
+    "replicate_counts": null,
+    "standard_deviations": null,
+    "confidence_intervals": null,
+    "statement": "Table 1 supplies point estimates only; no significance or equality claims."
+  },
+  "comparison": {
+    "type": "selected project-lead comparison",
+    "single_step_structural_edit_established": false,
+    "model_input_output_pair_established": false,
+    "monotonic_project_improvement_established": false,
+    "incremental_AI_benefit_isolated": false,
+    "note": "Pair labels identify compounds, not temporal sampling or an atomic transformation."
+  },
+  "display_rules": [
+    "Keep endpoint units separate; no shared composite score or normalization.",
+    "Distinguish compound identities with colours or symbols, not gain/loss colours.",
+    "No fabricated error bars or significance markers.",
+    "Do not connect species as a continuous axis.",
+    "Retain the source name target engagement assay; do not label it enzyme IC50.",
+    "No Papp coordinate while its original unit remains unknown."
+  ]
+}

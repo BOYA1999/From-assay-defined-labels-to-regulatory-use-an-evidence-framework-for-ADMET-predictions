@@ -1,0 +1,4113 @@
+endpoint,model,source_row,included,experimental_status,prediction_status
+Solubility,Deep-PK,229,1,finite,finite
+Solubility,Deep-PK,230,1,finite,finite
+Solubility,Deep-PK,231,1,finite,finite
+Solubility,Deep-PK,232,1,finite,finite
+Solubility,Deep-PK,233,1,finite,finite
+Solubility,Deep-PK,234,1,finite,finite
+Solubility,Deep-PK,235,1,finite,finite
+Solubility,Deep-PK,236,1,finite,finite
+Solubility,Deep-PK,237,1,finite,finite
+Solubility,Deep-PK,238,1,finite,finite
+Solubility,Deep-PK,239,1,finite,finite
+Solubility,Deep-PK,240,1,finite,finite
+Solubility,Deep-PK,241,1,finite,finite
+Solubility,Deep-PK,242,1,finite,finite
+Solubility,Deep-PK,243,1,finite,finite
+Solubility,Deep-PK,244,1,finite,finite
+Solubility,Deep-PK,245,1,finite,finite
+Solubility,Deep-PK,246,0,blank,finite
+Solubility,Deep-PK,247,1,finite,finite
+Solubility,Deep-PK,248,1,finite,finite
+Solubility,Deep-PK,249,1,finite,finite
+Solubility,Deep-PK,250,1,finite,finite
+Solubility,Deep-PK,251,1,finite,finite
+Solubility,Deep-PK,252,1,finite,finite
+Solubility,Deep-PK,253,1,finite,finite
+Solubility,Deep-PK,254,1,finite,finite
+Solubility,Deep-PK,255,0,blank,finite
+Solubility,Deep-PK,256,1,finite,finite
+Solubility,Deep-PK,257,1,finite,finite
+Solubility,Deep-PK,258,1,finite,finite
+Solubility,Deep-PK,259,1,finite,finite
+Solubility,Deep-PK,260,1,finite,finite
+Solubility,Deep-PK,261,1,finite,finite
+Solubility,Deep-PK,262,1,finite,finite
+Solubility,Deep-PK,263,1,finite,finite
+Solubility,Deep-PK,264,1,finite,finite
+Solubility,Deep-PK,265,1,finite,finite
+Solubility,Deep-PK,266,1,finite,finite
+Solubility,Deep-PK,267,1,finite,finite
+Solubility,Deep-PK,268,1,finite,finite
+Solubility,Deep-PK,269,1,finite,finite
+Solubility,Deep-PK,270,1,finite,finite
+Solubility,Deep-PK,271,1,finite,finite
+Solubility,Deep-PK,272,0,blank,finite
+Solubility,Deep-PK,273,1,finite,finite
+Solubility,Deep-PK,274,1,finite,finite
+Solubility,Deep-PK,275,1,finite,finite
+Solubility,Deep-PK,276,1,finite,finite
+Solubility,Deep-PK,277,1,finite,finite
+Solubility,Deep-PK,278,1,finite,finite
+Solubility,Deep-PK,279,1,finite,finite
+Solubility,Deep-PK,280,0,blank,finite
+Solubility,Deep-PK,281,1,finite,finite
+Solubility,Deep-PK,282,1,finite,finite
+Solubility,Deep-PK,283,1,finite,finite
+Solubility,Deep-PK,284,1,finite,finite
+Solubility,Deep-PK,285,1,finite,finite
+Solubility,Deep-PK,286,1,finite,finite
+Solubility,Deep-PK,287,1,finite,finite
+Solubility,Deep-PK,288,0,blank,finite
+Solubility,Deep-PK,289,0,blank,finite
+Solubility,Deep-PK,290,1,finite,finite
+Solubility,Deep-PK,291,1,finite,finite
+Solubility,Deep-PK,292,1,finite,finite
+Solubility,Deep-PK,293,1,finite,finite
+Solubility,Deep-PK,294,1,finite,finite
+Solubility,Deep-PK,295,1,finite,finite
+Solubility,Deep-PK,296,1,finite,finite
+Solubility,Deep-PK,297,1,finite,finite
+Solubility,Deep-PK,298,1,finite,finite
+Solubility,Deep-PK,299,1,finite,finite
+Solubility,Deep-PK,300,0,blank,finite
+Solubility,Deep-PK,301,0,blank,finite
+Solubility,Deep-PK,302,0,blank,finite
+Solubility,Deep-PK,303,1,finite,finite
+Solubility,Deep-PK,304,1,finite,finite
+Solubility,Deep-PK,305,0,blank,finite
+Solubility,Deep-PK,306,1,finite,finite
+Solubility,Deep-PK,307,1,finite,finite
+Solubility,Deep-PK,308,1,finite,finite
+Solubility,Deep-PK,309,1,finite,finite
+Solubility,Deep-PK,310,1,finite,finite
+Solubility,Deep-PK,311,1,finite,finite
+Solubility,Deep-PK,312,1,finite,finite
+Solubility,Deep-PK,313,1,finite,finite
+Solubility,Deep-PK,314,1,finite,finite
+Solubility,Deep-PK,315,1,finite,finite
+Solubility,Deep-PK,316,1,finite,finite
+Solubility,Deep-PK,317,1,finite,finite
+Solubility,Deep-PK,318,1,finite,finite
+Solubility,Deep-PK,319,1,finite,finite
+Solubility,Deep-PK,320,1,finite,finite
+Solubility,Deep-PK,321,1,finite,finite
+Solubility,Deep-PK,322,1,finite,finite
+Solubility,Deep-PK,323,1,finite,finite
+Solubility,Deep-PK,324,0,blank,finite
+Solubility,Deep-PK,325,1,finite,finite
+Solubility,Deep-PK,326,1,finite,finite
+Solubility,Deep-PK,327,1,finite,finite
+Solubility,Deep-PK,328,1,finite,finite
+Solubility,Deep-PK,329,1,finite,finite
+Solubility,Deep-PK,330,1,finite,finite
+Solubility,Deep-PK,331,1,finite,finite
+Solubility,Deep-PK,332,1,finite,finite
+Solubility,Deep-PK,333,1,finite,finite
+Solubility,Deep-PK,334,1,finite,finite
+Solubility,Deep-PK,335,1,finite,finite
+Solubility,Deep-PK,336,1,finite,finite
+Solubility,Deep-PK,337,1,finite,finite
+Solubility,Deep-PK,338,1,finite,finite
+Solubility,Deep-PK,339,1,finite,finite
+Solubility,Deep-PK,340,1,finite,finite
+Solubility,Deep-PK,341,1,finite,finite
+Solubility,Deep-PK,342,1,finite,finite
+Solubility,Deep-PK,343,1,finite,finite
+Solubility,Deep-PK,344,1,finite,finite
+Solubility,Deep-PK,345,1,finite,finite
+Solubility,Deep-PK,346,1,finite,finite
+Solubility,Deep-PK,347,1,finite,finite
+Solubility,Deep-PK,348,1,finite,finite
+Solubility,Deep-PK,349,1,finite,finite
+Solubility,Deep-PK,350,1,finite,finite
+Solubility,Deep-PK,351,1,finite,finite
+Solubility,Deep-PK,352,1,finite,finite
+Solubility,Deep-PK,353,1,finite,finite
+Solubility,Deep-PK,354,1,finite,finite
+Solubility,Deep-PK,355,1,finite,finite
+Solubility,Deep-PK,356,1,finite,finite
+Solubility,Deep-PK,357,1,finite,finite
+Solubility,Deep-PK,358,0,blank,finite
+Solubility,Deep-PK,359,1,finite,finite
+Solubility,Deep-PK,360,1,finite,finite
+Solubility,Deep-PK,361,1,finite,finite
+Solubility,Deep-PK,362,1,finite,finite
+Solubility,Deep-PK,363,1,finite,finite
+Solubility,Deep-PK,364,0,blank,finite
+Solubility,Deep-PK,365,1,finite,finite
+Solubility,Deep-PK,366,1,finite,finite
+Solubility,Deep-PK,367,1,finite,finite
+Solubility,Deep-PK,368,1,finite,finite
+Solubility,Deep-PK,369,1,finite,finite
+Solubility,Deep-PK,370,1,finite,finite
+Solubility,Deep-PK,371,1,finite,finite
+Solubility,Deep-PK,372,1,finite,finite
+Solubility,Deep-PK,373,1,finite,finite
+Solubility,Deep-PK,374,1,finite,finite
+Solubility,Deep-PK,375,1,finite,finite
+Solubility,Deep-PK,376,1,finite,finite
+Solubility,Deep-PK,377,1,finite,finite
+Solubility,Deep-PK,378,1,finite,finite
+Solubility,Deep-PK,379,1,finite,finite
+Solubility,Deep-PK,380,1,finite,finite
+Solubility,Deep-PK,381,1,finite,finite
+Solubility,Deep-PK,382,1,finite,finite
+Solubility,Deep-PK,383,1,finite,finite
+Solubility,Deep-PK,384,0,blank,finite
+Solubility,Deep-PK,385,1,finite,finite
+Solubility,Deep-PK,386,1,finite,finite
+Solubility,Deep-PK,387,1,finite,finite
+Solubility,Deep-PK,388,1,finite,finite
+Solubility,Deep-PK,389,1,finite,finite
+Solubility,Deep-PK,390,0,blank,finite
+Solubility,Deep-PK,391,1,finite,finite
+Solubility,Deep-PK,392,1,finite,finite
+Solubility,Deep-PK,393,1,finite,finite
+Solubility,Deep-PK,394,0,blank,finite
+Solubility,Deep-PK,395,1,finite,finite
+Solubility,Deep-PK,396,1,finite,finite
+Solubility,Deep-PK,397,1,finite,finite
+Solubility,Deep-PK,398,1,finite,finite
+Solubility,Deep-PK,399,1,finite,finite
+Solubility,Deep-PK,400,1,finite,finite
+Solubility,Deep-PK,401,1,finite,finite
+Solubility,Deep-PK,402,0,blank,finite
+Solubility,Deep-PK,403,1,finite,finite
+Solubility,Deep-PK,404,1,finite,finite
+Solubility,Deep-PK,405,0,blank,finite
+Solubility,Deep-PK,406,1,finite,finite
+Solubility,Deep-PK,407,1,finite,finite
+Solubility,Deep-PK,408,1,finite,finite
+Solubility,Deep-PK,409,1,finite,finite
+Solubility,Deep-PK,410,1,finite,finite
+Solubility,Deep-PK,411,1,finite,finite
+Solubility,Deep-PK,412,1,finite,finite
+Solubility,Deep-PK,413,1,finite,finite
+Solubility,Deep-PK,414,1,finite,finite
+Solubility,Deep-PK,415,1,finite,finite
+Solubility,Deep-PK,416,1,finite,finite
+Solubility,Deep-PK,417,1,finite,finite
+Solubility,Deep-PK,418,1,finite,finite
+Solubility,Deep-PK,419,1,finite,finite
+Solubility,Deep-PK,420,1,finite,finite
+Solubility,Deep-PK,421,1,finite,finite
+Solubility,Deep-PK,422,1,finite,finite
+Solubility,Deep-PK,423,1,finite,finite
+Solubility,Deep-PK,424,1,finite,finite
+Solubility,Deep-PK,425,1,finite,finite
+Solubility,Deep-PK,426,0,blank,finite
+Solubility,Deep-PK,427,1,finite,finite
+Solubility,Deep-PK,428,1,finite,finite
+Solubility,Deep-PK,429,1,finite,finite
+Solubility,Deep-PK,430,1,finite,finite
+Solubility,Deep-PK,431,1,finite,finite
+Solubility,Deep-PK,432,1,finite,finite
+Solubility,Deep-PK,433,1,finite,finite
+Solubility,Deep-PK,434,1,finite,finite
+Solubility,Deep-PK,435,1,finite,finite
+Solubility,Deep-PK,436,1,finite,finite
+Solubility,Deep-PK,437,1,finite,finite
+Solubility,Deep-PK,438,1,finite,finite
+Solubility,Deep-PK,439,1,finite,finite
+Solubility,Deep-PK,440,1,finite,finite
+Solubility,Deep-PK,441,1,finite,finite
+Solubility,Deep-PK,442,1,finite,finite
+Solubility,Deep-PK,443,1,finite,finite
+Solubility,Deep-PK,444,1,finite,finite
+Solubility,Deep-PK,445,0,blank,finite
+Solubility,Deep-PK,446,1,finite,finite
+Solubility,Deep-PK,447,1,finite,finite
+Solubility,Deep-PK,448,1,finite,finite
+Solubility,Deep-PK,449,1,finite,finite
+Solubility,Deep-PK,450,1,finite,finite
+Solubility,Deep-PK,451,1,finite,finite
+Solubility,Deep-PK,452,1,finite,finite
+Solubility,Deep-PK,453,1,finite,finite
+Solubility,Deep-PK,454,1,finite,finite
+Solubility,Deep-PK,455,1,finite,finite
+Solubility,Deep-PK,456,1,finite,finite
+Solubility,Deep-PK,457,1,finite,finite
+Solubility,Deep-PK,458,1,finite,finite
+Solubility,Deep-PK,459,1,finite,finite
+Solubility,Deep-PK,460,1,finite,finite
+Solubility,Deep-PK,461,1,finite,finite
+Solubility,Deep-PK,462,1,finite,finite
+Solubility,Deep-PK,463,1,finite,finite
+Solubility,Deep-PK,464,1,finite,finite
+Solubility,Deep-PK,465,1,finite,finite
+Solubility,Deep-PK,466,1,finite,finite
+Solubility,Deep-PK,467,1,finite,finite
+Solubility,Deep-PK,468,1,finite,finite
+Solubility,Deep-PK,469,0,blank,finite
+Solubility,Deep-PK,470,0,blank,finite
+Solubility,Deep-PK,471,0,blank,finite
+Solubility,Deep-PK,472,0,blank,finite
+Solubility,Deep-PK,473,0,blank,finite
+Solubility,Deep-PK,474,0,blank,finite
+Solubility,Deep-PK,475,0,blank,finite
+Solubility,Deep-PK,476,0,blank,finite
+Solubility,Deep-PK,477,0,blank,finite
+Solubility,Deep-PK,478,0,blank,finite
+Solubility,Deep-PK,479,0,blank,finite
+Solubility,Deep-PK,480,0,blank,finite
+Solubility,Deep-PK,481,0,blank,finite
+Solubility,Deep-PK,482,0,blank,finite
+Solubility,Deep-PK,483,0,blank,finite
+Solubility,Deep-PK,484,0,blank,finite
+Solubility,Deep-PK,485,0,blank,finite
+Solubility,ADMET-AI,229,1,finite,finite
+Solubility,ADMET-AI,230,1,finite,finite
+Solubility,ADMET-AI,231,1,finite,finite
+Solubility,ADMET-AI,232,1,finite,finite
+Solubility,ADMET-AI,233,1,finite,finite
+Solubility,ADMET-AI,234,1,finite,finite
+Solubility,ADMET-AI,235,1,finite,finite
+Solubility,ADMET-AI,236,1,finite,finite
+Solubility,ADMET-AI,237,1,finite,finite
+Solubility,ADMET-AI,238,1,finite,finite
+Solubility,ADMET-AI,239,1,finite,finite
+Solubility,ADMET-AI,240,1,finite,finite
+Solubility,ADMET-AI,241,1,finite,finite
+Solubility,ADMET-AI,242,1,finite,finite
+Solubility,ADMET-AI,243,1,finite,finite
+Solubility,ADMET-AI,244,1,finite,finite
+Solubility,ADMET-AI,245,1,finite,finite
+Solubility,ADMET-AI,246,0,blank,finite
+Solubility,ADMET-AI,247,1,finite,finite
+Solubility,ADMET-AI,248,1,finite,finite
+Solubility,ADMET-AI,249,1,finite,finite
+Solubility,ADMET-AI,250,1,finite,finite
+Solubility,ADMET-AI,251,1,finite,finite
+Solubility,ADMET-AI,252,1,finite,finite
+Solubility,ADMET-AI,253,1,finite,finite
+Solubility,ADMET-AI,254,1,finite,finite
+Solubility,ADMET-AI,255,0,blank,finite
+Solubility,ADMET-AI,256,1,finite,finite
+Solubility,ADMET-AI,257,1,finite,finite
+Solubility,ADMET-AI,258,1,finite,finite
+Solubility,ADMET-AI,259,1,finite,finite
+Solubility,ADMET-AI,260,1,finite,finite
+Solubility,ADMET-AI,261,1,finite,finite
+Solubility,ADMET-AI,262,1,finite,finite
+Solubility,ADMET-AI,263,1,finite,finite
+Solubility,ADMET-AI,264,1,finite,finite
+Solubility,ADMET-AI,265,1,finite,finite
+Solubility,ADMET-AI,266,1,finite,finite
+Solubility,ADMET-AI,267,1,finite,finite
+Solubility,ADMET-AI,268,1,finite,finite
+Solubility,ADMET-AI,269,1,finite,finite
+Solubility,ADMET-AI,270,1,finite,finite
+Solubility,ADMET-AI,271,1,finite,finite
+Solubility,ADMET-AI,272,0,blank,finite
+Solubility,ADMET-AI,273,1,finite,finite
+Solubility,ADMET-AI,274,1,finite,finite
+Solubility,ADMET-AI,275,1,finite,finite
+Solubility,ADMET-AI,276,1,finite,finite
+Solubility,ADMET-AI,277,1,finite,finite
+Solubility,ADMET-AI,278,1,finite,finite
+Solubility,ADMET-AI,279,1,finite,finite
+Solubility,ADMET-AI,280,0,blank,finite
+Solubility,ADMET-AI,281,1,finite,finite
+Solubility,ADMET-AI,282,1,finite,finite
+Solubility,ADMET-AI,283,1,finite,finite
+Solubility,ADMET-AI,284,1,finite,finite
+Solubility,ADMET-AI,285,1,finite,finite
+Solubility,ADMET-AI,286,1,finite,finite
+Solubility,ADMET-AI,287,1,finite,finite
+Solubility,ADMET-AI,288,0,blank,finite
+Solubility,ADMET-AI,289,0,blank,finite
+Solubility,ADMET-AI,290,1,finite,finite
+Solubility,ADMET-AI,291,1,finite,finite
+Solubility,ADMET-AI,292,1,finite,finite
+Solubility,ADMET-AI,293,1,finite,finite
+Solubility,ADMET-AI,294,1,finite,finite
+Solubility,ADMET-AI,295,1,finite,finite
+Solubility,ADMET-AI,296,1,finite,finite
+Solubility,ADMET-AI,297,1,finite,finite
+Solubility,ADMET-AI,298,1,finite,finite
+Solubility,ADMET-AI,299,1,finite,finite
+Solubility,ADMET-AI,300,0,blank,finite
+Solubility,ADMET-AI,301,0,blank,finite
+Solubility,ADMET-AI,302,0,blank,finite
+Solubility,ADMET-AI,303,1,finite,finite
+Solubility,ADMET-AI,304,1,finite,finite
+Solubility,ADMET-AI,305,0,blank,finite
+Solubility,ADMET-AI,306,1,finite,finite
+Solubility,ADMET-AI,307,1,finite,finite
+Solubility,ADMET-AI,308,1,finite,finite
+Solubility,ADMET-AI,309,1,finite,finite
+Solubility,ADMET-AI,310,1,finite,finite
+Solubility,ADMET-AI,311,1,finite,finite
+Solubility,ADMET-AI,312,1,finite,finite
+Solubility,ADMET-AI,313,1,finite,finite
+Solubility,ADMET-AI,314,1,finite,finite
+Solubility,ADMET-AI,315,1,finite,finite
+Solubility,ADMET-AI,316,1,finite,finite
+Solubility,ADMET-AI,317,1,finite,finite
+Solubility,ADMET-AI,318,1,finite,finite
+Solubility,ADMET-AI,319,1,finite,finite
+Solubility,ADMET-AI,320,1,finite,finite
+Solubility,ADMET-AI,321,1,finite,finite
+Solubility,ADMET-AI,322,1,finite,finite
+Solubility,ADMET-AI,323,1,finite,finite
+Solubility,ADMET-AI,324,0,blank,finite
+Solubility,ADMET-AI,325,1,finite,finite
+Solubility,ADMET-AI,326,1,finite,finite
+Solubility,ADMET-AI,327,1,finite,finite
+Solubility,ADMET-AI,328,1,finite,finite
+Solubility,ADMET-AI,329,1,finite,finite
+Solubility,ADMET-AI,330,1,finite,finite
+Solubility,ADMET-AI,331,1,finite,finite
+Solubility,ADMET-AI,332,1,finite,finite
+Solubility,ADMET-AI,333,1,finite,finite
+Solubility,ADMET-AI,334,1,finite,finite
+Solubility,ADMET-AI,335,1,finite,finite
+Solubility,ADMET-AI,336,1,finite,finite
+Solubility,ADMET-AI,337,1,finite,finite
+Solubility,ADMET-AI,338,1,finite,finite
+Solubility,ADMET-AI,339,1,finite,finite
+Solubility,ADMET-AI,340,1,finite,finite
+Solubility,ADMET-AI,341,1,finite,finite
+Solubility,ADMET-AI,342,1,finite,finite
+Solubility,ADMET-AI,343,1,finite,finite
+Solubility,ADMET-AI,344,1,finite,finite
+Solubility,ADMET-AI,345,1,finite,finite
+Solubility,ADMET-AI,346,1,finite,finite
+Solubility,ADMET-AI,347,1,finite,finite
+Solubility,ADMET-AI,348,1,finite,finite
+Solubility,ADMET-AI,349,1,finite,finite
+Solubility,ADMET-AI,350,1,finite,finite
+Solubility,ADMET-AI,351,1,finite,finite
+Solubility,ADMET-AI,352,1,finite,finite
+Solubility,ADMET-AI,353,1,finite,finite
+Solubility,ADMET-AI,354,1,finite,finite
+Solubility,ADMET-AI,355,1,finite,finite
+Solubility,ADMET-AI,356,1,finite,finite
+Solubility,ADMET-AI,357,1,finite,finite
+Solubility,ADMET-AI,358,0,blank,finite
+Solubility,ADMET-AI,359,1,finite,finite
+Solubility,ADMET-AI,360,1,finite,finite
+Solubility,ADMET-AI,361,1,finite,finite
+Solubility,ADMET-AI,362,1,finite,finite
+Solubility,ADMET-AI,363,1,finite,finite
+Solubility,ADMET-AI,364,0,blank,finite
+Solubility,ADMET-AI,365,1,finite,finite
+Solubility,ADMET-AI,366,1,finite,finite
+Solubility,ADMET-AI,367,1,finite,finite
+Solubility,ADMET-AI,368,1,finite,finite
+Solubility,ADMET-AI,369,1,finite,finite
+Solubility,ADMET-AI,370,1,finite,finite
+Solubility,ADMET-AI,371,1,finite,finite
+Solubility,ADMET-AI,372,1,finite,finite
+Solubility,ADMET-AI,373,1,finite,finite
+Solubility,ADMET-AI,374,1,finite,finite
+Solubility,ADMET-AI,375,1,finite,finite
+Solubility,ADMET-AI,376,1,finite,finite
+Solubility,ADMET-AI,377,1,finite,finite
+Solubility,ADMET-AI,378,1,finite,finite
+Solubility,ADMET-AI,379,1,finite,finite
+Solubility,ADMET-AI,380,1,finite,finite
+Solubility,ADMET-AI,381,1,finite,finite
+Solubility,ADMET-AI,382,1,finite,finite
+Solubility,ADMET-AI,383,1,finite,finite
+Solubility,ADMET-AI,384,0,blank,finite
+Solubility,ADMET-AI,385,1,finite,finite
+Solubility,ADMET-AI,386,1,finite,finite
+Solubility,ADMET-AI,387,1,finite,finite
+Solubility,ADMET-AI,388,1,finite,finite
+Solubility,ADMET-AI,389,1,finite,finite
+Solubility,ADMET-AI,390,0,blank,finite
+Solubility,ADMET-AI,391,1,finite,finite
+Solubility,ADMET-AI,392,1,finite,finite
+Solubility,ADMET-AI,393,1,finite,finite
+Solubility,ADMET-AI,394,0,blank,finite
+Solubility,ADMET-AI,395,1,finite,finite
+Solubility,ADMET-AI,396,1,finite,finite
+Solubility,ADMET-AI,397,1,finite,finite
+Solubility,ADMET-AI,398,1,finite,finite
+Solubility,ADMET-AI,399,1,finite,finite
+Solubility,ADMET-AI,400,1,finite,finite
+Solubility,ADMET-AI,401,1,finite,finite
+Solubility,ADMET-AI,402,0,blank,finite
+Solubility,ADMET-AI,403,1,finite,finite
+Solubility,ADMET-AI,404,1,finite,finite
+Solubility,ADMET-AI,405,0,blank,finite
+Solubility,ADMET-AI,406,1,finite,finite
+Solubility,ADMET-AI,407,1,finite,finite
+Solubility,ADMET-AI,408,1,finite,finite
+Solubility,ADMET-AI,409,1,finite,finite
+Solubility,ADMET-AI,410,1,finite,finite
+Solubility,ADMET-AI,411,1,finite,finite
+Solubility,ADMET-AI,412,1,finite,finite
+Solubility,ADMET-AI,413,1,finite,finite
+Solubility,ADMET-AI,414,1,finite,finite
+Solubility,ADMET-AI,415,1,finite,finite
+Solubility,ADMET-AI,416,1,finite,finite
+Solubility,ADMET-AI,417,1,finite,finite
+Solubility,ADMET-AI,418,1,finite,finite
+Solubility,ADMET-AI,419,1,finite,finite
+Solubility,ADMET-AI,420,1,finite,finite
+Solubility,ADMET-AI,421,1,finite,finite
+Solubility,ADMET-AI,422,1,finite,finite
+Solubility,ADMET-AI,423,1,finite,finite
+Solubility,ADMET-AI,424,1,finite,finite
+Solubility,ADMET-AI,425,1,finite,finite
+Solubility,ADMET-AI,426,0,blank,finite
+Solubility,ADMET-AI,427,1,finite,finite
+Solubility,ADMET-AI,428,1,finite,finite
+Solubility,ADMET-AI,429,1,finite,finite
+Solubility,ADMET-AI,430,1,finite,finite
+Solubility,ADMET-AI,431,1,finite,finite
+Solubility,ADMET-AI,432,1,finite,finite
+Solubility,ADMET-AI,433,1,finite,finite
+Solubility,ADMET-AI,434,1,finite,finite
+Solubility,ADMET-AI,435,1,finite,finite
+Solubility,ADMET-AI,436,1,finite,finite
+Solubility,ADMET-AI,437,1,finite,finite
+Solubility,ADMET-AI,438,1,finite,finite
+Solubility,ADMET-AI,439,1,finite,finite
+Solubility,ADMET-AI,440,1,finite,finite
+Solubility,ADMET-AI,441,1,finite,finite
+Solubility,ADMET-AI,442,1,finite,finite
+Solubility,ADMET-AI,443,1,finite,finite
+Solubility,ADMET-AI,444,1,finite,finite
+Solubility,ADMET-AI,445,0,blank,finite
+Solubility,ADMET-AI,446,1,finite,finite
+Solubility,ADMET-AI,447,1,finite,finite
+Solubility,ADMET-AI,448,1,finite,finite
+Solubility,ADMET-AI,449,1,finite,finite
+Solubility,ADMET-AI,450,1,finite,finite
+Solubility,ADMET-AI,451,1,finite,finite
+Solubility,ADMET-AI,452,1,finite,finite
+Solubility,ADMET-AI,453,1,finite,finite
+Solubility,ADMET-AI,454,1,finite,finite
+Solubility,ADMET-AI,455,1,finite,finite
+Solubility,ADMET-AI,456,1,finite,finite
+Solubility,ADMET-AI,457,1,finite,finite
+Solubility,ADMET-AI,458,1,finite,finite
+Solubility,ADMET-AI,459,1,finite,finite
+Solubility,ADMET-AI,460,1,finite,finite
+Solubility,ADMET-AI,461,1,finite,finite
+Solubility,ADMET-AI,462,1,finite,finite
+Solubility,ADMET-AI,463,1,finite,finite
+Solubility,ADMET-AI,464,1,finite,finite
+Solubility,ADMET-AI,465,1,finite,finite
+Solubility,ADMET-AI,466,1,finite,finite
+Solubility,ADMET-AI,467,1,finite,finite
+Solubility,ADMET-AI,468,1,finite,finite
+Solubility,ADMET-AI,469,0,blank,finite
+Solubility,ADMET-AI,470,0,blank,finite
+Solubility,ADMET-AI,471,0,blank,finite
+Solubility,ADMET-AI,472,0,blank,finite
+Solubility,ADMET-AI,473,0,blank,finite
+Solubility,ADMET-AI,474,0,blank,finite
+Solubility,ADMET-AI,475,0,blank,finite
+Solubility,ADMET-AI,476,0,blank,finite
+Solubility,ADMET-AI,477,0,blank,finite
+Solubility,ADMET-AI,478,0,blank,finite
+Solubility,ADMET-AI,479,0,blank,finite
+Solubility,ADMET-AI,480,0,blank,finite
+Solubility,ADMET-AI,481,0,blank,finite
+Solubility,ADMET-AI,482,0,blank,finite
+Solubility,ADMET-AI,483,0,blank,finite
+Solubility,ADMET-AI,484,0,blank,finite
+Solubility,ADMET-AI,485,0,blank,finite
+Solubility,ADMETlab 3.0,229,1,finite,finite
+Solubility,ADMETlab 3.0,230,1,finite,finite
+Solubility,ADMETlab 3.0,231,1,finite,finite
+Solubility,ADMETlab 3.0,232,1,finite,finite
+Solubility,ADMETlab 3.0,233,1,finite,finite
+Solubility,ADMETlab 3.0,234,1,finite,finite
+Solubility,ADMETlab 3.0,235,1,finite,finite
+Solubility,ADMETlab 3.0,236,1,finite,finite
+Solubility,ADMETlab 3.0,237,1,finite,finite
+Solubility,ADMETlab 3.0,238,1,finite,finite
+Solubility,ADMETlab 3.0,239,1,finite,finite
+Solubility,ADMETlab 3.0,240,1,finite,finite
+Solubility,ADMETlab 3.0,241,1,finite,finite
+Solubility,ADMETlab 3.0,242,1,finite,finite
+Solubility,ADMETlab 3.0,243,1,finite,finite
+Solubility,ADMETlab 3.0,244,1,finite,finite
+Solubility,ADMETlab 3.0,245,1,finite,finite
+Solubility,ADMETlab 3.0,246,0,blank,finite
+Solubility,ADMETlab 3.0,247,1,finite,finite
+Solubility,ADMETlab 3.0,248,1,finite,finite
+Solubility,ADMETlab 3.0,249,1,finite,finite
+Solubility,ADMETlab 3.0,250,1,finite,finite
+Solubility,ADMETlab 3.0,251,1,finite,finite
+Solubility,ADMETlab 3.0,252,1,finite,finite
+Solubility,ADMETlab 3.0,253,1,finite,finite
+Solubility,ADMETlab 3.0,254,1,finite,finite
+Solubility,ADMETlab 3.0,255,0,blank,finite
+Solubility,ADMETlab 3.0,256,1,finite,finite
+Solubility,ADMETlab 3.0,257,1,finite,finite
+Solubility,ADMETlab 3.0,258,1,finite,finite
+Solubility,ADMETlab 3.0,259,1,finite,finite
+Solubility,ADMETlab 3.0,260,1,finite,finite
+Solubility,ADMETlab 3.0,261,1,finite,finite
+Solubility,ADMETlab 3.0,262,1,finite,finite
+Solubility,ADMETlab 3.0,263,1,finite,finite
+Solubility,ADMETlab 3.0,264,1,finite,finite
+Solubility,ADMETlab 3.0,265,1,finite,finite
+Solubility,ADMETlab 3.0,266,1,finite,finite
+Solubility,ADMETlab 3.0,267,1,finite,finite
+Solubility,ADMETlab 3.0,268,1,finite,finite
+Solubility,ADMETlab 3.0,269,1,finite,finite
+Solubility,ADMETlab 3.0,270,1,finite,finite
+Solubility,ADMETlab 3.0,271,1,finite,finite
+Solubility,ADMETlab 3.0,272,0,blank,finite
+Solubility,ADMETlab 3.0,273,1,finite,finite
+Solubility,ADMETlab 3.0,274,1,finite,finite
+Solubility,ADMETlab 3.0,275,1,finite,finite
+Solubility,ADMETlab 3.0,276,1,finite,finite
+Solubility,ADMETlab 3.0,277,1,finite,finite
+Solubility,ADMETlab 3.0,278,1,finite,finite
+Solubility,ADMETlab 3.0,279,1,finite,finite
+Solubility,ADMETlab 3.0,280,0,blank,finite
+Solubility,ADMETlab 3.0,281,1,finite,finite
+Solubility,ADMETlab 3.0,282,1,finite,finite
+Solubility,ADMETlab 3.0,283,1,finite,finite
+Solubility,ADMETlab 3.0,284,1,finite,finite
+Solubility,ADMETlab 3.0,285,1,finite,finite
+Solubility,ADMETlab 3.0,286,1,finite,finite
+Solubility,ADMETlab 3.0,287,1,finite,finite
+Solubility,ADMETlab 3.0,288,0,blank,finite
+Solubility,ADMETlab 3.0,289,0,blank,finite
+Solubility,ADMETlab 3.0,290,1,finite,finite
+Solubility,ADMETlab 3.0,291,1,finite,finite
+Solubility,ADMETlab 3.0,292,1,finite,finite
+Solubility,ADMETlab 3.0,293,1,finite,finite
+Solubility,ADMETlab 3.0,294,1,finite,finite
+Solubility,ADMETlab 3.0,295,1,finite,finite
+Solubility,ADMETlab 3.0,296,1,finite,finite
+Solubility,ADMETlab 3.0,297,1,finite,finite
+Solubility,ADMETlab 3.0,298,1,finite,finite
+Solubility,ADMETlab 3.0,299,1,finite,finite
+Solubility,ADMETlab 3.0,300,0,blank,finite
+Solubility,ADMETlab 3.0,301,0,blank,finite
+Solubility,ADMETlab 3.0,302,0,blank,finite
+Solubility,ADMETlab 3.0,303,1,finite,finite
+Solubility,ADMETlab 3.0,304,1,finite,finite
+Solubility,ADMETlab 3.0,305,0,blank,finite
+Solubility,ADMETlab 3.0,306,1,finite,finite
+Solubility,ADMETlab 3.0,307,1,finite,finite
+Solubility,ADMETlab 3.0,308,1,finite,finite
+Solubility,ADMETlab 3.0,309,1,finite,finite
+Solubility,ADMETlab 3.0,310,1,finite,finite
+Solubility,ADMETlab 3.0,311,1,finite,finite
+Solubility,ADMETlab 3.0,312,1,finite,finite
+Solubility,ADMETlab 3.0,313,1,finite,finite
+Solubility,ADMETlab 3.0,314,1,finite,finite
+Solubility,ADMETlab 3.0,315,1,finite,finite
+Solubility,ADMETlab 3.0,316,1,finite,finite
+Solubility,ADMETlab 3.0,317,1,finite,finite
+Solubility,ADMETlab 3.0,318,1,finite,finite
+Solubility,ADMETlab 3.0,319,1,finite,finite
+Solubility,ADMETlab 3.0,320,1,finite,finite
+Solubility,ADMETlab 3.0,321,1,finite,finite
+Solubility,ADMETlab 3.0,322,1,finite,finite
+Solubility,ADMETlab 3.0,323,1,finite,finite
+Solubility,ADMETlab 3.0,324,0,blank,finite
+Solubility,ADMETlab 3.0,325,1,finite,finite
+Solubility,ADMETlab 3.0,326,1,finite,finite
+Solubility,ADMETlab 3.0,327,1,finite,finite
+Solubility,ADMETlab 3.0,328,1,finite,finite
+Solubility,ADMETlab 3.0,329,1,finite,finite
+Solubility,ADMETlab 3.0,330,1,finite,finite
+Solubility,ADMETlab 3.0,331,1,finite,finite
+Solubility,ADMETlab 3.0,332,1,finite,finite
+Solubility,ADMETlab 3.0,333,1,finite,finite
+Solubility,ADMETlab 3.0,334,1,finite,finite
+Solubility,ADMETlab 3.0,335,1,finite,finite
+Solubility,ADMETlab 3.0,336,1,finite,finite
+Solubility,ADMETlab 3.0,337,1,finite,finite
+Solubility,ADMETlab 3.0,338,1,finite,finite
+Solubility,ADMETlab 3.0,339,1,finite,finite
+Solubility,ADMETlab 3.0,340,1,finite,finite
+Solubility,ADMETlab 3.0,341,1,finite,finite
+Solubility,ADMETlab 3.0,342,1,finite,finite
+Solubility,ADMETlab 3.0,343,1,finite,finite
+Solubility,ADMETlab 3.0,344,1,finite,finite
+Solubility,ADMETlab 3.0,345,1,finite,finite
+Solubility,ADMETlab 3.0,346,1,finite,finite
+Solubility,ADMETlab 3.0,347,1,finite,finite
+Solubility,ADMETlab 3.0,348,1,finite,finite
+Solubility,ADMETlab 3.0,349,1,finite,finite
+Solubility,ADMETlab 3.0,350,1,finite,finite
+Solubility,ADMETlab 3.0,351,1,finite,finite
+Solubility,ADMETlab 3.0,352,1,finite,finite
+Solubility,ADMETlab 3.0,353,1,finite,finite
+Solubility,ADMETlab 3.0,354,1,finite,finite
+Solubility,ADMETlab 3.0,355,1,finite,finite
+Solubility,ADMETlab 3.0,356,1,finite,finite
+Solubility,ADMETlab 3.0,357,1,finite,finite
+Solubility,ADMETlab 3.0,358,0,blank,finite
+Solubility,ADMETlab 3.0,359,1,finite,finite
+Solubility,ADMETlab 3.0,360,1,finite,finite
+Solubility,ADMETlab 3.0,361,1,finite,finite
+Solubility,ADMETlab 3.0,362,1,finite,finite
+Solubility,ADMETlab 3.0,363,1,finite,finite
+Solubility,ADMETlab 3.0,364,0,blank,finite
+Solubility,ADMETlab 3.0,365,1,finite,finite
+Solubility,ADMETlab 3.0,366,1,finite,finite
+Solubility,ADMETlab 3.0,367,1,finite,finite
+Solubility,ADMETlab 3.0,368,1,finite,finite
+Solubility,ADMETlab 3.0,369,1,finite,finite
+Solubility,ADMETlab 3.0,370,1,finite,finite
+Solubility,ADMETlab 3.0,371,1,finite,finite
+Solubility,ADMETlab 3.0,372,1,finite,finite
+Solubility,ADMETlab 3.0,373,1,finite,finite
+Solubility,ADMETlab 3.0,374,1,finite,finite
+Solubility,ADMETlab 3.0,375,1,finite,finite
+Solubility,ADMETlab 3.0,376,1,finite,finite
+Solubility,ADMETlab 3.0,377,1,finite,finite
+Solubility,ADMETlab 3.0,378,1,finite,finite
+Solubility,ADMETlab 3.0,379,1,finite,finite
+Solubility,ADMETlab 3.0,380,1,finite,finite
+Solubility,ADMETlab 3.0,381,1,finite,finite
+Solubility,ADMETlab 3.0,382,1,finite,finite
+Solubility,ADMETlab 3.0,383,1,finite,finite
+Solubility,ADMETlab 3.0,384,0,blank,finite
+Solubility,ADMETlab 3.0,385,1,finite,finite
+Solubility,ADMETlab 3.0,386,1,finite,finite
+Solubility,ADMETlab 3.0,387,1,finite,finite
+Solubility,ADMETlab 3.0,388,1,finite,finite
+Solubility,ADMETlab 3.0,389,1,finite,finite
+Solubility,ADMETlab 3.0,390,0,blank,finite
+Solubility,ADMETlab 3.0,391,1,finite,finite
+Solubility,ADMETlab 3.0,392,1,finite,finite
+Solubility,ADMETlab 3.0,393,1,finite,finite
+Solubility,ADMETlab 3.0,394,0,blank,finite
+Solubility,ADMETlab 3.0,395,1,finite,finite
+Solubility,ADMETlab 3.0,396,1,finite,finite
+Solubility,ADMETlab 3.0,397,1,finite,finite
+Solubility,ADMETlab 3.0,398,1,finite,finite
+Solubility,ADMETlab 3.0,399,1,finite,finite
+Solubility,ADMETlab 3.0,400,1,finite,finite
+Solubility,ADMETlab 3.0,401,1,finite,finite
+Solubility,ADMETlab 3.0,402,0,blank,finite
+Solubility,ADMETlab 3.0,403,1,finite,finite
+Solubility,ADMETlab 3.0,404,1,finite,finite
+Solubility,ADMETlab 3.0,405,0,blank,finite
+Solubility,ADMETlab 3.0,406,1,finite,finite
+Solubility,ADMETlab 3.0,407,1,finite,finite
+Solubility,ADMETlab 3.0,408,1,finite,finite
+Solubility,ADMETlab 3.0,409,1,finite,finite
+Solubility,ADMETlab 3.0,410,1,finite,finite
+Solubility,ADMETlab 3.0,411,1,finite,finite
+Solubility,ADMETlab 3.0,412,1,finite,finite
+Solubility,ADMETlab 3.0,413,1,finite,finite
+Solubility,ADMETlab 3.0,414,1,finite,finite
+Solubility,ADMETlab 3.0,415,1,finite,finite
+Solubility,ADMETlab 3.0,416,1,finite,finite
+Solubility,ADMETlab 3.0,417,1,finite,finite
+Solubility,ADMETlab 3.0,418,1,finite,finite
+Solubility,ADMETlab 3.0,419,1,finite,finite
+Solubility,ADMETlab 3.0,420,1,finite,finite
+Solubility,ADMETlab 3.0,421,1,finite,finite
+Solubility,ADMETlab 3.0,422,1,finite,finite
+Solubility,ADMETlab 3.0,423,1,finite,finite
+Solubility,ADMETlab 3.0,424,1,finite,finite
+Solubility,ADMETlab 3.0,425,1,finite,finite
+Solubility,ADMETlab 3.0,426,0,blank,finite
+Solubility,ADMETlab 3.0,427,1,finite,finite
+Solubility,ADMETlab 3.0,428,1,finite,finite
+Solubility,ADMETlab 3.0,429,1,finite,finite
+Solubility,ADMETlab 3.0,430,1,finite,finite
+Solubility,ADMETlab 3.0,431,1,finite,finite
+Solubility,ADMETlab 3.0,432,1,finite,finite
+Solubility,ADMETlab 3.0,433,1,finite,finite
+Solubility,ADMETlab 3.0,434,1,finite,finite
+Solubility,ADMETlab 3.0,435,1,finite,finite
+Solubility,ADMETlab 3.0,436,1,finite,finite
+Solubility,ADMETlab 3.0,437,1,finite,finite
+Solubility,ADMETlab 3.0,438,1,finite,finite
+Solubility,ADMETlab 3.0,439,1,finite,finite
+Solubility,ADMETlab 3.0,440,1,finite,finite
+Solubility,ADMETlab 3.0,441,1,finite,finite
+Solubility,ADMETlab 3.0,442,1,finite,finite
+Solubility,ADMETlab 3.0,443,1,finite,finite
+Solubility,ADMETlab 3.0,444,1,finite,finite
+Solubility,ADMETlab 3.0,445,0,blank,finite
+Solubility,ADMETlab 3.0,446,1,finite,finite
+Solubility,ADMETlab 3.0,447,1,finite,finite
+Solubility,ADMETlab 3.0,448,1,finite,finite
+Solubility,ADMETlab 3.0,449,1,finite,finite
+Solubility,ADMETlab 3.0,450,1,finite,finite
+Solubility,ADMETlab 3.0,451,1,finite,finite
+Solubility,ADMETlab 3.0,452,1,finite,finite
+Solubility,ADMETlab 3.0,453,1,finite,finite
+Solubility,ADMETlab 3.0,454,1,finite,finite
+Solubility,ADMETlab 3.0,455,1,finite,finite
+Solubility,ADMETlab 3.0,456,1,finite,finite
+Solubility,ADMETlab 3.0,457,1,finite,finite
+Solubility,ADMETlab 3.0,458,1,finite,finite
+Solubility,ADMETlab 3.0,459,1,finite,finite
+Solubility,ADMETlab 3.0,460,1,finite,finite
+Solubility,ADMETlab 3.0,461,1,finite,finite
+Solubility,ADMETlab 3.0,462,1,finite,finite
+Solubility,ADMETlab 3.0,463,1,finite,finite
+Solubility,ADMETlab 3.0,464,1,finite,finite
+Solubility,ADMETlab 3.0,465,1,finite,finite
+Solubility,ADMETlab 3.0,466,1,finite,finite
+Solubility,ADMETlab 3.0,467,1,finite,finite
+Solubility,ADMETlab 3.0,468,1,finite,finite
+Solubility,ADMETlab 3.0,469,0,blank,finite
+Solubility,ADMETlab 3.0,470,0,blank,finite
+Solubility,ADMETlab 3.0,471,0,blank,finite
+Solubility,ADMETlab 3.0,472,0,blank,finite
+Solubility,ADMETlab 3.0,473,0,blank,finite
+Solubility,ADMETlab 3.0,474,0,blank,finite
+Solubility,ADMETlab 3.0,475,0,blank,finite
+Solubility,ADMETlab 3.0,476,0,blank,finite
+Solubility,ADMETlab 3.0,477,0,blank,finite
+Solubility,ADMETlab 3.0,478,0,blank,finite
+Solubility,ADMETlab 3.0,479,0,blank,finite
+Solubility,ADMETlab 3.0,480,0,blank,finite
+Solubility,ADMETlab 3.0,481,0,blank,finite
+Solubility,ADMETlab 3.0,482,0,blank,finite
+Solubility,ADMETlab 3.0,483,0,blank,finite
+Solubility,ADMETlab 3.0,484,0,blank,finite
+Solubility,ADMETlab 3.0,485,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,229,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,230,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,231,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,232,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,233,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,234,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,235,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,236,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,237,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,238,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,239,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,240,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,241,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,242,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,243,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,244,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,245,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,246,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,247,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,248,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,249,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,250,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,251,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,252,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,253,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,254,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,255,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,256,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,257,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,258,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,259,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,260,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,261,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,262,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,263,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,264,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,265,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,266,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,267,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,268,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,269,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,270,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,271,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,272,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,273,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,274,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,275,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,276,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,277,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,278,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,279,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,280,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,281,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,282,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,283,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,284,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,285,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,286,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,287,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,288,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,289,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,290,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,291,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,292,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,293,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,294,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,295,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,296,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,297,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,298,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,299,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,300,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,301,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,302,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,303,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,304,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,305,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,306,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,307,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,308,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,309,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,310,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,311,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,312,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,313,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,314,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,315,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,316,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,317,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,318,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,319,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,320,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,321,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,322,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,323,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,324,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,325,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,326,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,327,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,328,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,329,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,330,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,331,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,332,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,333,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,334,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,335,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,336,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,337,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,338,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,339,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,340,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,341,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,342,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,343,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,344,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,345,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,346,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,347,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,348,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,349,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,350,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,351,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,352,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,353,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,354,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,355,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,356,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,357,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,358,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,359,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,360,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,361,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,362,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,363,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,364,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,365,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,366,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,367,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,368,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,369,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,370,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,371,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,372,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,373,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,374,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,375,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,376,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,377,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,378,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,379,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,380,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,381,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,382,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,383,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,384,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,385,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,386,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,387,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,388,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,389,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,390,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,391,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,392,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,393,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,394,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,395,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,396,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,397,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,398,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,399,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,400,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,401,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,402,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,403,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,404,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,405,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,406,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,407,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,408,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,409,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,410,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,411,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,412,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,413,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,414,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,415,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,416,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,417,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,418,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,419,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,420,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,421,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,422,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,423,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,424,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,425,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,426,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,427,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,428,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,429,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,430,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,431,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,432,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,433,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,434,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,435,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,436,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,437,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,438,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,439,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,440,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,441,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,442,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,443,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,444,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,445,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,446,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,447,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,448,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,449,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,450,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,451,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,452,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,453,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,454,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,455,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,456,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,457,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,458,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,459,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,460,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,461,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,462,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,463,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,464,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,465,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,466,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,467,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,468,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,469,1,finite,finite
+Plasma T1/2,ADMETlab 3.0,470,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,471,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,472,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,473,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,474,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,475,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,476,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,477,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,478,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,479,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,480,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,481,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,482,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,483,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,484,0,blank,finite
+Plasma T1/2,ADMETlab 3.0,485,0,blank,finite
+Permeability,Deep-PK,229,1,finite,finite
+Permeability,Deep-PK,230,1,finite,finite
+Permeability,Deep-PK,231,1,finite,finite
+Permeability,Deep-PK,232,1,finite,finite
+Permeability,Deep-PK,233,1,finite,finite
+Permeability,Deep-PK,234,1,finite,finite
+Permeability,Deep-PK,235,1,finite,finite
+Permeability,Deep-PK,236,1,finite,finite
+Permeability,Deep-PK,237,1,finite,finite
+Permeability,Deep-PK,238,1,finite,finite
+Permeability,Deep-PK,239,1,finite,finite
+Permeability,Deep-PK,240,1,finite,finite
+Permeability,Deep-PK,241,1,finite,finite
+Permeability,Deep-PK,242,1,finite,finite
+Permeability,Deep-PK,243,1,finite,finite
+Permeability,Deep-PK,244,1,finite,finite
+Permeability,Deep-PK,245,1,finite,finite
+Permeability,Deep-PK,246,1,finite,finite
+Permeability,Deep-PK,247,1,finite,finite
+Permeability,Deep-PK,248,1,finite,finite
+Permeability,Deep-PK,249,1,finite,finite
+Permeability,Deep-PK,250,1,finite,finite
+Permeability,Deep-PK,251,1,finite,finite
+Permeability,Deep-PK,252,1,finite,finite
+Permeability,Deep-PK,253,1,finite,finite
+Permeability,Deep-PK,254,1,finite,finite
+Permeability,Deep-PK,255,1,finite,finite
+Permeability,Deep-PK,256,1,finite,finite
+Permeability,Deep-PK,257,1,finite,finite
+Permeability,Deep-PK,258,1,finite,finite
+Permeability,Deep-PK,259,1,finite,finite
+Permeability,Deep-PK,260,1,finite,finite
+Permeability,Deep-PK,261,1,finite,finite
+Permeability,Deep-PK,262,1,finite,finite
+Permeability,Deep-PK,263,1,finite,finite
+Permeability,Deep-PK,264,1,finite,finite
+Permeability,Deep-PK,265,1,finite,finite
+Permeability,Deep-PK,266,1,finite,finite
+Permeability,Deep-PK,267,1,finite,finite
+Permeability,Deep-PK,268,1,finite,finite
+Permeability,Deep-PK,269,1,finite,finite
+Permeability,Deep-PK,270,1,finite,finite
+Permeability,Deep-PK,271,1,finite,finite
+Permeability,Deep-PK,272,1,finite,finite
+Permeability,Deep-PK,273,1,finite,finite
+Permeability,Deep-PK,274,1,finite,finite
+Permeability,Deep-PK,275,1,finite,finite
+Permeability,Deep-PK,276,1,finite,finite
+Permeability,Deep-PK,277,1,finite,finite
+Permeability,Deep-PK,278,1,finite,finite
+Permeability,Deep-PK,279,1,finite,finite
+Permeability,Deep-PK,280,0,blank,finite
+Permeability,Deep-PK,281,1,finite,finite
+Permeability,Deep-PK,282,1,finite,finite
+Permeability,Deep-PK,283,1,finite,finite
+Permeability,Deep-PK,284,1,finite,finite
+Permeability,Deep-PK,285,1,finite,finite
+Permeability,Deep-PK,286,1,finite,finite
+Permeability,Deep-PK,287,1,finite,finite
+Permeability,Deep-PK,288,1,finite,finite
+Permeability,Deep-PK,289,1,finite,finite
+Permeability,Deep-PK,290,1,finite,finite
+Permeability,Deep-PK,291,1,finite,finite
+Permeability,Deep-PK,292,1,finite,finite
+Permeability,Deep-PK,293,1,finite,finite
+Permeability,Deep-PK,294,1,finite,finite
+Permeability,Deep-PK,295,1,finite,finite
+Permeability,Deep-PK,296,1,finite,finite
+Permeability,Deep-PK,297,1,finite,finite
+Permeability,Deep-PK,298,1,finite,finite
+Permeability,Deep-PK,299,1,finite,finite
+Permeability,Deep-PK,300,1,finite,finite
+Permeability,Deep-PK,301,1,finite,finite
+Permeability,Deep-PK,302,1,finite,finite
+Permeability,Deep-PK,303,1,finite,finite
+Permeability,Deep-PK,304,1,finite,finite
+Permeability,Deep-PK,305,1,finite,finite
+Permeability,Deep-PK,306,1,finite,finite
+Permeability,Deep-PK,307,1,finite,finite
+Permeability,Deep-PK,308,1,finite,finite
+Permeability,Deep-PK,309,1,finite,finite
+Permeability,Deep-PK,310,1,finite,finite
+Permeability,Deep-PK,311,1,finite,finite
+Permeability,Deep-PK,312,1,finite,finite
+Permeability,Deep-PK,313,1,finite,finite
+Permeability,Deep-PK,314,1,finite,finite
+Permeability,Deep-PK,315,1,finite,finite
+Permeability,Deep-PK,316,1,finite,finite
+Permeability,Deep-PK,317,1,finite,finite
+Permeability,Deep-PK,318,1,finite,finite
+Permeability,Deep-PK,319,1,finite,finite
+Permeability,Deep-PK,320,1,finite,finite
+Permeability,Deep-PK,321,1,finite,finite
+Permeability,Deep-PK,322,1,finite,finite
+Permeability,Deep-PK,323,1,finite,finite
+Permeability,Deep-PK,324,1,finite,finite
+Permeability,Deep-PK,325,1,finite,finite
+Permeability,Deep-PK,326,1,finite,finite
+Permeability,Deep-PK,327,1,finite,finite
+Permeability,Deep-PK,328,1,finite,finite
+Permeability,Deep-PK,329,1,finite,finite
+Permeability,Deep-PK,330,1,finite,finite
+Permeability,Deep-PK,331,1,finite,finite
+Permeability,Deep-PK,332,1,finite,finite
+Permeability,Deep-PK,333,1,finite,finite
+Permeability,Deep-PK,334,1,finite,finite
+Permeability,Deep-PK,335,1,finite,finite
+Permeability,Deep-PK,336,1,finite,finite
+Permeability,Deep-PK,337,1,finite,finite
+Permeability,Deep-PK,338,1,finite,finite
+Permeability,Deep-PK,339,1,finite,finite
+Permeability,Deep-PK,340,1,finite,finite
+Permeability,Deep-PK,341,1,finite,finite
+Permeability,Deep-PK,342,1,finite,finite
+Permeability,Deep-PK,343,1,finite,finite
+Permeability,Deep-PK,344,1,finite,finite
+Permeability,Deep-PK,345,1,finite,finite
+Permeability,Deep-PK,346,1,finite,finite
+Permeability,Deep-PK,347,1,finite,finite
+Permeability,Deep-PK,348,1,finite,finite
+Permeability,Deep-PK,349,1,finite,finite
+Permeability,Deep-PK,350,1,finite,finite
+Permeability,Deep-PK,351,1,finite,finite
+Permeability,Deep-PK,352,1,finite,finite
+Permeability,Deep-PK,353,1,finite,finite
+Permeability,Deep-PK,354,1,finite,finite
+Permeability,Deep-PK,355,1,finite,finite
+Permeability,Deep-PK,356,1,finite,finite
+Permeability,Deep-PK,357,1,finite,finite
+Permeability,Deep-PK,358,1,finite,finite
+Permeability,Deep-PK,359,1,finite,finite
+Permeability,Deep-PK,360,1,finite,finite
+Permeability,Deep-PK,361,1,finite,finite
+Permeability,Deep-PK,362,1,finite,finite
+Permeability,Deep-PK,363,1,finite,finite
+Permeability,Deep-PK,364,1,finite,finite
+Permeability,Deep-PK,365,1,finite,finite
+Permeability,Deep-PK,366,1,finite,finite
+Permeability,Deep-PK,367,1,finite,finite
+Permeability,Deep-PK,368,1,finite,finite
+Permeability,Deep-PK,369,1,finite,finite
+Permeability,Deep-PK,370,1,finite,finite
+Permeability,Deep-PK,371,1,finite,finite
+Permeability,Deep-PK,372,1,finite,finite
+Permeability,Deep-PK,373,1,finite,finite
+Permeability,Deep-PK,374,1,finite,finite
+Permeability,Deep-PK,375,1,finite,finite
+Permeability,Deep-PK,376,1,finite,finite
+Permeability,Deep-PK,377,1,finite,finite
+Permeability,Deep-PK,378,1,finite,finite
+Permeability,Deep-PK,379,1,finite,finite
+Permeability,Deep-PK,380,1,finite,finite
+Permeability,Deep-PK,381,1,finite,finite
+Permeability,Deep-PK,382,1,finite,finite
+Permeability,Deep-PK,383,1,finite,finite
+Permeability,Deep-PK,384,1,finite,finite
+Permeability,Deep-PK,385,1,finite,finite
+Permeability,Deep-PK,386,1,finite,finite
+Permeability,Deep-PK,387,1,finite,finite
+Permeability,Deep-PK,388,1,finite,finite
+Permeability,Deep-PK,389,1,finite,finite
+Permeability,Deep-PK,390,1,finite,finite
+Permeability,Deep-PK,391,1,finite,finite
+Permeability,Deep-PK,392,1,finite,finite
+Permeability,Deep-PK,393,1,finite,finite
+Permeability,Deep-PK,394,1,finite,finite
+Permeability,Deep-PK,395,1,finite,finite
+Permeability,Deep-PK,396,1,finite,finite
+Permeability,Deep-PK,397,1,finite,finite
+Permeability,Deep-PK,398,1,finite,finite
+Permeability,Deep-PK,399,1,finite,finite
+Permeability,Deep-PK,400,1,finite,finite
+Permeability,Deep-PK,401,1,finite,finite
+Permeability,Deep-PK,402,1,finite,finite
+Permeability,Deep-PK,403,1,finite,finite
+Permeability,Deep-PK,404,1,finite,finite
+Permeability,Deep-PK,405,1,finite,finite
+Permeability,Deep-PK,406,1,finite,finite
+Permeability,Deep-PK,407,1,finite,finite
+Permeability,Deep-PK,408,1,finite,finite
+Permeability,Deep-PK,409,1,finite,finite
+Permeability,Deep-PK,410,1,finite,finite
+Permeability,Deep-PK,411,1,finite,finite
+Permeability,Deep-PK,412,1,finite,finite
+Permeability,Deep-PK,413,1,finite,finite
+Permeability,Deep-PK,414,1,finite,finite
+Permeability,Deep-PK,415,1,finite,finite
+Permeability,Deep-PK,416,1,finite,finite
+Permeability,Deep-PK,417,1,finite,finite
+Permeability,Deep-PK,418,1,finite,finite
+Permeability,Deep-PK,419,1,finite,finite
+Permeability,Deep-PK,420,1,finite,finite
+Permeability,Deep-PK,421,1,finite,finite
+Permeability,Deep-PK,422,1,finite,finite
+Permeability,Deep-PK,423,1,finite,finite
+Permeability,Deep-PK,424,1,finite,finite
+Permeability,Deep-PK,425,1,finite,finite
+Permeability,Deep-PK,426,1,finite,finite
+Permeability,Deep-PK,427,1,finite,finite
+Permeability,Deep-PK,428,1,finite,finite
+Permeability,Deep-PK,429,1,finite,finite
+Permeability,Deep-PK,430,1,finite,finite
+Permeability,Deep-PK,431,1,finite,finite
+Permeability,Deep-PK,432,1,finite,finite
+Permeability,Deep-PK,433,1,finite,finite
+Permeability,Deep-PK,434,1,finite,finite
+Permeability,Deep-PK,435,1,finite,finite
+Permeability,Deep-PK,436,1,finite,finite
+Permeability,Deep-PK,437,1,finite,finite
+Permeability,Deep-PK,438,1,finite,finite
+Permeability,Deep-PK,439,1,finite,finite
+Permeability,Deep-PK,440,1,finite,finite
+Permeability,Deep-PK,441,1,finite,finite
+Permeability,Deep-PK,442,1,finite,finite
+Permeability,Deep-PK,443,1,finite,finite
+Permeability,Deep-PK,444,1,finite,finite
+Permeability,Deep-PK,445,1,finite,finite
+Permeability,Deep-PK,446,1,finite,finite
+Permeability,Deep-PK,447,1,finite,finite
+Permeability,Deep-PK,448,1,finite,finite
+Permeability,Deep-PK,449,1,finite,finite
+Permeability,Deep-PK,450,1,finite,finite
+Permeability,Deep-PK,451,1,finite,finite
+Permeability,Deep-PK,452,1,finite,finite
+Permeability,Deep-PK,453,1,finite,finite
+Permeability,Deep-PK,454,1,finite,finite
+Permeability,Deep-PK,455,1,finite,finite
+Permeability,Deep-PK,456,1,finite,finite
+Permeability,Deep-PK,457,1,finite,finite
+Permeability,Deep-PK,458,1,finite,finite
+Permeability,Deep-PK,459,1,finite,finite
+Permeability,Deep-PK,460,1,finite,finite
+Permeability,Deep-PK,461,1,finite,finite
+Permeability,Deep-PK,462,1,finite,finite
+Permeability,Deep-PK,463,1,finite,finite
+Permeability,Deep-PK,464,1,finite,finite
+Permeability,Deep-PK,465,1,finite,finite
+Permeability,Deep-PK,466,1,finite,finite
+Permeability,Deep-PK,467,1,finite,finite
+Permeability,Deep-PK,468,1,finite,finite
+Permeability,Deep-PK,469,1,finite,finite
+Permeability,Deep-PK,470,0,blank,finite
+Permeability,Deep-PK,471,0,blank,finite
+Permeability,Deep-PK,472,0,blank,finite
+Permeability,Deep-PK,473,0,blank,finite
+Permeability,Deep-PK,474,0,blank,finite
+Permeability,Deep-PK,475,0,blank,finite
+Permeability,Deep-PK,476,0,blank,finite
+Permeability,Deep-PK,477,0,blank,finite
+Permeability,Deep-PK,478,0,blank,finite
+Permeability,Deep-PK,479,0,blank,finite
+Permeability,Deep-PK,480,0,blank,finite
+Permeability,Deep-PK,481,0,blank,finite
+Permeability,Deep-PK,482,0,blank,finite
+Permeability,Deep-PK,483,0,blank,finite
+Permeability,Deep-PK,484,0,blank,finite
+Permeability,Deep-PK,485,0,blank,finite
+Permeability,ADMET-AI,229,1,finite,finite
+Permeability,ADMET-AI,230,1,finite,finite
+Permeability,ADMET-AI,231,1,finite,finite
+Permeability,ADMET-AI,232,1,finite,finite
+Permeability,ADMET-AI,233,1,finite,finite
+Permeability,ADMET-AI,234,1,finite,finite
+Permeability,ADMET-AI,235,1,finite,finite
+Permeability,ADMET-AI,236,1,finite,finite
+Permeability,ADMET-AI,237,1,finite,finite
+Permeability,ADMET-AI,238,1,finite,finite
+Permeability,ADMET-AI,239,1,finite,finite
+Permeability,ADMET-AI,240,1,finite,finite
+Permeability,ADMET-AI,241,1,finite,finite
+Permeability,ADMET-AI,242,1,finite,finite
+Permeability,ADMET-AI,243,1,finite,finite
+Permeability,ADMET-AI,244,1,finite,finite
+Permeability,ADMET-AI,245,1,finite,finite
+Permeability,ADMET-AI,246,1,finite,finite
+Permeability,ADMET-AI,247,1,finite,finite
+Permeability,ADMET-AI,248,1,finite,finite
+Permeability,ADMET-AI,249,1,finite,finite
+Permeability,ADMET-AI,250,1,finite,finite
+Permeability,ADMET-AI,251,1,finite,finite
+Permeability,ADMET-AI,252,1,finite,finite
+Permeability,ADMET-AI,253,1,finite,finite
+Permeability,ADMET-AI,254,1,finite,finite
+Permeability,ADMET-AI,255,1,finite,finite
+Permeability,ADMET-AI,256,1,finite,finite
+Permeability,ADMET-AI,257,1,finite,finite
+Permeability,ADMET-AI,258,1,finite,finite
+Permeability,ADMET-AI,259,1,finite,finite
+Permeability,ADMET-AI,260,1,finite,finite
+Permeability,ADMET-AI,261,1,finite,finite
+Permeability,ADMET-AI,262,1,finite,finite
+Permeability,ADMET-AI,263,1,finite,finite
+Permeability,ADMET-AI,264,1,finite,finite
+Permeability,ADMET-AI,265,1,finite,finite
+Permeability,ADMET-AI,266,1,finite,finite
+Permeability,ADMET-AI,267,1,finite,finite
+Permeability,ADMET-AI,268,1,finite,finite
+Permeability,ADMET-AI,269,1,finite,finite
+Permeability,ADMET-AI,270,1,finite,finite
+Permeability,ADMET-AI,271,1,finite,finite
+Permeability,ADMET-AI,272,1,finite,finite
+Permeability,ADMET-AI,273,1,finite,finite
+Permeability,ADMET-AI,274,1,finite,finite
+Permeability,ADMET-AI,275,1,finite,finite
+Permeability,ADMET-AI,276,1,finite,finite
+Permeability,ADMET-AI,277,1,finite,finite
+Permeability,ADMET-AI,278,1,finite,finite
+Permeability,ADMET-AI,279,1,finite,finite
+Permeability,ADMET-AI,280,0,blank,finite
+Permeability,ADMET-AI,281,1,finite,finite
+Permeability,ADMET-AI,282,1,finite,finite
+Permeability,ADMET-AI,283,1,finite,finite
+Permeability,ADMET-AI,284,1,finite,finite
+Permeability,ADMET-AI,285,1,finite,finite
+Permeability,ADMET-AI,286,1,finite,finite
+Permeability,ADMET-AI,287,1,finite,finite
+Permeability,ADMET-AI,288,1,finite,finite
+Permeability,ADMET-AI,289,1,finite,finite
+Permeability,ADMET-AI,290,1,finite,finite
+Permeability,ADMET-AI,291,1,finite,finite
+Permeability,ADMET-AI,292,1,finite,finite
+Permeability,ADMET-AI,293,1,finite,finite
+Permeability,ADMET-AI,294,1,finite,finite
+Permeability,ADMET-AI,295,1,finite,finite
+Permeability,ADMET-AI,296,1,finite,finite
+Permeability,ADMET-AI,297,1,finite,finite
+Permeability,ADMET-AI,298,1,finite,finite
+Permeability,ADMET-AI,299,1,finite,finite
+Permeability,ADMET-AI,300,1,finite,finite
+Permeability,ADMET-AI,301,1,finite,finite
+Permeability,ADMET-AI,302,1,finite,finite
+Permeability,ADMET-AI,303,1,finite,finite
+Permeability,ADMET-AI,304,1,finite,finite
+Permeability,ADMET-AI,305,1,finite,finite
+Permeability,ADMET-AI,306,1,finite,finite
+Permeability,ADMET-AI,307,1,finite,finite
+Permeability,ADMET-AI,308,1,finite,finite
+Permeability,ADMET-AI,309,1,finite,finite
+Permeability,ADMET-AI,310,1,finite,finite
+Permeability,ADMET-AI,311,1,finite,finite
+Permeability,ADMET-AI,312,1,finite,finite
+Permeability,ADMET-AI,313,1,finite,finite
+Permeability,ADMET-AI,314,1,finite,finite
+Permeability,ADMET-AI,315,1,finite,finite
+Permeability,ADMET-AI,316,1,finite,finite
+Permeability,ADMET-AI,317,1,finite,finite
+Permeability,ADMET-AI,318,1,finite,finite
+Permeability,ADMET-AI,319,1,finite,finite
+Permeability,ADMET-AI,320,1,finite,finite
+Permeability,ADMET-AI,321,1,finite,finite
+Permeability,ADMET-AI,322,1,finite,finite
+Permeability,ADMET-AI,323,1,finite,finite
+Permeability,ADMET-AI,324,1,finite,finite
+Permeability,ADMET-AI,325,1,finite,finite
+Permeability,ADMET-AI,326,1,finite,finite
+Permeability,ADMET-AI,327,1,finite,finite
+Permeability,ADMET-AI,328,1,finite,finite
+Permeability,ADMET-AI,329,1,finite,finite
+Permeability,ADMET-AI,330,1,finite,finite
+Permeability,ADMET-AI,331,1,finite,finite
+Permeability,ADMET-AI,332,1,finite,finite
+Permeability,ADMET-AI,333,1,finite,finite
+Permeability,ADMET-AI,334,1,finite,finite
+Permeability,ADMET-AI,335,1,finite,finite
+Permeability,ADMET-AI,336,1,finite,finite
+Permeability,ADMET-AI,337,1,finite,finite
+Permeability,ADMET-AI,338,1,finite,finite
+Permeability,ADMET-AI,339,1,finite,finite
+Permeability,ADMET-AI,340,1,finite,finite
+Permeability,ADMET-AI,341,1,finite,finite
+Permeability,ADMET-AI,342,1,finite,finite
+Permeability,ADMET-AI,343,1,finite,finite
+Permeability,ADMET-AI,344,1,finite,finite
+Permeability,ADMET-AI,345,1,finite,finite
+Permeability,ADMET-AI,346,1,finite,finite
+Permeability,ADMET-AI,347,1,finite,finite
+Permeability,ADMET-AI,348,1,finite,finite
+Permeability,ADMET-AI,349,1,finite,finite
+Permeability,ADMET-AI,350,1,finite,finite
+Permeability,ADMET-AI,351,1,finite,finite
+Permeability,ADMET-AI,352,1,finite,finite
+Permeability,ADMET-AI,353,1,finite,finite
+Permeability,ADMET-AI,354,1,finite,finite
+Permeability,ADMET-AI,355,1,finite,finite
+Permeability,ADMET-AI,356,1,finite,finite
+Permeability,ADMET-AI,357,1,finite,finite
+Permeability,ADMET-AI,358,1,finite,finite
+Permeability,ADMET-AI,359,1,finite,finite
+Permeability,ADMET-AI,360,1,finite,finite
+Permeability,ADMET-AI,361,1,finite,finite
+Permeability,ADMET-AI,362,1,finite,finite
+Permeability,ADMET-AI,363,1,finite,finite
+Permeability,ADMET-AI,364,1,finite,finite
+Permeability,ADMET-AI,365,1,finite,finite
+Permeability,ADMET-AI,366,1,finite,finite
+Permeability,ADMET-AI,367,1,finite,finite
+Permeability,ADMET-AI,368,1,finite,finite
+Permeability,ADMET-AI,369,1,finite,finite
+Permeability,ADMET-AI,370,1,finite,finite
+Permeability,ADMET-AI,371,1,finite,finite
+Permeability,ADMET-AI,372,1,finite,finite
+Permeability,ADMET-AI,373,1,finite,finite
+Permeability,ADMET-AI,374,1,finite,finite
+Permeability,ADMET-AI,375,1,finite,finite
+Permeability,ADMET-AI,376,1,finite,finite
+Permeability,ADMET-AI,377,1,finite,finite
+Permeability,ADMET-AI,378,1,finite,finite
+Permeability,ADMET-AI,379,1,finite,finite
+Permeability,ADMET-AI,380,1,finite,finite
+Permeability,ADMET-AI,381,1,finite,finite
+Permeability,ADMET-AI,382,1,finite,finite
+Permeability,ADMET-AI,383,1,finite,finite
+Permeability,ADMET-AI,384,1,finite,finite
+Permeability,ADMET-AI,385,1,finite,finite
+Permeability,ADMET-AI,386,1,finite,finite
+Permeability,ADMET-AI,387,1,finite,finite
+Permeability,ADMET-AI,388,1,finite,finite
+Permeability,ADMET-AI,389,1,finite,finite
+Permeability,ADMET-AI,390,1,finite,finite
+Permeability,ADMET-AI,391,1,finite,finite
+Permeability,ADMET-AI,392,1,finite,finite
+Permeability,ADMET-AI,393,1,finite,finite
+Permeability,ADMET-AI,394,1,finite,finite
+Permeability,ADMET-AI,395,1,finite,finite
+Permeability,ADMET-AI,396,1,finite,finite
+Permeability,ADMET-AI,397,1,finite,finite
+Permeability,ADMET-AI,398,1,finite,finite
+Permeability,ADMET-AI,399,1,finite,finite
+Permeability,ADMET-AI,400,1,finite,finite
+Permeability,ADMET-AI,401,1,finite,finite
+Permeability,ADMET-AI,402,1,finite,finite
+Permeability,ADMET-AI,403,1,finite,finite
+Permeability,ADMET-AI,404,1,finite,finite
+Permeability,ADMET-AI,405,1,finite,finite
+Permeability,ADMET-AI,406,1,finite,finite
+Permeability,ADMET-AI,407,1,finite,finite
+Permeability,ADMET-AI,408,1,finite,finite
+Permeability,ADMET-AI,409,1,finite,finite
+Permeability,ADMET-AI,410,1,finite,finite
+Permeability,ADMET-AI,411,1,finite,finite
+Permeability,ADMET-AI,412,1,finite,finite
+Permeability,ADMET-AI,413,1,finite,finite
+Permeability,ADMET-AI,414,1,finite,finite
+Permeability,ADMET-AI,415,1,finite,finite
+Permeability,ADMET-AI,416,1,finite,finite
+Permeability,ADMET-AI,417,1,finite,finite
+Permeability,ADMET-AI,418,1,finite,finite
+Permeability,ADMET-AI,419,1,finite,finite
+Permeability,ADMET-AI,420,1,finite,finite
+Permeability,ADMET-AI,421,1,finite,finite
+Permeability,ADMET-AI,422,1,finite,finite
+Permeability,ADMET-AI,423,1,finite,finite
+Permeability,ADMET-AI,424,1,finite,finite
+Permeability,ADMET-AI,425,1,finite,finite
+Permeability,ADMET-AI,426,1,finite,finite
+Permeability,ADMET-AI,427,1,finite,finite
+Permeability,ADMET-AI,428,1,finite,finite
+Permeability,ADMET-AI,429,1,finite,finite
+Permeability,ADMET-AI,430,1,finite,finite
+Permeability,ADMET-AI,431,1,finite,finite
+Permeability,ADMET-AI,432,1,finite,finite
+Permeability,ADMET-AI,433,1,finite,finite
+Permeability,ADMET-AI,434,1,finite,finite
+Permeability,ADMET-AI,435,1,finite,finite
+Permeability,ADMET-AI,436,1,finite,finite
+Permeability,ADMET-AI,437,1,finite,finite
+Permeability,ADMET-AI,438,1,finite,finite
+Permeability,ADMET-AI,439,1,finite,finite
+Permeability,ADMET-AI,440,1,finite,finite
+Permeability,ADMET-AI,441,1,finite,finite
+Permeability,ADMET-AI,442,1,finite,finite
+Permeability,ADMET-AI,443,1,finite,finite
+Permeability,ADMET-AI,444,1,finite,finite
+Permeability,ADMET-AI,445,1,finite,finite
+Permeability,ADMET-AI,446,1,finite,finite
+Permeability,ADMET-AI,447,1,finite,finite
+Permeability,ADMET-AI,448,1,finite,finite
+Permeability,ADMET-AI,449,1,finite,finite
+Permeability,ADMET-AI,450,1,finite,finite
+Permeability,ADMET-AI,451,1,finite,finite
+Permeability,ADMET-AI,452,1,finite,finite
+Permeability,ADMET-AI,453,1,finite,finite
+Permeability,ADMET-AI,454,1,finite,finite
+Permeability,ADMET-AI,455,1,finite,finite
+Permeability,ADMET-AI,456,1,finite,finite
+Permeability,ADMET-AI,457,1,finite,finite
+Permeability,ADMET-AI,458,1,finite,finite
+Permeability,ADMET-AI,459,1,finite,finite
+Permeability,ADMET-AI,460,1,finite,finite
+Permeability,ADMET-AI,461,1,finite,finite
+Permeability,ADMET-AI,462,1,finite,finite
+Permeability,ADMET-AI,463,1,finite,finite
+Permeability,ADMET-AI,464,1,finite,finite
+Permeability,ADMET-AI,465,1,finite,finite
+Permeability,ADMET-AI,466,1,finite,finite
+Permeability,ADMET-AI,467,1,finite,finite
+Permeability,ADMET-AI,468,1,finite,finite
+Permeability,ADMET-AI,469,1,finite,finite
+Permeability,ADMET-AI,470,0,blank,finite
+Permeability,ADMET-AI,471,0,blank,finite
+Permeability,ADMET-AI,472,0,blank,finite
+Permeability,ADMET-AI,473,0,blank,finite
+Permeability,ADMET-AI,474,0,blank,finite
+Permeability,ADMET-AI,475,0,blank,finite
+Permeability,ADMET-AI,476,0,blank,finite
+Permeability,ADMET-AI,477,0,blank,finite
+Permeability,ADMET-AI,478,0,blank,finite
+Permeability,ADMET-AI,479,0,blank,finite
+Permeability,ADMET-AI,480,0,blank,finite
+Permeability,ADMET-AI,481,0,blank,finite
+Permeability,ADMET-AI,482,0,blank,finite
+Permeability,ADMET-AI,483,0,blank,finite
+Permeability,ADMET-AI,484,0,blank,finite
+Permeability,ADMET-AI,485,0,blank,finite
+Permeability,ADMETlab 3.0,229,1,finite,finite
+Permeability,ADMETlab 3.0,230,1,finite,finite
+Permeability,ADMETlab 3.0,231,1,finite,finite
+Permeability,ADMETlab 3.0,232,1,finite,finite
+Permeability,ADMETlab 3.0,233,1,finite,finite
+Permeability,ADMETlab 3.0,234,1,finite,finite
+Permeability,ADMETlab 3.0,235,1,finite,finite
+Permeability,ADMETlab 3.0,236,1,finite,finite
+Permeability,ADMETlab 3.0,237,1,finite,finite
+Permeability,ADMETlab 3.0,238,1,finite,finite
+Permeability,ADMETlab 3.0,239,1,finite,finite
+Permeability,ADMETlab 3.0,240,1,finite,finite
+Permeability,ADMETlab 3.0,241,1,finite,finite
+Permeability,ADMETlab 3.0,242,1,finite,finite
+Permeability,ADMETlab 3.0,243,1,finite,finite
+Permeability,ADMETlab 3.0,244,1,finite,finite
+Permeability,ADMETlab 3.0,245,1,finite,finite
+Permeability,ADMETlab 3.0,246,1,finite,finite
+Permeability,ADMETlab 3.0,247,1,finite,finite
+Permeability,ADMETlab 3.0,248,1,finite,finite
+Permeability,ADMETlab 3.0,249,1,finite,finite
+Permeability,ADMETlab 3.0,250,1,finite,finite
+Permeability,ADMETlab 3.0,251,1,finite,finite
+Permeability,ADMETlab 3.0,252,1,finite,finite
+Permeability,ADMETlab 3.0,253,1,finite,finite
+Permeability,ADMETlab 3.0,254,1,finite,finite
+Permeability,ADMETlab 3.0,255,1,finite,finite
+Permeability,ADMETlab 3.0,256,1,finite,finite
+Permeability,ADMETlab 3.0,257,1,finite,finite
+Permeability,ADMETlab 3.0,258,1,finite,finite
+Permeability,ADMETlab 3.0,259,1,finite,finite
+Permeability,ADMETlab 3.0,260,1,finite,finite
+Permeability,ADMETlab 3.0,261,1,finite,finite
+Permeability,ADMETlab 3.0,262,1,finite,finite
+Permeability,ADMETlab 3.0,263,1,finite,finite
+Permeability,ADMETlab 3.0,264,1,finite,finite
+Permeability,ADMETlab 3.0,265,1,finite,finite
+Permeability,ADMETlab 3.0,266,1,finite,finite
+Permeability,ADMETlab 3.0,267,1,finite,finite
+Permeability,ADMETlab 3.0,268,1,finite,finite
+Permeability,ADMETlab 3.0,269,1,finite,finite
+Permeability,ADMETlab 3.0,270,1,finite,finite
+Permeability,ADMETlab 3.0,271,1,finite,finite
+Permeability,ADMETlab 3.0,272,1,finite,finite
+Permeability,ADMETlab 3.0,273,1,finite,finite
+Permeability,ADMETlab 3.0,274,1,finite,finite
+Permeability,ADMETlab 3.0,275,1,finite,finite
+Permeability,ADMETlab 3.0,276,1,finite,finite
+Permeability,ADMETlab 3.0,277,1,finite,finite
+Permeability,ADMETlab 3.0,278,1,finite,finite
+Permeability,ADMETlab 3.0,279,1,finite,finite
+Permeability,ADMETlab 3.0,280,0,blank,finite
+Permeability,ADMETlab 3.0,281,1,finite,finite
+Permeability,ADMETlab 3.0,282,1,finite,finite
+Permeability,ADMETlab 3.0,283,1,finite,finite
+Permeability,ADMETlab 3.0,284,1,finite,finite
+Permeability,ADMETlab 3.0,285,1,finite,finite
+Permeability,ADMETlab 3.0,286,1,finite,finite
+Permeability,ADMETlab 3.0,287,1,finite,finite
+Permeability,ADMETlab 3.0,288,1,finite,finite
+Permeability,ADMETlab 3.0,289,1,finite,finite
+Permeability,ADMETlab 3.0,290,1,finite,finite
+Permeability,ADMETlab 3.0,291,1,finite,finite
+Permeability,ADMETlab 3.0,292,1,finite,finite
+Permeability,ADMETlab 3.0,293,1,finite,finite
+Permeability,ADMETlab 3.0,294,1,finite,finite
+Permeability,ADMETlab 3.0,295,1,finite,finite
+Permeability,ADMETlab 3.0,296,1,finite,finite
+Permeability,ADMETlab 3.0,297,1,finite,finite
+Permeability,ADMETlab 3.0,298,1,finite,finite
+Permeability,ADMETlab 3.0,299,1,finite,finite
+Permeability,ADMETlab 3.0,300,1,finite,finite
+Permeability,ADMETlab 3.0,301,1,finite,finite
+Permeability,ADMETlab 3.0,302,1,finite,finite
+Permeability,ADMETlab 3.0,303,1,finite,finite
+Permeability,ADMETlab 3.0,304,1,finite,finite
+Permeability,ADMETlab 3.0,305,1,finite,finite
+Permeability,ADMETlab 3.0,306,1,finite,finite
+Permeability,ADMETlab 3.0,307,1,finite,finite
+Permeability,ADMETlab 3.0,308,1,finite,finite
+Permeability,ADMETlab 3.0,309,1,finite,finite
+Permeability,ADMETlab 3.0,310,1,finite,finite
+Permeability,ADMETlab 3.0,311,1,finite,finite
+Permeability,ADMETlab 3.0,312,1,finite,finite
+Permeability,ADMETlab 3.0,313,1,finite,finite
+Permeability,ADMETlab 3.0,314,1,finite,finite
+Permeability,ADMETlab 3.0,315,1,finite,finite
+Permeability,ADMETlab 3.0,316,1,finite,finite
+Permeability,ADMETlab 3.0,317,1,finite,finite
+Permeability,ADMETlab 3.0,318,1,finite,finite
+Permeability,ADMETlab 3.0,319,1,finite,finite
+Permeability,ADMETlab 3.0,320,1,finite,finite
+Permeability,ADMETlab 3.0,321,1,finite,finite
+Permeability,ADMETlab 3.0,322,1,finite,finite
+Permeability,ADMETlab 3.0,323,1,finite,finite
+Permeability,ADMETlab 3.0,324,1,finite,finite
+Permeability,ADMETlab 3.0,325,1,finite,finite
+Permeability,ADMETlab 3.0,326,1,finite,finite
+Permeability,ADMETlab 3.0,327,1,finite,finite
+Permeability,ADMETlab 3.0,328,1,finite,finite
+Permeability,ADMETlab 3.0,329,1,finite,finite
+Permeability,ADMETlab 3.0,330,1,finite,finite
+Permeability,ADMETlab 3.0,331,1,finite,finite
+Permeability,ADMETlab 3.0,332,1,finite,finite
+Permeability,ADMETlab 3.0,333,1,finite,finite
+Permeability,ADMETlab 3.0,334,1,finite,finite
+Permeability,ADMETlab 3.0,335,1,finite,finite
+Permeability,ADMETlab 3.0,336,1,finite,finite
+Permeability,ADMETlab 3.0,337,1,finite,finite
+Permeability,ADMETlab 3.0,338,1,finite,finite
+Permeability,ADMETlab 3.0,339,1,finite,finite
+Permeability,ADMETlab 3.0,340,1,finite,finite
+Permeability,ADMETlab 3.0,341,1,finite,finite
+Permeability,ADMETlab 3.0,342,1,finite,finite
+Permeability,ADMETlab 3.0,343,1,finite,finite
+Permeability,ADMETlab 3.0,344,1,finite,finite
+Permeability,ADMETlab 3.0,345,1,finite,finite
+Permeability,ADMETlab 3.0,346,1,finite,finite
+Permeability,ADMETlab 3.0,347,1,finite,finite
+Permeability,ADMETlab 3.0,348,1,finite,finite
+Permeability,ADMETlab 3.0,349,1,finite,finite
+Permeability,ADMETlab 3.0,350,1,finite,finite
+Permeability,ADMETlab 3.0,351,1,finite,finite
+Permeability,ADMETlab 3.0,352,1,finite,finite
+Permeability,ADMETlab 3.0,353,1,finite,finite
+Permeability,ADMETlab 3.0,354,1,finite,finite
+Permeability,ADMETlab 3.0,355,1,finite,finite
+Permeability,ADMETlab 3.0,356,1,finite,finite
+Permeability,ADMETlab 3.0,357,1,finite,finite
+Permeability,ADMETlab 3.0,358,1,finite,finite
+Permeability,ADMETlab 3.0,359,1,finite,finite
+Permeability,ADMETlab 3.0,360,1,finite,finite
+Permeability,ADMETlab 3.0,361,1,finite,finite
+Permeability,ADMETlab 3.0,362,1,finite,finite
+Permeability,ADMETlab 3.0,363,1,finite,finite
+Permeability,ADMETlab 3.0,364,1,finite,finite
+Permeability,ADMETlab 3.0,365,1,finite,finite
+Permeability,ADMETlab 3.0,366,1,finite,finite
+Permeability,ADMETlab 3.0,367,1,finite,finite
+Permeability,ADMETlab 3.0,368,1,finite,finite
+Permeability,ADMETlab 3.0,369,1,finite,finite
+Permeability,ADMETlab 3.0,370,1,finite,finite
+Permeability,ADMETlab 3.0,371,1,finite,finite
+Permeability,ADMETlab 3.0,372,1,finite,finite
+Permeability,ADMETlab 3.0,373,1,finite,finite
+Permeability,ADMETlab 3.0,374,1,finite,finite
+Permeability,ADMETlab 3.0,375,1,finite,finite
+Permeability,ADMETlab 3.0,376,1,finite,finite
+Permeability,ADMETlab 3.0,377,1,finite,finite
+Permeability,ADMETlab 3.0,378,1,finite,finite
+Permeability,ADMETlab 3.0,379,1,finite,finite
+Permeability,ADMETlab 3.0,380,1,finite,finite
+Permeability,ADMETlab 3.0,381,1,finite,finite
+Permeability,ADMETlab 3.0,382,1,finite,finite
+Permeability,ADMETlab 3.0,383,1,finite,finite
+Permeability,ADMETlab 3.0,384,1,finite,finite
+Permeability,ADMETlab 3.0,385,1,finite,finite
+Permeability,ADMETlab 3.0,386,1,finite,finite
+Permeability,ADMETlab 3.0,387,1,finite,finite
+Permeability,ADMETlab 3.0,388,1,finite,finite
+Permeability,ADMETlab 3.0,389,1,finite,finite
+Permeability,ADMETlab 3.0,390,1,finite,finite
+Permeability,ADMETlab 3.0,391,1,finite,finite
+Permeability,ADMETlab 3.0,392,1,finite,finite
+Permeability,ADMETlab 3.0,393,1,finite,finite
+Permeability,ADMETlab 3.0,394,1,finite,finite
+Permeability,ADMETlab 3.0,395,1,finite,finite
+Permeability,ADMETlab 3.0,396,1,finite,finite
+Permeability,ADMETlab 3.0,397,1,finite,finite
+Permeability,ADMETlab 3.0,398,1,finite,finite
+Permeability,ADMETlab 3.0,399,1,finite,finite
+Permeability,ADMETlab 3.0,400,1,finite,finite
+Permeability,ADMETlab 3.0,401,1,finite,finite
+Permeability,ADMETlab 3.0,402,1,finite,finite
+Permeability,ADMETlab 3.0,403,1,finite,finite
+Permeability,ADMETlab 3.0,404,1,finite,finite
+Permeability,ADMETlab 3.0,405,1,finite,finite
+Permeability,ADMETlab 3.0,406,1,finite,finite
+Permeability,ADMETlab 3.0,407,1,finite,finite
+Permeability,ADMETlab 3.0,408,1,finite,finite
+Permeability,ADMETlab 3.0,409,1,finite,finite
+Permeability,ADMETlab 3.0,410,1,finite,finite
+Permeability,ADMETlab 3.0,411,1,finite,finite
+Permeability,ADMETlab 3.0,412,1,finite,finite
+Permeability,ADMETlab 3.0,413,1,finite,finite
+Permeability,ADMETlab 3.0,414,1,finite,finite
+Permeability,ADMETlab 3.0,415,1,finite,finite
+Permeability,ADMETlab 3.0,416,1,finite,finite
+Permeability,ADMETlab 3.0,417,1,finite,finite
+Permeability,ADMETlab 3.0,418,1,finite,finite
+Permeability,ADMETlab 3.0,419,1,finite,finite
+Permeability,ADMETlab 3.0,420,1,finite,finite
+Permeability,ADMETlab 3.0,421,1,finite,finite
+Permeability,ADMETlab 3.0,422,1,finite,finite
+Permeability,ADMETlab 3.0,423,1,finite,finite
+Permeability,ADMETlab 3.0,424,1,finite,finite
+Permeability,ADMETlab 3.0,425,1,finite,finite
+Permeability,ADMETlab 3.0,426,1,finite,finite
+Permeability,ADMETlab 3.0,427,1,finite,finite
+Permeability,ADMETlab 3.0,428,1,finite,finite
+Permeability,ADMETlab 3.0,429,1,finite,finite
+Permeability,ADMETlab 3.0,430,1,finite,finite
+Permeability,ADMETlab 3.0,431,1,finite,finite
+Permeability,ADMETlab 3.0,432,1,finite,finite
+Permeability,ADMETlab 3.0,433,1,finite,finite
+Permeability,ADMETlab 3.0,434,1,finite,finite
+Permeability,ADMETlab 3.0,435,1,finite,finite
+Permeability,ADMETlab 3.0,436,1,finite,finite
+Permeability,ADMETlab 3.0,437,1,finite,finite
+Permeability,ADMETlab 3.0,438,1,finite,finite
+Permeability,ADMETlab 3.0,439,1,finite,finite
+Permeability,ADMETlab 3.0,440,1,finite,finite
+Permeability,ADMETlab 3.0,441,1,finite,finite
+Permeability,ADMETlab 3.0,442,1,finite,finite
+Permeability,ADMETlab 3.0,443,1,finite,finite
+Permeability,ADMETlab 3.0,444,1,finite,finite
+Permeability,ADMETlab 3.0,445,1,finite,finite
+Permeability,ADMETlab 3.0,446,1,finite,finite
+Permeability,ADMETlab 3.0,447,1,finite,finite
+Permeability,ADMETlab 3.0,448,1,finite,finite
+Permeability,ADMETlab 3.0,449,1,finite,finite
+Permeability,ADMETlab 3.0,450,1,finite,finite
+Permeability,ADMETlab 3.0,451,1,finite,finite
+Permeability,ADMETlab 3.0,452,1,finite,finite
+Permeability,ADMETlab 3.0,453,1,finite,finite
+Permeability,ADMETlab 3.0,454,1,finite,finite
+Permeability,ADMETlab 3.0,455,1,finite,finite
+Permeability,ADMETlab 3.0,456,1,finite,finite
+Permeability,ADMETlab 3.0,457,1,finite,finite
+Permeability,ADMETlab 3.0,458,1,finite,finite
+Permeability,ADMETlab 3.0,459,1,finite,finite
+Permeability,ADMETlab 3.0,460,1,finite,finite
+Permeability,ADMETlab 3.0,461,1,finite,finite
+Permeability,ADMETlab 3.0,462,1,finite,finite
+Permeability,ADMETlab 3.0,463,1,finite,finite
+Permeability,ADMETlab 3.0,464,1,finite,finite
+Permeability,ADMETlab 3.0,465,1,finite,finite
+Permeability,ADMETlab 3.0,466,1,finite,finite
+Permeability,ADMETlab 3.0,467,1,finite,finite
+Permeability,ADMETlab 3.0,468,1,finite,finite
+Permeability,ADMETlab 3.0,469,1,finite,finite
+Permeability,ADMETlab 3.0,470,0,blank,finite
+Permeability,ADMETlab 3.0,471,0,blank,finite
+Permeability,ADMETlab 3.0,472,0,blank,finite
+Permeability,ADMETlab 3.0,473,0,blank,finite
+Permeability,ADMETlab 3.0,474,0,blank,finite
+Permeability,ADMETlab 3.0,475,0,blank,finite
+Permeability,ADMETlab 3.0,476,0,blank,finite
+Permeability,ADMETlab 3.0,477,0,blank,finite
+Permeability,ADMETlab 3.0,478,0,blank,finite
+Permeability,ADMETlab 3.0,479,0,blank,finite
+Permeability,ADMETlab 3.0,480,0,blank,finite
+Permeability,ADMETlab 3.0,481,0,blank,finite
+Permeability,ADMETlab 3.0,482,0,blank,finite
+Permeability,ADMETlab 3.0,483,0,blank,finite
+Permeability,ADMETlab 3.0,484,0,blank,finite
+Permeability,ADMETlab 3.0,485,0,blank,finite
+Microsomes T1/2,Deep-PK,229,1,finite,finite
+Microsomes T1/2,Deep-PK,230,1,finite,finite
+Microsomes T1/2,Deep-PK,231,1,finite,finite
+Microsomes T1/2,Deep-PK,232,0,finite,blank
+Microsomes T1/2,Deep-PK,233,0,finite,blank
+Microsomes T1/2,Deep-PK,234,1,finite,finite
+Microsomes T1/2,Deep-PK,235,1,finite,finite
+Microsomes T1/2,Deep-PK,236,1,finite,finite
+Microsomes T1/2,Deep-PK,237,1,finite,finite
+Microsomes T1/2,Deep-PK,238,1,finite,finite
+Microsomes T1/2,Deep-PK,239,1,finite,finite
+Microsomes T1/2,Deep-PK,240,1,finite,finite
+Microsomes T1/2,Deep-PK,241,1,finite,finite
+Microsomes T1/2,Deep-PK,242,1,finite,finite
+Microsomes T1/2,Deep-PK,243,0,finite,blank
+Microsomes T1/2,Deep-PK,244,0,finite,blank
+Microsomes T1/2,Deep-PK,245,1,finite,finite
+Microsomes T1/2,Deep-PK,246,1,finite,finite
+Microsomes T1/2,Deep-PK,247,1,finite,finite
+Microsomes T1/2,Deep-PK,248,1,finite,finite
+Microsomes T1/2,Deep-PK,249,1,finite,finite
+Microsomes T1/2,Deep-PK,250,1,finite,finite
+Microsomes T1/2,Deep-PK,251,1,finite,finite
+Microsomes T1/2,Deep-PK,252,1,finite,finite
+Microsomes T1/2,Deep-PK,253,1,finite,finite
+Microsomes T1/2,Deep-PK,254,1,finite,finite
+Microsomes T1/2,Deep-PK,255,1,finite,finite
+Microsomes T1/2,Deep-PK,256,1,finite,finite
+Microsomes T1/2,Deep-PK,257,1,finite,finite
+Microsomes T1/2,Deep-PK,258,1,finite,finite
+Microsomes T1/2,Deep-PK,259,1,finite,finite
+Microsomes T1/2,Deep-PK,260,1,finite,finite
+Microsomes T1/2,Deep-PK,261,0,finite,blank
+Microsomes T1/2,Deep-PK,262,0,finite,blank
+Microsomes T1/2,Deep-PK,263,0,finite,blank
+Microsomes T1/2,Deep-PK,264,1,finite,finite
+Microsomes T1/2,Deep-PK,265,1,finite,finite
+Microsomes T1/2,Deep-PK,266,1,finite,finite
+Microsomes T1/2,Deep-PK,267,1,finite,finite
+Microsomes T1/2,Deep-PK,268,1,finite,finite
+Microsomes T1/2,Deep-PK,269,1,finite,finite
+Microsomes T1/2,Deep-PK,270,1,finite,finite
+Microsomes T1/2,Deep-PK,271,1,finite,finite
+Microsomes T1/2,Deep-PK,272,1,finite,finite
+Microsomes T1/2,Deep-PK,273,1,finite,finite
+Microsomes T1/2,Deep-PK,274,1,finite,finite
+Microsomes T1/2,Deep-PK,275,1,finite,finite
+Microsomes T1/2,Deep-PK,276,1,finite,finite
+Microsomes T1/2,Deep-PK,277,1,finite,finite
+Microsomes T1/2,Deep-PK,278,1,finite,finite
+Microsomes T1/2,Deep-PK,279,1,finite,finite
+Microsomes T1/2,Deep-PK,280,0,blank,finite
+Microsomes T1/2,Deep-PK,281,1,finite,finite
+Microsomes T1/2,Deep-PK,282,1,finite,finite
+Microsomes T1/2,Deep-PK,283,1,finite,finite
+Microsomes T1/2,Deep-PK,284,1,finite,finite
+Microsomes T1/2,Deep-PK,285,1,finite,finite
+Microsomes T1/2,Deep-PK,286,1,finite,finite
+Microsomes T1/2,Deep-PK,287,1,finite,finite
+Microsomes T1/2,Deep-PK,288,1,finite,finite
+Microsomes T1/2,Deep-PK,289,1,finite,finite
+Microsomes T1/2,Deep-PK,290,1,finite,finite
+Microsomes T1/2,Deep-PK,291,1,finite,finite
+Microsomes T1/2,Deep-PK,292,1,finite,finite
+Microsomes T1/2,Deep-PK,293,1,finite,finite
+Microsomes T1/2,Deep-PK,294,1,finite,finite
+Microsomes T1/2,Deep-PK,295,1,finite,finite
+Microsomes T1/2,Deep-PK,296,1,finite,finite
+Microsomes T1/2,Deep-PK,297,1,finite,finite
+Microsomes T1/2,Deep-PK,298,1,finite,finite
+Microsomes T1/2,Deep-PK,299,1,finite,finite
+Microsomes T1/2,Deep-PK,300,1,finite,finite
+Microsomes T1/2,Deep-PK,301,1,finite,finite
+Microsomes T1/2,Deep-PK,302,1,finite,finite
+Microsomes T1/2,Deep-PK,303,1,finite,finite
+Microsomes T1/2,Deep-PK,304,1,finite,finite
+Microsomes T1/2,Deep-PK,305,1,finite,finite
+Microsomes T1/2,Deep-PK,306,1,finite,finite
+Microsomes T1/2,Deep-PK,307,1,finite,finite
+Microsomes T1/2,Deep-PK,308,1,finite,finite
+Microsomes T1/2,Deep-PK,309,1,finite,finite
+Microsomes T1/2,Deep-PK,310,1,finite,finite
+Microsomes T1/2,Deep-PK,311,1,finite,finite
+Microsomes T1/2,Deep-PK,312,1,finite,finite
+Microsomes T1/2,Deep-PK,313,1,finite,finite
+Microsomes T1/2,Deep-PK,314,1,finite,finite
+Microsomes T1/2,Deep-PK,315,1,finite,finite
+Microsomes T1/2,Deep-PK,316,1,finite,finite
+Microsomes T1/2,Deep-PK,317,1,finite,finite
+Microsomes T1/2,Deep-PK,318,1,finite,finite
+Microsomes T1/2,Deep-PK,319,1,finite,finite
+Microsomes T1/2,Deep-PK,320,1,finite,finite
+Microsomes T1/2,Deep-PK,321,1,finite,finite
+Microsomes T1/2,Deep-PK,322,1,finite,finite
+Microsomes T1/2,Deep-PK,323,1,finite,finite
+Microsomes T1/2,Deep-PK,324,1,finite,finite
+Microsomes T1/2,Deep-PK,325,1,finite,finite
+Microsomes T1/2,Deep-PK,326,1,finite,finite
+Microsomes T1/2,Deep-PK,327,1,finite,finite
+Microsomes T1/2,Deep-PK,328,1,finite,finite
+Microsomes T1/2,Deep-PK,329,1,finite,finite
+Microsomes T1/2,Deep-PK,330,1,finite,finite
+Microsomes T1/2,Deep-PK,331,1,finite,finite
+Microsomes T1/2,Deep-PK,332,1,finite,finite
+Microsomes T1/2,Deep-PK,333,1,finite,finite
+Microsomes T1/2,Deep-PK,334,1,finite,finite
+Microsomes T1/2,Deep-PK,335,1,finite,finite
+Microsomes T1/2,Deep-PK,336,1,finite,finite
+Microsomes T1/2,Deep-PK,337,1,finite,finite
+Microsomes T1/2,Deep-PK,338,1,finite,finite
+Microsomes T1/2,Deep-PK,339,1,finite,finite
+Microsomes T1/2,Deep-PK,340,1,finite,finite
+Microsomes T1/2,Deep-PK,341,1,finite,finite
+Microsomes T1/2,Deep-PK,342,1,finite,finite
+Microsomes T1/2,Deep-PK,343,1,finite,finite
+Microsomes T1/2,Deep-PK,344,1,finite,finite
+Microsomes T1/2,Deep-PK,345,1,finite,finite
+Microsomes T1/2,Deep-PK,346,1,finite,finite
+Microsomes T1/2,Deep-PK,347,1,finite,finite
+Microsomes T1/2,Deep-PK,348,1,finite,finite
+Microsomes T1/2,Deep-PK,349,1,finite,finite
+Microsomes T1/2,Deep-PK,350,1,finite,finite
+Microsomes T1/2,Deep-PK,351,1,finite,finite
+Microsomes T1/2,Deep-PK,352,1,finite,finite
+Microsomes T1/2,Deep-PK,353,1,finite,finite
+Microsomes T1/2,Deep-PK,354,1,finite,finite
+Microsomes T1/2,Deep-PK,355,1,finite,finite
+Microsomes T1/2,Deep-PK,356,1,finite,finite
+Microsomes T1/2,Deep-PK,357,1,finite,finite
+Microsomes T1/2,Deep-PK,358,1,finite,finite
+Microsomes T1/2,Deep-PK,359,1,finite,finite
+Microsomes T1/2,Deep-PK,360,1,finite,finite
+Microsomes T1/2,Deep-PK,361,1,finite,finite
+Microsomes T1/2,Deep-PK,362,1,finite,finite
+Microsomes T1/2,Deep-PK,363,1,finite,finite
+Microsomes T1/2,Deep-PK,364,1,finite,finite
+Microsomes T1/2,Deep-PK,365,1,finite,finite
+Microsomes T1/2,Deep-PK,366,1,finite,finite
+Microsomes T1/2,Deep-PK,367,1,finite,finite
+Microsomes T1/2,Deep-PK,368,1,finite,finite
+Microsomes T1/2,Deep-PK,369,1,finite,finite
+Microsomes T1/2,Deep-PK,370,1,finite,finite
+Microsomes T1/2,Deep-PK,371,1,finite,finite
+Microsomes T1/2,Deep-PK,372,1,finite,finite
+Microsomes T1/2,Deep-PK,373,1,finite,finite
+Microsomes T1/2,Deep-PK,374,1,finite,finite
+Microsomes T1/2,Deep-PK,375,1,finite,finite
+Microsomes T1/2,Deep-PK,376,1,finite,finite
+Microsomes T1/2,Deep-PK,377,1,finite,finite
+Microsomes T1/2,Deep-PK,378,1,finite,finite
+Microsomes T1/2,Deep-PK,379,1,finite,finite
+Microsomes T1/2,Deep-PK,380,1,finite,finite
+Microsomes T1/2,Deep-PK,381,1,finite,finite
+Microsomes T1/2,Deep-PK,382,1,finite,finite
+Microsomes T1/2,Deep-PK,383,1,finite,finite
+Microsomes T1/2,Deep-PK,384,1,finite,finite
+Microsomes T1/2,Deep-PK,385,1,finite,finite
+Microsomes T1/2,Deep-PK,386,1,finite,finite
+Microsomes T1/2,Deep-PK,387,1,finite,finite
+Microsomes T1/2,Deep-PK,388,1,finite,finite
+Microsomes T1/2,Deep-PK,389,1,finite,finite
+Microsomes T1/2,Deep-PK,390,1,finite,finite
+Microsomes T1/2,Deep-PK,391,1,finite,finite
+Microsomes T1/2,Deep-PK,392,1,finite,finite
+Microsomes T1/2,Deep-PK,393,1,finite,finite
+Microsomes T1/2,Deep-PK,394,1,finite,finite
+Microsomes T1/2,Deep-PK,395,1,finite,finite
+Microsomes T1/2,Deep-PK,396,1,finite,finite
+Microsomes T1/2,Deep-PK,397,1,finite,finite
+Microsomes T1/2,Deep-PK,398,1,finite,finite
+Microsomes T1/2,Deep-PK,399,1,finite,finite
+Microsomes T1/2,Deep-PK,400,1,finite,finite
+Microsomes T1/2,Deep-PK,401,1,finite,finite
+Microsomes T1/2,Deep-PK,402,1,finite,finite
+Microsomes T1/2,Deep-PK,403,1,finite,finite
+Microsomes T1/2,Deep-PK,404,1,finite,finite
+Microsomes T1/2,Deep-PK,405,1,finite,finite
+Microsomes T1/2,Deep-PK,406,1,finite,finite
+Microsomes T1/2,Deep-PK,407,1,finite,finite
+Microsomes T1/2,Deep-PK,408,1,finite,finite
+Microsomes T1/2,Deep-PK,409,1,finite,finite
+Microsomes T1/2,Deep-PK,410,1,finite,finite
+Microsomes T1/2,Deep-PK,411,1,finite,finite
+Microsomes T1/2,Deep-PK,412,1,finite,finite
+Microsomes T1/2,Deep-PK,413,1,finite,finite
+Microsomes T1/2,Deep-PK,414,1,finite,finite
+Microsomes T1/2,Deep-PK,415,1,finite,finite
+Microsomes T1/2,Deep-PK,416,1,finite,finite
+Microsomes T1/2,Deep-PK,417,1,finite,finite
+Microsomes T1/2,Deep-PK,418,1,finite,finite
+Microsomes T1/2,Deep-PK,419,1,finite,finite
+Microsomes T1/2,Deep-PK,420,1,finite,finite
+Microsomes T1/2,Deep-PK,421,1,finite,finite
+Microsomes T1/2,Deep-PK,422,1,finite,finite
+Microsomes T1/2,Deep-PK,423,1,finite,finite
+Microsomes T1/2,Deep-PK,424,1,finite,finite
+Microsomes T1/2,Deep-PK,425,1,finite,finite
+Microsomes T1/2,Deep-PK,426,1,finite,finite
+Microsomes T1/2,Deep-PK,427,1,finite,finite
+Microsomes T1/2,Deep-PK,428,1,finite,finite
+Microsomes T1/2,Deep-PK,429,1,finite,finite
+Microsomes T1/2,Deep-PK,430,1,finite,finite
+Microsomes T1/2,Deep-PK,431,1,finite,finite
+Microsomes T1/2,Deep-PK,432,1,finite,finite
+Microsomes T1/2,Deep-PK,433,1,finite,finite
+Microsomes T1/2,Deep-PK,434,1,finite,finite
+Microsomes T1/2,Deep-PK,435,1,finite,finite
+Microsomes T1/2,Deep-PK,436,1,finite,finite
+Microsomes T1/2,Deep-PK,437,1,finite,finite
+Microsomes T1/2,Deep-PK,438,1,finite,finite
+Microsomes T1/2,Deep-PK,439,1,finite,finite
+Microsomes T1/2,Deep-PK,440,1,finite,finite
+Microsomes T1/2,Deep-PK,441,1,finite,finite
+Microsomes T1/2,Deep-PK,442,1,finite,finite
+Microsomes T1/2,Deep-PK,443,1,finite,finite
+Microsomes T1/2,Deep-PK,444,1,finite,finite
+Microsomes T1/2,Deep-PK,445,1,finite,finite
+Microsomes T1/2,Deep-PK,446,1,finite,finite
+Microsomes T1/2,Deep-PK,447,1,finite,finite
+Microsomes T1/2,Deep-PK,448,1,finite,finite
+Microsomes T1/2,Deep-PK,449,1,finite,finite
+Microsomes T1/2,Deep-PK,450,1,finite,finite
+Microsomes T1/2,Deep-PK,451,1,finite,finite
+Microsomes T1/2,Deep-PK,452,1,finite,finite
+Microsomes T1/2,Deep-PK,453,1,finite,finite
+Microsomes T1/2,Deep-PK,454,1,finite,finite
+Microsomes T1/2,Deep-PK,455,1,finite,finite
+Microsomes T1/2,Deep-PK,456,1,finite,finite
+Microsomes T1/2,Deep-PK,457,1,finite,finite
+Microsomes T1/2,Deep-PK,458,1,finite,finite
+Microsomes T1/2,Deep-PK,459,1,finite,finite
+Microsomes T1/2,Deep-PK,460,1,finite,finite
+Microsomes T1/2,Deep-PK,461,1,finite,finite
+Microsomes T1/2,Deep-PK,462,1,finite,finite
+Microsomes T1/2,Deep-PK,463,1,finite,finite
+Microsomes T1/2,Deep-PK,464,1,finite,finite
+Microsomes T1/2,Deep-PK,465,1,finite,finite
+Microsomes T1/2,Deep-PK,466,1,finite,finite
+Microsomes T1/2,Deep-PK,467,1,finite,finite
+Microsomes T1/2,Deep-PK,468,1,finite,finite
+Microsomes T1/2,Deep-PK,469,1,finite,finite
+Microsomes T1/2,Deep-PK,470,0,blank,finite
+Microsomes T1/2,Deep-PK,471,0,blank,finite
+Microsomes T1/2,Deep-PK,472,0,blank,finite
+Microsomes T1/2,Deep-PK,473,0,blank,finite
+Microsomes T1/2,Deep-PK,474,0,blank,finite
+Microsomes T1/2,Deep-PK,475,0,blank,finite
+Microsomes T1/2,Deep-PK,476,0,blank,finite
+Microsomes T1/2,Deep-PK,477,0,blank,finite
+Microsomes T1/2,Deep-PK,478,0,blank,finite
+Microsomes T1/2,Deep-PK,479,0,blank,finite
+Microsomes T1/2,Deep-PK,480,0,blank,finite
+Microsomes T1/2,Deep-PK,481,0,blank,finite
+Microsomes T1/2,Deep-PK,482,0,blank,finite
+Microsomes T1/2,Deep-PK,483,0,blank,finite
+Microsomes T1/2,Deep-PK,484,0,blank,finite
+Microsomes T1/2,Deep-PK,485,0,blank,finite
+Microsomes T1/2,ADMET-AI,229,1,finite,finite
+Microsomes T1/2,ADMET-AI,230,1,finite,finite
+Microsomes T1/2,ADMET-AI,231,1,finite,finite
+Microsomes T1/2,ADMET-AI,232,0,finite,blank
+Microsomes T1/2,ADMET-AI,233,0,finite,blank
+Microsomes T1/2,ADMET-AI,234,1,finite,finite
+Microsomes T1/2,ADMET-AI,235,0,finite,blank
+Microsomes T1/2,ADMET-AI,236,1,finite,finite
+Microsomes T1/2,ADMET-AI,237,1,finite,finite
+Microsomes T1/2,ADMET-AI,238,0,finite,blank
+Microsomes T1/2,ADMET-AI,239,0,finite,blank
+Microsomes T1/2,ADMET-AI,240,0,finite,blank
+Microsomes T1/2,ADMET-AI,241,0,finite,blank
+Microsomes T1/2,ADMET-AI,242,0,finite,blank
+Microsomes T1/2,ADMET-AI,243,0,finite,blank
+Microsomes T1/2,ADMET-AI,244,0,finite,blank
+Microsomes T1/2,ADMET-AI,245,0,finite,blank
+Microsomes T1/2,ADMET-AI,246,0,finite,blank
+Microsomes T1/2,ADMET-AI,247,0,finite,blank
+Microsomes T1/2,ADMET-AI,248,0,finite,blank
+Microsomes T1/2,ADMET-AI,249,0,finite,blank
+Microsomes T1/2,ADMET-AI,250,0,finite,blank
+Microsomes T1/2,ADMET-AI,251,0,finite,blank
+Microsomes T1/2,ADMET-AI,252,0,finite,blank
+Microsomes T1/2,ADMET-AI,253,0,finite,blank
+Microsomes T1/2,ADMET-AI,254,0,finite,blank
+Microsomes T1/2,ADMET-AI,255,0,finite,blank
+Microsomes T1/2,ADMET-AI,256,0,finite,blank
+Microsomes T1/2,ADMET-AI,257,0,finite,blank
+Microsomes T1/2,ADMET-AI,258,0,finite,blank
+Microsomes T1/2,ADMET-AI,259,0,finite,blank
+Microsomes T1/2,ADMET-AI,260,0,finite,blank
+Microsomes T1/2,ADMET-AI,261,0,finite,blank
+Microsomes T1/2,ADMET-AI,262,0,finite,blank
+Microsomes T1/2,ADMET-AI,263,0,finite,blank
+Microsomes T1/2,ADMET-AI,264,0,finite,blank
+Microsomes T1/2,ADMET-AI,265,0,finite,blank
+Microsomes T1/2,ADMET-AI,266,1,finite,finite
+Microsomes T1/2,ADMET-AI,267,1,finite,finite
+Microsomes T1/2,ADMET-AI,268,1,finite,finite
+Microsomes T1/2,ADMET-AI,269,1,finite,finite
+Microsomes T1/2,ADMET-AI,270,1,finite,finite
+Microsomes T1/2,ADMET-AI,271,1,finite,finite
+Microsomes T1/2,ADMET-AI,272,1,finite,finite
+Microsomes T1/2,ADMET-AI,273,1,finite,finite
+Microsomes T1/2,ADMET-AI,274,1,finite,finite
+Microsomes T1/2,ADMET-AI,275,1,finite,finite
+Microsomes T1/2,ADMET-AI,276,1,finite,finite
+Microsomes T1/2,ADMET-AI,277,1,finite,finite
+Microsomes T1/2,ADMET-AI,278,1,finite,finite
+Microsomes T1/2,ADMET-AI,279,1,finite,finite
+Microsomes T1/2,ADMET-AI,280,0,blank,finite
+Microsomes T1/2,ADMET-AI,281,1,finite,finite
+Microsomes T1/2,ADMET-AI,282,1,finite,finite
+Microsomes T1/2,ADMET-AI,283,1,finite,finite
+Microsomes T1/2,ADMET-AI,284,1,finite,finite
+Microsomes T1/2,ADMET-AI,285,1,finite,finite
+Microsomes T1/2,ADMET-AI,286,1,finite,finite
+Microsomes T1/2,ADMET-AI,287,1,finite,finite
+Microsomes T1/2,ADMET-AI,288,1,finite,finite
+Microsomes T1/2,ADMET-AI,289,1,finite,finite
+Microsomes T1/2,ADMET-AI,290,1,finite,finite
+Microsomes T1/2,ADMET-AI,291,1,finite,finite
+Microsomes T1/2,ADMET-AI,292,1,finite,finite
+Microsomes T1/2,ADMET-AI,293,1,finite,finite
+Microsomes T1/2,ADMET-AI,294,1,finite,finite
+Microsomes T1/2,ADMET-AI,295,1,finite,finite
+Microsomes T1/2,ADMET-AI,296,1,finite,finite
+Microsomes T1/2,ADMET-AI,297,1,finite,finite
+Microsomes T1/2,ADMET-AI,298,1,finite,finite
+Microsomes T1/2,ADMET-AI,299,1,finite,finite
+Microsomes T1/2,ADMET-AI,300,1,finite,finite
+Microsomes T1/2,ADMET-AI,301,1,finite,finite
+Microsomes T1/2,ADMET-AI,302,1,finite,finite
+Microsomes T1/2,ADMET-AI,303,1,finite,finite
+Microsomes T1/2,ADMET-AI,304,1,finite,finite
+Microsomes T1/2,ADMET-AI,305,1,finite,finite
+Microsomes T1/2,ADMET-AI,306,1,finite,finite
+Microsomes T1/2,ADMET-AI,307,1,finite,finite
+Microsomes T1/2,ADMET-AI,308,1,finite,finite
+Microsomes T1/2,ADMET-AI,309,1,finite,finite
+Microsomes T1/2,ADMET-AI,310,1,finite,finite
+Microsomes T1/2,ADMET-AI,311,1,finite,finite
+Microsomes T1/2,ADMET-AI,312,1,finite,finite
+Microsomes T1/2,ADMET-AI,313,1,finite,finite
+Microsomes T1/2,ADMET-AI,314,1,finite,finite
+Microsomes T1/2,ADMET-AI,315,1,finite,finite
+Microsomes T1/2,ADMET-AI,316,1,finite,finite
+Microsomes T1/2,ADMET-AI,317,1,finite,finite
+Microsomes T1/2,ADMET-AI,318,1,finite,finite
+Microsomes T1/2,ADMET-AI,319,1,finite,finite
+Microsomes T1/2,ADMET-AI,320,1,finite,finite
+Microsomes T1/2,ADMET-AI,321,1,finite,finite
+Microsomes T1/2,ADMET-AI,322,1,finite,finite
+Microsomes T1/2,ADMET-AI,323,1,finite,finite
+Microsomes T1/2,ADMET-AI,324,1,finite,finite
+Microsomes T1/2,ADMET-AI,325,1,finite,finite
+Microsomes T1/2,ADMET-AI,326,1,finite,finite
+Microsomes T1/2,ADMET-AI,327,1,finite,finite
+Microsomes T1/2,ADMET-AI,328,1,finite,finite
+Microsomes T1/2,ADMET-AI,329,1,finite,finite
+Microsomes T1/2,ADMET-AI,330,1,finite,finite
+Microsomes T1/2,ADMET-AI,331,1,finite,finite
+Microsomes T1/2,ADMET-AI,332,1,finite,finite
+Microsomes T1/2,ADMET-AI,333,1,finite,finite
+Microsomes T1/2,ADMET-AI,334,1,finite,finite
+Microsomes T1/2,ADMET-AI,335,1,finite,finite
+Microsomes T1/2,ADMET-AI,336,1,finite,finite
+Microsomes T1/2,ADMET-AI,337,1,finite,finite
+Microsomes T1/2,ADMET-AI,338,1,finite,finite
+Microsomes T1/2,ADMET-AI,339,1,finite,finite
+Microsomes T1/2,ADMET-AI,340,1,finite,finite
+Microsomes T1/2,ADMET-AI,341,1,finite,finite
+Microsomes T1/2,ADMET-AI,342,1,finite,finite
+Microsomes T1/2,ADMET-AI,343,1,finite,finite
+Microsomes T1/2,ADMET-AI,344,1,finite,finite
+Microsomes T1/2,ADMET-AI,345,1,finite,finite
+Microsomes T1/2,ADMET-AI,346,1,finite,finite
+Microsomes T1/2,ADMET-AI,347,1,finite,finite
+Microsomes T1/2,ADMET-AI,348,1,finite,finite
+Microsomes T1/2,ADMET-AI,349,1,finite,finite
+Microsomes T1/2,ADMET-AI,350,1,finite,finite
+Microsomes T1/2,ADMET-AI,351,1,finite,finite
+Microsomes T1/2,ADMET-AI,352,1,finite,finite
+Microsomes T1/2,ADMET-AI,353,1,finite,finite
+Microsomes T1/2,ADMET-AI,354,1,finite,finite
+Microsomes T1/2,ADMET-AI,355,1,finite,finite
+Microsomes T1/2,ADMET-AI,356,1,finite,finite
+Microsomes T1/2,ADMET-AI,357,1,finite,finite
+Microsomes T1/2,ADMET-AI,358,1,finite,finite
+Microsomes T1/2,ADMET-AI,359,1,finite,finite
+Microsomes T1/2,ADMET-AI,360,1,finite,finite
+Microsomes T1/2,ADMET-AI,361,1,finite,finite
+Microsomes T1/2,ADMET-AI,362,1,finite,finite
+Microsomes T1/2,ADMET-AI,363,1,finite,finite
+Microsomes T1/2,ADMET-AI,364,1,finite,finite
+Microsomes T1/2,ADMET-AI,365,1,finite,finite
+Microsomes T1/2,ADMET-AI,366,1,finite,finite
+Microsomes T1/2,ADMET-AI,367,1,finite,finite
+Microsomes T1/2,ADMET-AI,368,1,finite,finite
+Microsomes T1/2,ADMET-AI,369,1,finite,finite
+Microsomes T1/2,ADMET-AI,370,1,finite,finite
+Microsomes T1/2,ADMET-AI,371,1,finite,finite
+Microsomes T1/2,ADMET-AI,372,1,finite,finite
+Microsomes T1/2,ADMET-AI,373,1,finite,finite
+Microsomes T1/2,ADMET-AI,374,1,finite,finite
+Microsomes T1/2,ADMET-AI,375,1,finite,finite
+Microsomes T1/2,ADMET-AI,376,1,finite,finite
+Microsomes T1/2,ADMET-AI,377,1,finite,finite
+Microsomes T1/2,ADMET-AI,378,1,finite,finite
+Microsomes T1/2,ADMET-AI,379,1,finite,finite
+Microsomes T1/2,ADMET-AI,380,1,finite,finite
+Microsomes T1/2,ADMET-AI,381,1,finite,finite
+Microsomes T1/2,ADMET-AI,382,1,finite,finite
+Microsomes T1/2,ADMET-AI,383,1,finite,finite
+Microsomes T1/2,ADMET-AI,384,1,finite,finite
+Microsomes T1/2,ADMET-AI,385,1,finite,finite
+Microsomes T1/2,ADMET-AI,386,1,finite,finite
+Microsomes T1/2,ADMET-AI,387,1,finite,finite
+Microsomes T1/2,ADMET-AI,388,1,finite,finite
+Microsomes T1/2,ADMET-AI,389,1,finite,finite
+Microsomes T1/2,ADMET-AI,390,1,finite,finite
+Microsomes T1/2,ADMET-AI,391,1,finite,finite
+Microsomes T1/2,ADMET-AI,392,1,finite,finite
+Microsomes T1/2,ADMET-AI,393,1,finite,finite
+Microsomes T1/2,ADMET-AI,394,1,finite,finite
+Microsomes T1/2,ADMET-AI,395,1,finite,finite
+Microsomes T1/2,ADMET-AI,396,1,finite,finite
+Microsomes T1/2,ADMET-AI,397,1,finite,finite
+Microsomes T1/2,ADMET-AI,398,1,finite,finite
+Microsomes T1/2,ADMET-AI,399,1,finite,finite
+Microsomes T1/2,ADMET-AI,400,1,finite,finite
+Microsomes T1/2,ADMET-AI,401,1,finite,finite
+Microsomes T1/2,ADMET-AI,402,1,finite,finite
+Microsomes T1/2,ADMET-AI,403,1,finite,finite
+Microsomes T1/2,ADMET-AI,404,1,finite,finite
+Microsomes T1/2,ADMET-AI,405,1,finite,finite
+Microsomes T1/2,ADMET-AI,406,1,finite,finite
+Microsomes T1/2,ADMET-AI,407,1,finite,finite
+Microsomes T1/2,ADMET-AI,408,0,finite,blank
+Microsomes T1/2,ADMET-AI,409,1,finite,finite
+Microsomes T1/2,ADMET-AI,410,1,finite,finite
+Microsomes T1/2,ADMET-AI,411,1,finite,finite
+Microsomes T1/2,ADMET-AI,412,1,finite,finite
+Microsomes T1/2,ADMET-AI,413,1,finite,finite
+Microsomes T1/2,ADMET-AI,414,1,finite,finite
+Microsomes T1/2,ADMET-AI,415,1,finite,finite
+Microsomes T1/2,ADMET-AI,416,1,finite,finite
+Microsomes T1/2,ADMET-AI,417,1,finite,finite
+Microsomes T1/2,ADMET-AI,418,0,finite,blank
+Microsomes T1/2,ADMET-AI,419,0,finite,blank
+Microsomes T1/2,ADMET-AI,420,0,finite,blank
+Microsomes T1/2,ADMET-AI,421,0,finite,blank
+Microsomes T1/2,ADMET-AI,422,0,finite,blank
+Microsomes T1/2,ADMET-AI,423,0,finite,blank
+Microsomes T1/2,ADMET-AI,424,0,finite,blank
+Microsomes T1/2,ADMET-AI,425,0,finite,blank
+Microsomes T1/2,ADMET-AI,426,0,finite,blank
+Microsomes T1/2,ADMET-AI,427,0,finite,blank
+Microsomes T1/2,ADMET-AI,428,0,finite,blank
+Microsomes T1/2,ADMET-AI,429,0,finite,blank
+Microsomes T1/2,ADMET-AI,430,0,finite,blank
+Microsomes T1/2,ADMET-AI,431,0,finite,blank
+Microsomes T1/2,ADMET-AI,432,1,finite,finite
+Microsomes T1/2,ADMET-AI,433,1,finite,finite
+Microsomes T1/2,ADMET-AI,434,1,finite,finite
+Microsomes T1/2,ADMET-AI,435,1,finite,finite
+Microsomes T1/2,ADMET-AI,436,1,finite,finite
+Microsomes T1/2,ADMET-AI,437,1,finite,finite
+Microsomes T1/2,ADMET-AI,438,1,finite,finite
+Microsomes T1/2,ADMET-AI,439,1,finite,finite
+Microsomes T1/2,ADMET-AI,440,1,finite,finite
+Microsomes T1/2,ADMET-AI,441,1,finite,finite
+Microsomes T1/2,ADMET-AI,442,1,finite,finite
+Microsomes T1/2,ADMET-AI,443,1,finite,finite
+Microsomes T1/2,ADMET-AI,444,1,finite,finite
+Microsomes T1/2,ADMET-AI,445,1,finite,finite
+Microsomes T1/2,ADMET-AI,446,1,finite,finite
+Microsomes T1/2,ADMET-AI,447,1,finite,finite
+Microsomes T1/2,ADMET-AI,448,1,finite,finite
+Microsomes T1/2,ADMET-AI,449,1,finite,finite
+Microsomes T1/2,ADMET-AI,450,1,finite,finite
+Microsomes T1/2,ADMET-AI,451,1,finite,finite
+Microsomes T1/2,ADMET-AI,452,1,finite,finite
+Microsomes T1/2,ADMET-AI,453,1,finite,finite
+Microsomes T1/2,ADMET-AI,454,1,finite,finite
+Microsomes T1/2,ADMET-AI,455,1,finite,finite
+Microsomes T1/2,ADMET-AI,456,0,finite,blank
+Microsomes T1/2,ADMET-AI,457,1,finite,finite
+Microsomes T1/2,ADMET-AI,458,1,finite,finite
+Microsomes T1/2,ADMET-AI,459,1,finite,finite
+Microsomes T1/2,ADMET-AI,460,1,finite,finite
+Microsomes T1/2,ADMET-AI,461,1,finite,finite
+Microsomes T1/2,ADMET-AI,462,1,finite,finite
+Microsomes T1/2,ADMET-AI,463,1,finite,finite
+Microsomes T1/2,ADMET-AI,464,1,finite,finite
+Microsomes T1/2,ADMET-AI,465,1,finite,finite
+Microsomes T1/2,ADMET-AI,466,1,finite,finite
+Microsomes T1/2,ADMET-AI,467,1,finite,finite
+Microsomes T1/2,ADMET-AI,468,1,finite,finite
+Microsomes T1/2,ADMET-AI,469,1,finite,finite
+Microsomes T1/2,ADMET-AI,470,0,blank,finite
+Microsomes T1/2,ADMET-AI,471,0,blank,finite
+Microsomes T1/2,ADMET-AI,472,0,blank,finite
+Microsomes T1/2,ADMET-AI,473,0,blank,finite
+Microsomes T1/2,ADMET-AI,474,0,blank,blank
+Microsomes T1/2,ADMET-AI,475,0,blank,blank
+Microsomes T1/2,ADMET-AI,476,0,blank,finite
+Microsomes T1/2,ADMET-AI,477,0,blank,finite
+Microsomes T1/2,ADMET-AI,478,0,blank,finite
+Microsomes T1/2,ADMET-AI,479,0,blank,blank
+Microsomes T1/2,ADMET-AI,480,0,blank,finite
+Microsomes T1/2,ADMET-AI,481,0,blank,blank
+Microsomes T1/2,ADMET-AI,482,0,blank,blank
+Microsomes T1/2,ADMET-AI,483,0,blank,blank
+Microsomes T1/2,ADMET-AI,484,0,blank,finite
+Microsomes T1/2,ADMET-AI,485,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,229,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,230,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,231,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,232,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,233,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,234,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,235,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,236,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,237,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,238,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,239,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,240,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,241,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,242,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,243,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,244,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,245,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,246,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,247,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,248,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,249,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,250,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,251,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,252,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,253,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,254,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,255,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,256,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,257,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,258,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,259,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,260,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,261,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,262,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,263,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,264,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,265,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,266,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,267,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,268,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,269,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,270,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,271,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,272,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,273,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,274,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,275,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,276,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,277,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,278,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,279,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,280,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,281,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,282,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,283,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,284,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,285,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,286,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,287,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,288,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,289,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,290,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,291,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,292,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,293,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,294,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,295,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,296,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,297,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,298,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,299,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,300,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,301,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,302,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,303,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,304,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,305,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,306,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,307,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,308,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,309,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,310,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,311,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,312,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,313,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,314,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,315,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,316,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,317,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,318,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,319,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,320,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,321,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,322,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,323,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,324,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,325,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,326,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,327,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,328,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,329,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,330,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,331,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,332,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,333,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,334,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,335,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,336,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,337,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,338,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,339,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,340,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,341,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,342,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,343,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,344,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,345,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,346,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,347,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,348,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,349,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,350,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,351,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,352,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,353,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,354,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,355,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,356,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,357,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,358,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,359,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,360,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,361,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,362,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,363,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,364,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,365,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,366,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,367,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,368,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,369,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,370,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,371,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,372,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,373,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,374,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,375,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,376,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,377,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,378,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,379,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,380,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,381,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,382,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,383,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,384,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,385,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,386,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,387,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,388,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,389,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,390,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,391,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,392,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,393,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,394,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,395,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,396,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,397,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,398,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,399,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,400,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,401,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,402,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,403,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,404,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,405,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,406,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,407,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,408,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,409,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,410,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,411,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,412,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,413,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,414,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,415,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,416,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,417,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,418,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,419,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,420,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,421,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,422,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,423,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,424,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,425,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,426,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,427,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,428,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,429,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,430,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,431,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,432,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,433,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,434,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,435,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,436,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,437,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,438,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,439,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,440,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,441,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,442,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,443,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,444,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,445,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,446,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,447,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,448,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,449,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,450,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,451,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,452,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,453,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,454,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,455,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,456,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,457,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,458,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,459,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,460,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,461,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,462,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,463,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,464,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,465,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,466,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,467,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,468,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,469,1,finite,finite
+Microsomes T1/2,ADMETlab 3.0,470,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,471,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,472,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,473,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,474,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,475,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,476,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,477,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,478,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,479,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,480,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,481,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,482,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,483,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,484,0,blank,finite
+Microsomes T1/2,ADMETlab 3.0,485,0,blank,finite
+hERG,Deep-PK,229,1,finite,finite
+hERG,Deep-PK,230,1,finite,finite
+hERG,Deep-PK,231,1,finite,finite
+hERG,Deep-PK,232,1,finite,finite
+hERG,Deep-PK,233,1,finite,finite
+hERG,Deep-PK,234,1,finite,finite
+hERG,Deep-PK,235,1,finite,finite
+hERG,Deep-PK,236,1,finite,finite
+hERG,Deep-PK,237,1,finite,finite
+hERG,Deep-PK,238,1,finite,finite
+hERG,Deep-PK,239,1,finite,finite
+hERG,Deep-PK,240,1,finite,finite
+hERG,Deep-PK,241,1,finite,finite
+hERG,Deep-PK,242,1,finite,finite
+hERG,Deep-PK,243,1,finite,finite
+hERG,Deep-PK,244,1,finite,finite
+hERG,Deep-PK,245,1,finite,finite
+hERG,Deep-PK,246,1,finite,finite
+hERG,Deep-PK,247,1,finite,finite
+hERG,Deep-PK,248,1,finite,finite
+hERG,Deep-PK,249,0,blank,finite
+hERG,Deep-PK,250,1,finite,finite
+hERG,Deep-PK,251,1,finite,finite
+hERG,Deep-PK,252,0,blank,finite
+hERG,Deep-PK,253,1,finite,finite
+hERG,Deep-PK,254,1,finite,finite
+hERG,Deep-PK,255,1,finite,finite
+hERG,Deep-PK,256,1,finite,finite
+hERG,Deep-PK,257,1,finite,finite
+hERG,Deep-PK,258,1,finite,finite
+hERG,Deep-PK,259,1,finite,finite
+hERG,Deep-PK,260,1,finite,finite
+hERG,Deep-PK,261,1,finite,finite
+hERG,Deep-PK,262,1,finite,finite
+hERG,Deep-PK,263,1,finite,finite
+hERG,Deep-PK,264,1,finite,finite
+hERG,Deep-PK,265,1,finite,finite
+hERG,Deep-PK,266,0,blank,finite
+hERG,Deep-PK,267,0,blank,finite
+hERG,Deep-PK,268,0,blank,finite
+hERG,Deep-PK,269,0,blank,finite
+hERG,Deep-PK,270,0,blank,finite
+hERG,Deep-PK,271,0,blank,finite
+hERG,Deep-PK,272,0,blank,finite
+hERG,Deep-PK,273,0,blank,finite
+hERG,Deep-PK,274,0,blank,finite
+hERG,Deep-PK,275,0,blank,finite
+hERG,Deep-PK,276,0,blank,finite
+hERG,Deep-PK,277,0,blank,finite
+hERG,Deep-PK,278,1,finite,finite
+hERG,Deep-PK,279,1,finite,finite
+hERG,Deep-PK,280,0,blank,finite
+hERG,Deep-PK,281,1,finite,finite
+hERG,Deep-PK,282,1,finite,finite
+hERG,Deep-PK,283,1,finite,finite
+hERG,Deep-PK,284,1,finite,finite
+hERG,Deep-PK,285,1,finite,finite
+hERG,Deep-PK,286,1,finite,finite
+hERG,Deep-PK,287,1,finite,finite
+hERG,Deep-PK,288,1,finite,finite
+hERG,Deep-PK,289,1,finite,finite
+hERG,Deep-PK,290,1,finite,finite
+hERG,Deep-PK,291,1,finite,finite
+hERG,Deep-PK,292,1,finite,finite
+hERG,Deep-PK,293,1,finite,finite
+hERG,Deep-PK,294,1,finite,finite
+hERG,Deep-PK,295,1,finite,finite
+hERG,Deep-PK,296,1,finite,finite
+hERG,Deep-PK,297,1,finite,finite
+hERG,Deep-PK,298,1,finite,finite
+hERG,Deep-PK,299,1,finite,finite
+hERG,Deep-PK,300,1,finite,finite
+hERG,Deep-PK,301,1,finite,finite
+hERG,Deep-PK,302,1,finite,finite
+hERG,Deep-PK,303,1,finite,finite
+hERG,Deep-PK,304,1,finite,finite
+hERG,Deep-PK,305,1,finite,finite
+hERG,Deep-PK,306,1,finite,finite
+hERG,Deep-PK,307,1,finite,finite
+hERG,Deep-PK,308,1,finite,finite
+hERG,Deep-PK,309,1,finite,finite
+hERG,Deep-PK,310,1,finite,finite
+hERG,Deep-PK,311,1,finite,finite
+hERG,Deep-PK,312,1,finite,finite
+hERG,Deep-PK,313,1,finite,finite
+hERG,Deep-PK,314,1,finite,finite
+hERG,Deep-PK,315,1,finite,finite
+hERG,Deep-PK,316,1,finite,finite
+hERG,Deep-PK,317,1,finite,finite
+hERG,Deep-PK,318,1,finite,finite
+hERG,Deep-PK,319,1,finite,finite
+hERG,Deep-PK,320,1,finite,finite
+hERG,Deep-PK,321,1,finite,finite
+hERG,Deep-PK,322,1,finite,finite
+hERG,Deep-PK,323,1,finite,finite
+hERG,Deep-PK,324,1,finite,finite
+hERG,Deep-PK,325,1,finite,finite
+hERG,Deep-PK,326,1,finite,finite
+hERG,Deep-PK,327,1,finite,finite
+hERG,Deep-PK,328,1,finite,finite
+hERG,Deep-PK,329,1,finite,finite
+hERG,Deep-PK,330,1,finite,finite
+hERG,Deep-PK,331,1,finite,finite
+hERG,Deep-PK,332,1,finite,finite
+hERG,Deep-PK,333,1,finite,finite
+hERG,Deep-PK,334,1,finite,finite
+hERG,Deep-PK,335,1,finite,finite
+hERG,Deep-PK,336,1,finite,finite
+hERG,Deep-PK,337,1,finite,finite
+hERG,Deep-PK,338,1,finite,finite
+hERG,Deep-PK,339,1,finite,finite
+hERG,Deep-PK,340,0,blank,finite
+hERG,Deep-PK,341,1,finite,finite
+hERG,Deep-PK,342,1,finite,finite
+hERG,Deep-PK,343,1,finite,finite
+hERG,Deep-PK,344,1,finite,finite
+hERG,Deep-PK,345,1,finite,finite
+hERG,Deep-PK,346,1,finite,finite
+hERG,Deep-PK,347,1,finite,finite
+hERG,Deep-PK,348,1,finite,finite
+hERG,Deep-PK,349,1,finite,finite
+hERG,Deep-PK,350,1,finite,finite
+hERG,Deep-PK,351,1,finite,finite
+hERG,Deep-PK,352,1,finite,finite
+hERG,Deep-PK,353,1,finite,finite
+hERG,Deep-PK,354,1,finite,finite
+hERG,Deep-PK,355,1,finite,finite
+hERG,Deep-PK,356,1,finite,finite
+hERG,Deep-PK,357,1,finite,finite
+hERG,Deep-PK,358,1,finite,finite
+hERG,Deep-PK,359,0,blank,finite
+hERG,Deep-PK,360,1,finite,finite
+hERG,Deep-PK,361,1,finite,finite
+hERG,Deep-PK,362,1,finite,finite
+hERG,Deep-PK,363,1,finite,finite
+hERG,Deep-PK,364,1,finite,finite
+hERG,Deep-PK,365,1,finite,finite
+hERG,Deep-PK,366,1,finite,finite
+hERG,Deep-PK,367,1,finite,finite
+hERG,Deep-PK,368,1,finite,finite
+hERG,Deep-PK,369,1,finite,finite
+hERG,Deep-PK,370,1,finite,finite
+hERG,Deep-PK,371,1,finite,finite
+hERG,Deep-PK,372,1,finite,finite
+hERG,Deep-PK,373,0,blank,finite
+hERG,Deep-PK,374,1,finite,finite
+hERG,Deep-PK,375,1,finite,finite
+hERG,Deep-PK,376,1,finite,finite
+hERG,Deep-PK,377,1,finite,finite
+hERG,Deep-PK,378,1,finite,finite
+hERG,Deep-PK,379,1,finite,finite
+hERG,Deep-PK,380,1,finite,finite
+hERG,Deep-PK,381,1,finite,finite
+hERG,Deep-PK,382,1,finite,finite
+hERG,Deep-PK,383,1,finite,finite
+hERG,Deep-PK,384,1,finite,finite
+hERG,Deep-PK,385,1,finite,finite
+hERG,Deep-PK,386,1,finite,finite
+hERG,Deep-PK,387,1,finite,finite
+hERG,Deep-PK,388,1,finite,finite
+hERG,Deep-PK,389,1,finite,finite
+hERG,Deep-PK,390,1,finite,finite
+hERG,Deep-PK,391,1,finite,finite
+hERG,Deep-PK,392,1,finite,finite
+hERG,Deep-PK,393,1,finite,finite
+hERG,Deep-PK,394,1,finite,finite
+hERG,Deep-PK,395,1,finite,finite
+hERG,Deep-PK,396,1,finite,finite
+hERG,Deep-PK,397,1,finite,finite
+hERG,Deep-PK,398,0,blank,finite
+hERG,Deep-PK,399,1,finite,finite
+hERG,Deep-PK,400,1,finite,finite
+hERG,Deep-PK,401,1,finite,finite
+hERG,Deep-PK,402,1,finite,finite
+hERG,Deep-PK,403,1,finite,finite
+hERG,Deep-PK,404,1,finite,finite
+hERG,Deep-PK,405,1,finite,finite
+hERG,Deep-PK,406,1,finite,finite
+hERG,Deep-PK,407,1,finite,finite
+hERG,Deep-PK,408,1,finite,finite
+hERG,Deep-PK,409,1,finite,finite
+hERG,Deep-PK,410,1,finite,finite
+hERG,Deep-PK,411,1,finite,finite
+hERG,Deep-PK,412,1,finite,finite
+hERG,Deep-PK,413,1,finite,finite
+hERG,Deep-PK,414,1,finite,finite
+hERG,Deep-PK,415,1,finite,finite
+hERG,Deep-PK,416,1,finite,finite
+hERG,Deep-PK,417,1,finite,finite
+hERG,Deep-PK,418,1,finite,finite
+hERG,Deep-PK,419,1,finite,finite
+hERG,Deep-PK,420,1,finite,finite
+hERG,Deep-PK,421,1,finite,finite
+hERG,Deep-PK,422,1,finite,finite
+hERG,Deep-PK,423,1,finite,finite
+hERG,Deep-PK,424,1,finite,finite
+hERG,Deep-PK,425,1,finite,finite
+hERG,Deep-PK,426,1,finite,finite
+hERG,Deep-PK,427,1,finite,finite
+hERG,Deep-PK,428,1,finite,finite
+hERG,Deep-PK,429,1,finite,finite
+hERG,Deep-PK,430,1,finite,finite
+hERG,Deep-PK,431,1,finite,finite
+hERG,Deep-PK,432,1,finite,finite
+hERG,Deep-PK,433,1,finite,finite
+hERG,Deep-PK,434,1,finite,finite
+hERG,Deep-PK,435,1,finite,finite
+hERG,Deep-PK,436,1,finite,finite
+hERG,Deep-PK,437,1,finite,finite
+hERG,Deep-PK,438,1,finite,finite
+hERG,Deep-PK,439,1,finite,finite
+hERG,Deep-PK,440,1,finite,finite
+hERG,Deep-PK,441,1,finite,finite
+hERG,Deep-PK,442,1,finite,finite
+hERG,Deep-PK,443,1,finite,finite
+hERG,Deep-PK,444,1,finite,finite
+hERG,Deep-PK,445,1,finite,finite
+hERG,Deep-PK,446,1,finite,finite
+hERG,Deep-PK,447,1,finite,finite
+hERG,Deep-PK,448,1,finite,finite
+hERG,Deep-PK,449,1,finite,finite
+hERG,Deep-PK,450,1,finite,finite
+hERG,Deep-PK,451,1,finite,finite
+hERG,Deep-PK,452,1,finite,finite
+hERG,Deep-PK,453,1,finite,finite
+hERG,Deep-PK,454,1,finite,finite
+hERG,Deep-PK,455,1,finite,finite
+hERG,Deep-PK,456,1,finite,finite
+hERG,Deep-PK,457,1,finite,finite
+hERG,Deep-PK,458,1,finite,finite
+hERG,Deep-PK,459,1,finite,finite
+hERG,Deep-PK,460,1,finite,finite
+hERG,Deep-PK,461,1,finite,finite
+hERG,Deep-PK,462,1,finite,finite
+hERG,Deep-PK,463,1,finite,finite
+hERG,Deep-PK,464,1,finite,finite
+hERG,Deep-PK,465,1,finite,finite
+hERG,Deep-PK,466,1,finite,finite
+hERG,Deep-PK,467,1,finite,finite
+hERG,Deep-PK,468,1,finite,finite
+hERG,Deep-PK,469,1,finite,finite
+hERG,Deep-PK,470,0,blank,finite
+hERG,Deep-PK,471,0,blank,finite
+hERG,Deep-PK,472,0,blank,finite
+hERG,Deep-PK,473,0,blank,finite
+hERG,Deep-PK,474,0,blank,finite
+hERG,Deep-PK,475,0,blank,finite
+hERG,Deep-PK,476,0,blank,finite
+hERG,Deep-PK,477,0,blank,finite
+hERG,Deep-PK,478,0,blank,finite
+hERG,Deep-PK,479,0,blank,finite
+hERG,Deep-PK,480,0,blank,finite
+hERG,Deep-PK,481,0,blank,finite
+hERG,Deep-PK,482,0,blank,finite
+hERG,Deep-PK,483,0,blank,finite
+hERG,Deep-PK,484,0,blank,finite
+hERG,Deep-PK,485,0,blank,finite
+hERG,ADMET-AI,229,1,finite,finite
+hERG,ADMET-AI,230,1,finite,finite
+hERG,ADMET-AI,231,1,finite,finite
+hERG,ADMET-AI,232,1,finite,finite
+hERG,ADMET-AI,233,1,finite,finite
+hERG,ADMET-AI,234,1,finite,finite
+hERG,ADMET-AI,235,1,finite,finite
+hERG,ADMET-AI,236,1,finite,finite
+hERG,ADMET-AI,237,1,finite,finite
+hERG,ADMET-AI,238,1,finite,finite
+hERG,ADMET-AI,239,1,finite,finite
+hERG,ADMET-AI,240,1,finite,finite
+hERG,ADMET-AI,241,1,finite,finite
+hERG,ADMET-AI,242,1,finite,finite
+hERG,ADMET-AI,243,1,finite,finite
+hERG,ADMET-AI,244,1,finite,finite
+hERG,ADMET-AI,245,1,finite,finite
+hERG,ADMET-AI,246,1,finite,finite
+hERG,ADMET-AI,247,1,finite,finite
+hERG,ADMET-AI,248,1,finite,finite
+hERG,ADMET-AI,249,0,blank,finite
+hERG,ADMET-AI,250,1,finite,finite
+hERG,ADMET-AI,251,1,finite,finite
+hERG,ADMET-AI,252,0,blank,finite
+hERG,ADMET-AI,253,1,finite,finite
+hERG,ADMET-AI,254,1,finite,finite
+hERG,ADMET-AI,255,1,finite,finite
+hERG,ADMET-AI,256,1,finite,finite
+hERG,ADMET-AI,257,1,finite,finite
+hERG,ADMET-AI,258,1,finite,finite
+hERG,ADMET-AI,259,1,finite,finite
+hERG,ADMET-AI,260,1,finite,finite
+hERG,ADMET-AI,261,1,finite,finite
+hERG,ADMET-AI,262,1,finite,finite
+hERG,ADMET-AI,263,1,finite,finite
+hERG,ADMET-AI,264,1,finite,finite
+hERG,ADMET-AI,265,1,finite,finite
+hERG,ADMET-AI,266,0,blank,finite
+hERG,ADMET-AI,267,0,blank,finite
+hERG,ADMET-AI,268,0,blank,finite
+hERG,ADMET-AI,269,0,blank,finite
+hERG,ADMET-AI,270,0,blank,finite
+hERG,ADMET-AI,271,0,blank,finite
+hERG,ADMET-AI,272,0,blank,finite
+hERG,ADMET-AI,273,0,blank,finite
+hERG,ADMET-AI,274,0,blank,finite
+hERG,ADMET-AI,275,0,blank,finite
+hERG,ADMET-AI,276,0,blank,finite
+hERG,ADMET-AI,277,0,blank,finite
+hERG,ADMET-AI,278,1,finite,finite
+hERG,ADMET-AI,279,1,finite,finite
+hERG,ADMET-AI,280,0,blank,finite
+hERG,ADMET-AI,281,1,finite,finite
+hERG,ADMET-AI,282,1,finite,finite
+hERG,ADMET-AI,283,1,finite,finite
+hERG,ADMET-AI,284,1,finite,finite
+hERG,ADMET-AI,285,1,finite,finite
+hERG,ADMET-AI,286,1,finite,finite
+hERG,ADMET-AI,287,1,finite,finite
+hERG,ADMET-AI,288,1,finite,finite
+hERG,ADMET-AI,289,1,finite,finite
+hERG,ADMET-AI,290,1,finite,finite
+hERG,ADMET-AI,291,1,finite,finite
+hERG,ADMET-AI,292,1,finite,finite
+hERG,ADMET-AI,293,1,finite,finite
+hERG,ADMET-AI,294,1,finite,finite
+hERG,ADMET-AI,295,1,finite,finite
+hERG,ADMET-AI,296,1,finite,finite
+hERG,ADMET-AI,297,1,finite,finite
+hERG,ADMET-AI,298,1,finite,finite
+hERG,ADMET-AI,299,1,finite,finite
+hERG,ADMET-AI,300,1,finite,finite
+hERG,ADMET-AI,301,1,finite,finite
+hERG,ADMET-AI,302,1,finite,finite
+hERG,ADMET-AI,303,1,finite,finite
+hERG,ADMET-AI,304,1,finite,finite
+hERG,ADMET-AI,305,1,finite,finite
+hERG,ADMET-AI,306,1,finite,finite
+hERG,ADMET-AI,307,1,finite,finite
+hERG,ADMET-AI,308,1,finite,finite
+hERG,ADMET-AI,309,1,finite,finite
+hERG,ADMET-AI,310,1,finite,finite
+hERG,ADMET-AI,311,1,finite,finite
+hERG,ADMET-AI,312,1,finite,finite
+hERG,ADMET-AI,313,1,finite,finite
+hERG,ADMET-AI,314,1,finite,finite
+hERG,ADMET-AI,315,1,finite,finite
+hERG,ADMET-AI,316,1,finite,finite
+hERG,ADMET-AI,317,1,finite,finite
+hERG,ADMET-AI,318,1,finite,finite
+hERG,ADMET-AI,319,1,finite,finite
+hERG,ADMET-AI,320,1,finite,finite
+hERG,ADMET-AI,321,1,finite,finite
+hERG,ADMET-AI,322,1,finite,finite
+hERG,ADMET-AI,323,1,finite,finite
+hERG,ADMET-AI,324,1,finite,finite
+hERG,ADMET-AI,325,1,finite,finite
+hERG,ADMET-AI,326,1,finite,finite
+hERG,ADMET-AI,327,1,finite,finite
+hERG,ADMET-AI,328,1,finite,finite
+hERG,ADMET-AI,329,1,finite,finite
+hERG,ADMET-AI,330,1,finite,finite
+hERG,ADMET-AI,331,1,finite,finite
+hERG,ADMET-AI,332,1,finite,finite
+hERG,ADMET-AI,333,1,finite,finite
+hERG,ADMET-AI,334,1,finite,finite
+hERG,ADMET-AI,335,1,finite,finite
+hERG,ADMET-AI,336,1,finite,finite
+hERG,ADMET-AI,337,1,finite,finite
+hERG,ADMET-AI,338,1,finite,finite
+hERG,ADMET-AI,339,1,finite,finite
+hERG,ADMET-AI,340,0,blank,finite
+hERG,ADMET-AI,341,1,finite,finite
+hERG,ADMET-AI,342,1,finite,finite
+hERG,ADMET-AI,343,1,finite,finite
+hERG,ADMET-AI,344,1,finite,finite
+hERG,ADMET-AI,345,1,finite,finite
+hERG,ADMET-AI,346,1,finite,finite
+hERG,ADMET-AI,347,1,finite,finite
+hERG,ADMET-AI,348,1,finite,finite
+hERG,ADMET-AI,349,1,finite,finite
+hERG,ADMET-AI,350,1,finite,finite
+hERG,ADMET-AI,351,1,finite,finite
+hERG,ADMET-AI,352,1,finite,finite
+hERG,ADMET-AI,353,1,finite,finite
+hERG,ADMET-AI,354,1,finite,finite
+hERG,ADMET-AI,355,1,finite,finite
+hERG,ADMET-AI,356,1,finite,finite
+hERG,ADMET-AI,357,1,finite,finite
+hERG,ADMET-AI,358,1,finite,finite
+hERG,ADMET-AI,359,0,blank,finite
+hERG,ADMET-AI,360,1,finite,finite
+hERG,ADMET-AI,361,1,finite,finite
+hERG,ADMET-AI,362,1,finite,finite
+hERG,ADMET-AI,363,1,finite,finite
+hERG,ADMET-AI,364,1,finite,finite
+hERG,ADMET-AI,365,1,finite,finite
+hERG,ADMET-AI,366,1,finite,finite
+hERG,ADMET-AI,367,1,finite,finite
+hERG,ADMET-AI,368,1,finite,finite
+hERG,ADMET-AI,369,1,finite,finite
+hERG,ADMET-AI,370,1,finite,finite
+hERG,ADMET-AI,371,1,finite,finite
+hERG,ADMET-AI,372,1,finite,finite
+hERG,ADMET-AI,373,0,blank,finite
+hERG,ADMET-AI,374,1,finite,finite
+hERG,ADMET-AI,375,1,finite,finite
+hERG,ADMET-AI,376,1,finite,finite
+hERG,ADMET-AI,377,1,finite,finite
+hERG,ADMET-AI,378,1,finite,finite
+hERG,ADMET-AI,379,1,finite,finite
+hERG,ADMET-AI,380,1,finite,finite
+hERG,ADMET-AI,381,1,finite,finite
+hERG,ADMET-AI,382,1,finite,finite
+hERG,ADMET-AI,383,1,finite,finite
+hERG,ADMET-AI,384,1,finite,finite
+hERG,ADMET-AI,385,1,finite,finite
+hERG,ADMET-AI,386,1,finite,finite
+hERG,ADMET-AI,387,1,finite,finite
+hERG,ADMET-AI,388,1,finite,finite
+hERG,ADMET-AI,389,1,finite,finite
+hERG,ADMET-AI,390,1,finite,finite
+hERG,ADMET-AI,391,1,finite,finite
+hERG,ADMET-AI,392,1,finite,finite
+hERG,ADMET-AI,393,1,finite,finite
+hERG,ADMET-AI,394,1,finite,finite
+hERG,ADMET-AI,395,1,finite,finite
+hERG,ADMET-AI,396,1,finite,finite
+hERG,ADMET-AI,397,1,finite,finite
+hERG,ADMET-AI,398,0,blank,finite
+hERG,ADMET-AI,399,1,finite,finite
+hERG,ADMET-AI,400,1,finite,finite
+hERG,ADMET-AI,401,1,finite,finite
+hERG,ADMET-AI,402,1,finite,finite
+hERG,ADMET-AI,403,1,finite,finite
+hERG,ADMET-AI,404,1,finite,finite
+hERG,ADMET-AI,405,1,finite,finite
+hERG,ADMET-AI,406,1,finite,finite
+hERG,ADMET-AI,407,1,finite,finite
+hERG,ADMET-AI,408,1,finite,finite
+hERG,ADMET-AI,409,1,finite,finite
+hERG,ADMET-AI,410,1,finite,finite
+hERG,ADMET-AI,411,1,finite,finite
+hERG,ADMET-AI,412,1,finite,finite
+hERG,ADMET-AI,413,1,finite,finite
+hERG,ADMET-AI,414,1,finite,finite
+hERG,ADMET-AI,415,1,finite,finite
+hERG,ADMET-AI,416,1,finite,finite
+hERG,ADMET-AI,417,1,finite,finite
+hERG,ADMET-AI,418,1,finite,finite
+hERG,ADMET-AI,419,1,finite,finite
+hERG,ADMET-AI,420,1,finite,finite
+hERG,ADMET-AI,421,1,finite,finite
+hERG,ADMET-AI,422,1,finite,finite
+hERG,ADMET-AI,423,1,finite,finite
+hERG,ADMET-AI,424,1,finite,finite
+hERG,ADMET-AI,425,1,finite,finite
+hERG,ADMET-AI,426,1,finite,finite
+hERG,ADMET-AI,427,1,finite,finite
+hERG,ADMET-AI,428,1,finite,finite
+hERG,ADMET-AI,429,1,finite,finite
+hERG,ADMET-AI,430,1,finite,finite
+hERG,ADMET-AI,431,1,finite,finite
+hERG,ADMET-AI,432,1,finite,finite
+hERG,ADMET-AI,433,1,finite,finite
+hERG,ADMET-AI,434,1,finite,finite
+hERG,ADMET-AI,435,1,finite,finite
+hERG,ADMET-AI,436,1,finite,finite
+hERG,ADMET-AI,437,1,finite,finite
+hERG,ADMET-AI,438,1,finite,finite
+hERG,ADMET-AI,439,1,finite,finite
+hERG,ADMET-AI,440,1,finite,finite
+hERG,ADMET-AI,441,1,finite,finite
+hERG,ADMET-AI,442,1,finite,finite
+hERG,ADMET-AI,443,1,finite,finite
+hERG,ADMET-AI,444,1,finite,finite
+hERG,ADMET-AI,445,1,finite,finite
+hERG,ADMET-AI,446,1,finite,finite
+hERG,ADMET-AI,447,1,finite,finite
+hERG,ADMET-AI,448,1,finite,finite
+hERG,ADMET-AI,449,1,finite,finite
+hERG,ADMET-AI,450,1,finite,finite
+hERG,ADMET-AI,451,1,finite,finite
+hERG,ADMET-AI,452,1,finite,finite
+hERG,ADMET-AI,453,1,finite,finite
+hERG,ADMET-AI,454,1,finite,finite
+hERG,ADMET-AI,455,1,finite,finite
+hERG,ADMET-AI,456,1,finite,finite
+hERG,ADMET-AI,457,1,finite,finite
+hERG,ADMET-AI,458,1,finite,finite
+hERG,ADMET-AI,459,1,finite,finite
+hERG,ADMET-AI,460,1,finite,finite
+hERG,ADMET-AI,461,1,finite,finite
+hERG,ADMET-AI,462,1,finite,finite
+hERG,ADMET-AI,463,1,finite,finite
+hERG,ADMET-AI,464,1,finite,finite
+hERG,ADMET-AI,465,1,finite,finite
+hERG,ADMET-AI,466,1,finite,finite
+hERG,ADMET-AI,467,1,finite,finite
+hERG,ADMET-AI,468,1,finite,finite
+hERG,ADMET-AI,469,1,finite,finite
+hERG,ADMET-AI,470,0,blank,finite
+hERG,ADMET-AI,471,0,blank,finite
+hERG,ADMET-AI,472,0,blank,finite
+hERG,ADMET-AI,473,0,blank,finite
+hERG,ADMET-AI,474,0,blank,finite
+hERG,ADMET-AI,475,0,blank,finite
+hERG,ADMET-AI,476,0,blank,finite
+hERG,ADMET-AI,477,0,blank,finite
+hERG,ADMET-AI,478,0,blank,finite
+hERG,ADMET-AI,479,0,blank,finite
+hERG,ADMET-AI,480,0,blank,finite
+hERG,ADMET-AI,481,0,blank,finite
+hERG,ADMET-AI,482,0,blank,finite
+hERG,ADMET-AI,483,0,blank,finite
+hERG,ADMET-AI,484,0,blank,finite
+hERG,ADMET-AI,485,0,blank,finite
+hERG,ADMETlab 3.0,229,1,finite,finite
+hERG,ADMETlab 3.0,230,1,finite,finite
+hERG,ADMETlab 3.0,231,1,finite,finite
+hERG,ADMETlab 3.0,232,1,finite,finite
+hERG,ADMETlab 3.0,233,1,finite,finite
+hERG,ADMETlab 3.0,234,1,finite,finite
+hERG,ADMETlab 3.0,235,1,finite,finite
+hERG,ADMETlab 3.0,236,1,finite,finite
+hERG,ADMETlab 3.0,237,1,finite,finite
+hERG,ADMETlab 3.0,238,1,finite,finite
+hERG,ADMETlab 3.0,239,1,finite,finite
+hERG,ADMETlab 3.0,240,1,finite,finite
+hERG,ADMETlab 3.0,241,1,finite,finite
+hERG,ADMETlab 3.0,242,1,finite,finite
+hERG,ADMETlab 3.0,243,1,finite,finite
+hERG,ADMETlab 3.0,244,1,finite,finite
+hERG,ADMETlab 3.0,245,1,finite,finite
+hERG,ADMETlab 3.0,246,1,finite,finite
+hERG,ADMETlab 3.0,247,1,finite,finite
+hERG,ADMETlab 3.0,248,1,finite,finite
+hERG,ADMETlab 3.0,249,0,blank,finite
+hERG,ADMETlab 3.0,250,1,finite,finite
+hERG,ADMETlab 3.0,251,1,finite,finite
+hERG,ADMETlab 3.0,252,0,blank,finite
+hERG,ADMETlab 3.0,253,1,finite,finite
+hERG,ADMETlab 3.0,254,1,finite,finite
+hERG,ADMETlab 3.0,255,1,finite,finite
+hERG,ADMETlab 3.0,256,1,finite,finite
+hERG,ADMETlab 3.0,257,1,finite,finite
+hERG,ADMETlab 3.0,258,1,finite,finite
+hERG,ADMETlab 3.0,259,1,finite,finite
+hERG,ADMETlab 3.0,260,1,finite,finite
+hERG,ADMETlab 3.0,261,1,finite,finite
+hERG,ADMETlab 3.0,262,1,finite,finite
+hERG,ADMETlab 3.0,263,1,finite,finite
+hERG,ADMETlab 3.0,264,1,finite,finite
+hERG,ADMETlab 3.0,265,1,finite,finite
+hERG,ADMETlab 3.0,266,0,blank,finite
+hERG,ADMETlab 3.0,267,0,blank,finite
+hERG,ADMETlab 3.0,268,0,blank,finite
+hERG,ADMETlab 3.0,269,0,blank,finite
+hERG,ADMETlab 3.0,270,0,blank,finite
+hERG,ADMETlab 3.0,271,0,blank,finite
+hERG,ADMETlab 3.0,272,0,blank,finite
+hERG,ADMETlab 3.0,273,0,blank,finite
+hERG,ADMETlab 3.0,274,0,blank,finite
+hERG,ADMETlab 3.0,275,0,blank,finite
+hERG,ADMETlab 3.0,276,0,blank,finite
+hERG,ADMETlab 3.0,277,0,blank,finite
+hERG,ADMETlab 3.0,278,1,finite,finite
+hERG,ADMETlab 3.0,279,1,finite,finite
+hERG,ADMETlab 3.0,280,0,blank,finite
+hERG,ADMETlab 3.0,281,1,finite,finite
+hERG,ADMETlab 3.0,282,1,finite,finite
+hERG,ADMETlab 3.0,283,1,finite,finite
+hERG,ADMETlab 3.0,284,1,finite,finite
+hERG,ADMETlab 3.0,285,1,finite,finite
+hERG,ADMETlab 3.0,286,1,finite,finite
+hERG,ADMETlab 3.0,287,1,finite,finite
+hERG,ADMETlab 3.0,288,1,finite,finite
+hERG,ADMETlab 3.0,289,1,finite,finite
+hERG,ADMETlab 3.0,290,1,finite,finite
+hERG,ADMETlab 3.0,291,1,finite,finite
+hERG,ADMETlab 3.0,292,1,finite,finite
+hERG,ADMETlab 3.0,293,1,finite,finite
+hERG,ADMETlab 3.0,294,1,finite,finite
+hERG,ADMETlab 3.0,295,1,finite,finite
+hERG,ADMETlab 3.0,296,1,finite,finite
+hERG,ADMETlab 3.0,297,1,finite,finite
+hERG,ADMETlab 3.0,298,1,finite,finite
+hERG,ADMETlab 3.0,299,1,finite,finite
+hERG,ADMETlab 3.0,300,1,finite,finite
+hERG,ADMETlab 3.0,301,1,finite,finite
+hERG,ADMETlab 3.0,302,1,finite,finite
+hERG,ADMETlab 3.0,303,1,finite,finite
+hERG,ADMETlab 3.0,304,1,finite,finite
+hERG,ADMETlab 3.0,305,1,finite,finite
+hERG,ADMETlab 3.0,306,1,finite,finite
+hERG,ADMETlab 3.0,307,1,finite,finite
+hERG,ADMETlab 3.0,308,1,finite,finite
+hERG,ADMETlab 3.0,309,1,finite,finite
+hERG,ADMETlab 3.0,310,1,finite,finite
+hERG,ADMETlab 3.0,311,1,finite,finite
+hERG,ADMETlab 3.0,312,1,finite,finite
+hERG,ADMETlab 3.0,313,1,finite,finite
+hERG,ADMETlab 3.0,314,1,finite,finite
+hERG,ADMETlab 3.0,315,1,finite,finite
+hERG,ADMETlab 3.0,316,1,finite,finite
+hERG,ADMETlab 3.0,317,1,finite,finite
+hERG,ADMETlab 3.0,318,1,finite,finite
+hERG,ADMETlab 3.0,319,1,finite,finite
+hERG,ADMETlab 3.0,320,1,finite,finite
+hERG,ADMETlab 3.0,321,1,finite,finite
+hERG,ADMETlab 3.0,322,1,finite,finite
+hERG,ADMETlab 3.0,323,1,finite,finite
+hERG,ADMETlab 3.0,324,1,finite,finite
+hERG,ADMETlab 3.0,325,1,finite,finite
+hERG,ADMETlab 3.0,326,1,finite,finite
+hERG,ADMETlab 3.0,327,1,finite,finite
+hERG,ADMETlab 3.0,328,1,finite,finite
+hERG,ADMETlab 3.0,329,1,finite,finite
+hERG,ADMETlab 3.0,330,1,finite,finite
+hERG,ADMETlab 3.0,331,1,finite,finite
+hERG,ADMETlab 3.0,332,1,finite,finite
+hERG,ADMETlab 3.0,333,1,finite,finite
+hERG,ADMETlab 3.0,334,1,finite,finite
+hERG,ADMETlab 3.0,335,1,finite,finite
+hERG,ADMETlab 3.0,336,1,finite,finite
+hERG,ADMETlab 3.0,337,1,finite,finite
+hERG,ADMETlab 3.0,338,1,finite,finite
+hERG,ADMETlab 3.0,339,1,finite,finite
+hERG,ADMETlab 3.0,340,0,blank,finite
+hERG,ADMETlab 3.0,341,1,finite,finite
+hERG,ADMETlab 3.0,342,1,finite,finite
+hERG,ADMETlab 3.0,343,1,finite,finite
+hERG,ADMETlab 3.0,344,1,finite,finite
+hERG,ADMETlab 3.0,345,1,finite,finite
+hERG,ADMETlab 3.0,346,1,finite,finite
+hERG,ADMETlab 3.0,347,1,finite,finite
+hERG,ADMETlab 3.0,348,1,finite,finite
+hERG,ADMETlab 3.0,349,1,finite,finite
+hERG,ADMETlab 3.0,350,1,finite,finite
+hERG,ADMETlab 3.0,351,1,finite,finite
+hERG,ADMETlab 3.0,352,1,finite,finite
+hERG,ADMETlab 3.0,353,1,finite,finite
+hERG,ADMETlab 3.0,354,1,finite,finite
+hERG,ADMETlab 3.0,355,1,finite,finite
+hERG,ADMETlab 3.0,356,1,finite,finite
+hERG,ADMETlab 3.0,357,1,finite,finite
+hERG,ADMETlab 3.0,358,1,finite,finite
+hERG,ADMETlab 3.0,359,0,blank,finite
+hERG,ADMETlab 3.0,360,1,finite,finite
+hERG,ADMETlab 3.0,361,1,finite,finite
+hERG,ADMETlab 3.0,362,1,finite,finite
+hERG,ADMETlab 3.0,363,1,finite,finite
+hERG,ADMETlab 3.0,364,1,finite,finite
+hERG,ADMETlab 3.0,365,1,finite,finite
+hERG,ADMETlab 3.0,366,1,finite,finite
+hERG,ADMETlab 3.0,367,1,finite,finite
+hERG,ADMETlab 3.0,368,1,finite,finite
+hERG,ADMETlab 3.0,369,1,finite,finite
+hERG,ADMETlab 3.0,370,1,finite,finite
+hERG,ADMETlab 3.0,371,1,finite,finite
+hERG,ADMETlab 3.0,372,1,finite,finite
+hERG,ADMETlab 3.0,373,0,blank,finite
+hERG,ADMETlab 3.0,374,1,finite,finite
+hERG,ADMETlab 3.0,375,1,finite,finite
+hERG,ADMETlab 3.0,376,1,finite,finite
+hERG,ADMETlab 3.0,377,1,finite,finite
+hERG,ADMETlab 3.0,378,1,finite,finite
+hERG,ADMETlab 3.0,379,1,finite,finite
+hERG,ADMETlab 3.0,380,1,finite,finite
+hERG,ADMETlab 3.0,381,1,finite,finite
+hERG,ADMETlab 3.0,382,1,finite,finite
+hERG,ADMETlab 3.0,383,1,finite,finite
+hERG,ADMETlab 3.0,384,1,finite,finite
+hERG,ADMETlab 3.0,385,1,finite,finite
+hERG,ADMETlab 3.0,386,1,finite,finite
+hERG,ADMETlab 3.0,387,1,finite,finite
+hERG,ADMETlab 3.0,388,1,finite,finite
+hERG,ADMETlab 3.0,389,1,finite,finite
+hERG,ADMETlab 3.0,390,1,finite,finite
+hERG,ADMETlab 3.0,391,1,finite,finite
+hERG,ADMETlab 3.0,392,1,finite,finite
+hERG,ADMETlab 3.0,393,1,finite,finite
+hERG,ADMETlab 3.0,394,1,finite,finite
+hERG,ADMETlab 3.0,395,1,finite,finite
+hERG,ADMETlab 3.0,396,1,finite,finite
+hERG,ADMETlab 3.0,397,1,finite,finite
+hERG,ADMETlab 3.0,398,0,blank,finite
+hERG,ADMETlab 3.0,399,1,finite,finite
+hERG,ADMETlab 3.0,400,1,finite,finite
+hERG,ADMETlab 3.0,401,1,finite,finite
+hERG,ADMETlab 3.0,402,1,finite,finite
+hERG,ADMETlab 3.0,403,1,finite,finite
+hERG,ADMETlab 3.0,404,1,finite,finite
+hERG,ADMETlab 3.0,405,1,finite,finite
+hERG,ADMETlab 3.0,406,1,finite,finite
+hERG,ADMETlab 3.0,407,1,finite,finite
+hERG,ADMETlab 3.0,408,1,finite,finite
+hERG,ADMETlab 3.0,409,1,finite,finite
+hERG,ADMETlab 3.0,410,1,finite,finite
+hERG,ADMETlab 3.0,411,1,finite,finite
+hERG,ADMETlab 3.0,412,1,finite,finite
+hERG,ADMETlab 3.0,413,1,finite,finite
+hERG,ADMETlab 3.0,414,1,finite,finite
+hERG,ADMETlab 3.0,415,1,finite,finite
+hERG,ADMETlab 3.0,416,1,finite,finite
+hERG,ADMETlab 3.0,417,1,finite,finite
+hERG,ADMETlab 3.0,418,1,finite,finite
+hERG,ADMETlab 3.0,419,1,finite,finite
+hERG,ADMETlab 3.0,420,1,finite,finite
+hERG,ADMETlab 3.0,421,1,finite,finite
+hERG,ADMETlab 3.0,422,1,finite,finite
+hERG,ADMETlab 3.0,423,1,finite,finite
+hERG,ADMETlab 3.0,424,1,finite,finite
+hERG,ADMETlab 3.0,425,1,finite,finite
+hERG,ADMETlab 3.0,426,1,finite,finite
+hERG,ADMETlab 3.0,427,1,finite,finite
+hERG,ADMETlab 3.0,428,1,finite,finite
+hERG,ADMETlab 3.0,429,1,finite,finite
+hERG,ADMETlab 3.0,430,1,finite,finite
+hERG,ADMETlab 3.0,431,1,finite,finite
+hERG,ADMETlab 3.0,432,1,finite,finite
+hERG,ADMETlab 3.0,433,1,finite,finite
+hERG,ADMETlab 3.0,434,1,finite,finite
+hERG,ADMETlab 3.0,435,1,finite,finite
+hERG,ADMETlab 3.0,436,1,finite,finite
+hERG,ADMETlab 3.0,437,1,finite,finite
+hERG,ADMETlab 3.0,438,1,finite,finite
+hERG,ADMETlab 3.0,439,1,finite,finite
+hERG,ADMETlab 3.0,440,1,finite,finite
+hERG,ADMETlab 3.0,441,1,finite,finite
+hERG,ADMETlab 3.0,442,1,finite,finite
+hERG,ADMETlab 3.0,443,1,finite,finite
+hERG,ADMETlab 3.0,444,1,finite,finite
+hERG,ADMETlab 3.0,445,1,finite,finite
+hERG,ADMETlab 3.0,446,1,finite,finite
+hERG,ADMETlab 3.0,447,1,finite,finite
+hERG,ADMETlab 3.0,448,1,finite,finite
+hERG,ADMETlab 3.0,449,1,finite,finite
+hERG,ADMETlab 3.0,450,1,finite,finite
+hERG,ADMETlab 3.0,451,1,finite,finite
+hERG,ADMETlab 3.0,452,1,finite,finite
+hERG,ADMETlab 3.0,453,1,finite,finite
+hERG,ADMETlab 3.0,454,1,finite,finite
+hERG,ADMETlab 3.0,455,1,finite,finite
+hERG,ADMETlab 3.0,456,1,finite,finite
+hERG,ADMETlab 3.0,457,1,finite,finite
+hERG,ADMETlab 3.0,458,1,finite,finite
+hERG,ADMETlab 3.0,459,1,finite,finite
+hERG,ADMETlab 3.0,460,1,finite,finite
+hERG,ADMETlab 3.0,461,1,finite,finite
+hERG,ADMETlab 3.0,462,1,finite,finite
+hERG,ADMETlab 3.0,463,1,finite,finite
+hERG,ADMETlab 3.0,464,1,finite,finite
+hERG,ADMETlab 3.0,465,1,finite,finite
+hERG,ADMETlab 3.0,466,1,finite,finite
+hERG,ADMETlab 3.0,467,1,finite,finite
+hERG,ADMETlab 3.0,468,1,finite,finite
+hERG,ADMETlab 3.0,469,1,finite,finite
+hERG,ADMETlab 3.0,470,0,blank,finite
+hERG,ADMETlab 3.0,471,0,blank,finite
+hERG,ADMETlab 3.0,472,0,blank,finite
+hERG,ADMETlab 3.0,473,0,blank,finite
+hERG,ADMETlab 3.0,474,0,blank,finite
+hERG,ADMETlab 3.0,475,0,blank,finite
+hERG,ADMETlab 3.0,476,0,blank,finite
+hERG,ADMETlab 3.0,477,0,blank,finite
+hERG,ADMETlab 3.0,478,0,blank,finite
+hERG,ADMETlab 3.0,479,0,blank,finite
+hERG,ADMETlab 3.0,480,0,blank,finite
+hERG,ADMETlab 3.0,481,0,blank,finite
+hERG,ADMETlab 3.0,482,0,blank,finite
+hERG,ADMETlab 3.0,483,0,blank,finite
+hERG,ADMETlab 3.0,484,0,blank,finite
+hERG,ADMETlab 3.0,485,0,blank,finite
+Fraction unbound,Deep-PK,229,1,finite,finite
+Fraction unbound,Deep-PK,230,1,finite,finite
+Fraction unbound,Deep-PK,231,1,finite,finite
+Fraction unbound,Deep-PK,232,1,finite,finite
+Fraction unbound,Deep-PK,233,1,finite,finite
+Fraction unbound,Deep-PK,234,1,finite,finite
+Fraction unbound,Deep-PK,235,1,finite,finite
+Fraction unbound,Deep-PK,236,1,finite,finite
+Fraction unbound,Deep-PK,237,1,finite,finite
+Fraction unbound,Deep-PK,238,1,finite,finite
+Fraction unbound,Deep-PK,239,1,finite,finite
+Fraction unbound,Deep-PK,240,1,finite,finite
+Fraction unbound,Deep-PK,241,1,finite,finite
+Fraction unbound,Deep-PK,242,1,finite,finite
+Fraction unbound,Deep-PK,243,1,finite,finite
+Fraction unbound,Deep-PK,244,1,finite,finite
+Fraction unbound,Deep-PK,245,1,finite,finite
+Fraction unbound,Deep-PK,246,1,finite,finite
+Fraction unbound,Deep-PK,247,1,finite,finite
+Fraction unbound,Deep-PK,248,1,finite,finite
+Fraction unbound,Deep-PK,249,1,finite,finite
+Fraction unbound,Deep-PK,250,1,finite,finite
+Fraction unbound,Deep-PK,251,1,finite,finite
+Fraction unbound,Deep-PK,252,1,finite,finite
+Fraction unbound,Deep-PK,253,1,finite,finite
+Fraction unbound,Deep-PK,254,1,finite,finite
+Fraction unbound,Deep-PK,255,1,finite,finite
+Fraction unbound,Deep-PK,256,1,finite,finite
+Fraction unbound,Deep-PK,257,1,finite,finite
+Fraction unbound,Deep-PK,258,1,finite,finite
+Fraction unbound,Deep-PK,259,1,finite,finite
+Fraction unbound,Deep-PK,260,1,finite,finite
+Fraction unbound,Deep-PK,261,1,finite,finite
+Fraction unbound,Deep-PK,262,1,finite,finite
+Fraction unbound,Deep-PK,263,1,finite,finite
+Fraction unbound,Deep-PK,264,1,finite,finite
+Fraction unbound,Deep-PK,265,1,finite,finite
+Fraction unbound,Deep-PK,266,1,finite,finite
+Fraction unbound,Deep-PK,267,1,finite,finite
+Fraction unbound,Deep-PK,268,1,finite,finite
+Fraction unbound,Deep-PK,269,1,finite,finite
+Fraction unbound,Deep-PK,270,1,finite,finite
+Fraction unbound,Deep-PK,271,1,finite,finite
+Fraction unbound,Deep-PK,272,1,finite,finite
+Fraction unbound,Deep-PK,273,1,finite,finite
+Fraction unbound,Deep-PK,274,1,finite,finite
+Fraction unbound,Deep-PK,275,1,finite,finite
+Fraction unbound,Deep-PK,276,1,finite,finite
+Fraction unbound,Deep-PK,277,1,finite,finite
+Fraction unbound,Deep-PK,278,1,finite,finite
+Fraction unbound,Deep-PK,279,0,finite,blank
+Fraction unbound,Deep-PK,280,0,blank,finite
+Fraction unbound,Deep-PK,281,0,finite,blank
+Fraction unbound,Deep-PK,282,1,finite,finite
+Fraction unbound,Deep-PK,283,1,finite,finite
+Fraction unbound,Deep-PK,284,0,blank,finite
+Fraction unbound,Deep-PK,285,0,blank,finite
+Fraction unbound,Deep-PK,286,0,blank,finite
+Fraction unbound,Deep-PK,287,0,blank,finite
+Fraction unbound,Deep-PK,288,0,blank,finite
+Fraction unbound,Deep-PK,289,0,blank,finite
+Fraction unbound,Deep-PK,290,0,blank,finite
+Fraction unbound,Deep-PK,291,0,blank,finite
+Fraction unbound,Deep-PK,292,0,blank,finite
+Fraction unbound,Deep-PK,293,0,blank,finite
+Fraction unbound,Deep-PK,294,0,blank,finite
+Fraction unbound,Deep-PK,295,0,blank,finite
+Fraction unbound,Deep-PK,296,0,blank,finite
+Fraction unbound,Deep-PK,297,0,blank,finite
+Fraction unbound,Deep-PK,298,0,blank,finite
+Fraction unbound,Deep-PK,299,0,blank,finite
+Fraction unbound,Deep-PK,300,0,blank,finite
+Fraction unbound,Deep-PK,301,0,blank,finite
+Fraction unbound,Deep-PK,302,0,blank,finite
+Fraction unbound,Deep-PK,303,0,blank,finite
+Fraction unbound,Deep-PK,304,0,blank,finite
+Fraction unbound,Deep-PK,305,1,finite,finite
+Fraction unbound,Deep-PK,306,1,finite,finite
+Fraction unbound,Deep-PK,307,1,finite,finite
+Fraction unbound,Deep-PK,308,1,finite,finite
+Fraction unbound,Deep-PK,309,1,finite,finite
+Fraction unbound,Deep-PK,310,1,finite,finite
+Fraction unbound,Deep-PK,311,1,finite,finite
+Fraction unbound,Deep-PK,312,1,finite,finite
+Fraction unbound,Deep-PK,313,1,finite,finite
+Fraction unbound,Deep-PK,314,1,finite,finite
+Fraction unbound,Deep-PK,315,1,finite,finite
+Fraction unbound,Deep-PK,316,1,finite,finite
+Fraction unbound,Deep-PK,317,1,finite,finite
+Fraction unbound,Deep-PK,318,1,finite,finite
+Fraction unbound,Deep-PK,319,1,finite,finite
+Fraction unbound,Deep-PK,320,1,finite,finite
+Fraction unbound,Deep-PK,321,1,finite,finite
+Fraction unbound,Deep-PK,322,1,finite,finite
+Fraction unbound,Deep-PK,323,1,finite,finite
+Fraction unbound,Deep-PK,324,1,finite,finite
+Fraction unbound,Deep-PK,325,1,finite,finite
+Fraction unbound,Deep-PK,326,1,finite,finite
+Fraction unbound,Deep-PK,327,1,finite,finite
+Fraction unbound,Deep-PK,328,1,finite,finite
+Fraction unbound,Deep-PK,329,1,finite,finite
+Fraction unbound,Deep-PK,330,1,finite,finite
+Fraction unbound,Deep-PK,331,1,finite,finite
+Fraction unbound,Deep-PK,332,1,finite,finite
+Fraction unbound,Deep-PK,333,1,finite,finite
+Fraction unbound,Deep-PK,334,1,finite,finite
+Fraction unbound,Deep-PK,335,1,finite,finite
+Fraction unbound,Deep-PK,336,1,finite,finite
+Fraction unbound,Deep-PK,337,1,finite,finite
+Fraction unbound,Deep-PK,338,1,finite,finite
+Fraction unbound,Deep-PK,339,1,finite,finite
+Fraction unbound,Deep-PK,340,1,finite,finite
+Fraction unbound,Deep-PK,341,1,finite,finite
+Fraction unbound,Deep-PK,342,1,finite,finite
+Fraction unbound,Deep-PK,343,1,finite,finite
+Fraction unbound,Deep-PK,344,1,finite,finite
+Fraction unbound,Deep-PK,345,1,finite,finite
+Fraction unbound,Deep-PK,346,1,finite,finite
+Fraction unbound,Deep-PK,347,1,finite,finite
+Fraction unbound,Deep-PK,348,1,finite,finite
+Fraction unbound,Deep-PK,349,1,finite,finite
+Fraction unbound,Deep-PK,350,1,finite,finite
+Fraction unbound,Deep-PK,351,1,finite,finite
+Fraction unbound,Deep-PK,352,1,finite,finite
+Fraction unbound,Deep-PK,353,1,finite,finite
+Fraction unbound,Deep-PK,354,1,finite,finite
+Fraction unbound,Deep-PK,355,1,finite,finite
+Fraction unbound,Deep-PK,356,1,finite,finite
+Fraction unbound,Deep-PK,357,1,finite,finite
+Fraction unbound,Deep-PK,358,1,finite,finite
+Fraction unbound,Deep-PK,359,1,finite,finite
+Fraction unbound,Deep-PK,360,1,finite,finite
+Fraction unbound,Deep-PK,361,1,finite,finite
+Fraction unbound,Deep-PK,362,1,finite,finite
+Fraction unbound,Deep-PK,363,1,finite,finite
+Fraction unbound,Deep-PK,364,1,finite,finite
+Fraction unbound,Deep-PK,365,1,finite,finite
+Fraction unbound,Deep-PK,366,1,finite,finite
+Fraction unbound,Deep-PK,367,1,finite,finite
+Fraction unbound,Deep-PK,368,1,finite,finite
+Fraction unbound,Deep-PK,369,1,finite,finite
+Fraction unbound,Deep-PK,370,1,finite,finite
+Fraction unbound,Deep-PK,371,1,finite,finite
+Fraction unbound,Deep-PK,372,1,finite,finite
+Fraction unbound,Deep-PK,373,1,finite,finite
+Fraction unbound,Deep-PK,374,1,finite,finite
+Fraction unbound,Deep-PK,375,1,finite,finite
+Fraction unbound,Deep-PK,376,1,finite,finite
+Fraction unbound,Deep-PK,377,1,finite,finite
+Fraction unbound,Deep-PK,378,1,finite,finite
+Fraction unbound,Deep-PK,379,1,finite,finite
+Fraction unbound,Deep-PK,380,1,finite,finite
+Fraction unbound,Deep-PK,381,1,finite,finite
+Fraction unbound,Deep-PK,382,1,finite,finite
+Fraction unbound,Deep-PK,383,1,finite,finite
+Fraction unbound,Deep-PK,384,1,finite,finite
+Fraction unbound,Deep-PK,385,1,finite,finite
+Fraction unbound,Deep-PK,386,1,finite,finite
+Fraction unbound,Deep-PK,387,1,finite,finite
+Fraction unbound,Deep-PK,388,1,finite,finite
+Fraction unbound,Deep-PK,389,1,finite,finite
+Fraction unbound,Deep-PK,390,1,finite,finite
+Fraction unbound,Deep-PK,391,1,finite,finite
+Fraction unbound,Deep-PK,392,1,finite,finite
+Fraction unbound,Deep-PK,393,1,finite,finite
+Fraction unbound,Deep-PK,394,0,blank,finite
+Fraction unbound,Deep-PK,395,1,finite,finite
+Fraction unbound,Deep-PK,396,1,finite,finite
+Fraction unbound,Deep-PK,397,1,finite,finite
+Fraction unbound,Deep-PK,398,1,finite,finite
+Fraction unbound,Deep-PK,399,0,blank,finite
+Fraction unbound,Deep-PK,400,1,finite,finite
+Fraction unbound,Deep-PK,401,1,finite,finite
+Fraction unbound,Deep-PK,402,1,finite,finite
+Fraction unbound,Deep-PK,403,1,finite,finite
+Fraction unbound,Deep-PK,404,1,finite,finite
+Fraction unbound,Deep-PK,405,0,blank,finite
+Fraction unbound,Deep-PK,406,1,finite,finite
+Fraction unbound,Deep-PK,407,1,finite,finite
+Fraction unbound,Deep-PK,408,1,finite,finite
+Fraction unbound,Deep-PK,409,1,finite,finite
+Fraction unbound,Deep-PK,410,1,finite,finite
+Fraction unbound,Deep-PK,411,1,finite,finite
+Fraction unbound,Deep-PK,412,1,finite,finite
+Fraction unbound,Deep-PK,413,1,finite,finite
+Fraction unbound,Deep-PK,414,1,finite,finite
+Fraction unbound,Deep-PK,415,1,finite,finite
+Fraction unbound,Deep-PK,416,1,finite,finite
+Fraction unbound,Deep-PK,417,1,finite,finite
+Fraction unbound,Deep-PK,418,1,finite,finite
+Fraction unbound,Deep-PK,419,1,finite,finite
+Fraction unbound,Deep-PK,420,1,finite,finite
+Fraction unbound,Deep-PK,421,1,finite,finite
+Fraction unbound,Deep-PK,422,1,finite,finite
+Fraction unbound,Deep-PK,423,1,finite,finite
+Fraction unbound,Deep-PK,424,1,finite,finite
+Fraction unbound,Deep-PK,425,1,finite,finite
+Fraction unbound,Deep-PK,426,1,finite,finite
+Fraction unbound,Deep-PK,427,1,finite,finite
+Fraction unbound,Deep-PK,428,1,finite,finite
+Fraction unbound,Deep-PK,429,1,finite,finite
+Fraction unbound,Deep-PK,430,1,finite,finite
+Fraction unbound,Deep-PK,431,1,finite,finite
+Fraction unbound,Deep-PK,432,1,finite,finite
+Fraction unbound,Deep-PK,433,1,finite,finite
+Fraction unbound,Deep-PK,434,1,finite,finite
+Fraction unbound,Deep-PK,435,1,finite,finite
+Fraction unbound,Deep-PK,436,1,finite,finite
+Fraction unbound,Deep-PK,437,1,finite,finite
+Fraction unbound,Deep-PK,438,1,finite,finite
+Fraction unbound,Deep-PK,439,1,finite,finite
+Fraction unbound,Deep-PK,440,1,finite,finite
+Fraction unbound,Deep-PK,441,0,blank,finite
+Fraction unbound,Deep-PK,442,1,finite,finite
+Fraction unbound,Deep-PK,443,1,finite,finite
+Fraction unbound,Deep-PK,444,1,finite,finite
+Fraction unbound,Deep-PK,445,1,finite,finite
+Fraction unbound,Deep-PK,446,1,finite,finite
+Fraction unbound,Deep-PK,447,1,finite,finite
+Fraction unbound,Deep-PK,448,1,finite,finite
+Fraction unbound,Deep-PK,449,1,finite,finite
+Fraction unbound,Deep-PK,450,1,finite,finite
+Fraction unbound,Deep-PK,451,1,finite,finite
+Fraction unbound,Deep-PK,452,1,finite,finite
+Fraction unbound,Deep-PK,453,1,finite,finite
+Fraction unbound,Deep-PK,454,1,finite,finite
+Fraction unbound,Deep-PK,455,1,finite,finite
+Fraction unbound,Deep-PK,456,0,blank,finite
+Fraction unbound,Deep-PK,457,0,blank,finite
+Fraction unbound,Deep-PK,458,1,finite,finite
+Fraction unbound,Deep-PK,459,1,finite,finite
+Fraction unbound,Deep-PK,460,1,finite,finite
+Fraction unbound,Deep-PK,461,1,finite,finite
+Fraction unbound,Deep-PK,462,1,finite,finite
+Fraction unbound,Deep-PK,463,1,finite,finite
+Fraction unbound,Deep-PK,464,1,finite,finite
+Fraction unbound,Deep-PK,465,1,finite,finite
+Fraction unbound,Deep-PK,466,1,finite,finite
+Fraction unbound,Deep-PK,467,1,finite,finite
+Fraction unbound,Deep-PK,468,1,finite,finite
+Fraction unbound,Deep-PK,469,1,finite,finite
+Fraction unbound,Deep-PK,470,0,blank,finite
+Fraction unbound,Deep-PK,471,0,blank,finite
+Fraction unbound,Deep-PK,472,0,blank,finite
+Fraction unbound,Deep-PK,473,0,blank,finite
+Fraction unbound,Deep-PK,474,0,blank,finite
+Fraction unbound,Deep-PK,475,0,blank,finite
+Fraction unbound,Deep-PK,476,0,blank,finite
+Fraction unbound,Deep-PK,477,0,blank,finite
+Fraction unbound,Deep-PK,478,0,blank,finite
+Fraction unbound,Deep-PK,479,0,blank,finite
+Fraction unbound,Deep-PK,480,0,blank,finite
+Fraction unbound,Deep-PK,481,0,blank,finite
+Fraction unbound,Deep-PK,482,0,blank,finite
+Fraction unbound,Deep-PK,483,0,blank,finite
+Fraction unbound,Deep-PK,484,0,blank,finite
+Fraction unbound,Deep-PK,485,0,blank,finite
+Fraction unbound,ADMET-AI,229,1,finite,finite
+Fraction unbound,ADMET-AI,230,1,finite,finite
+Fraction unbound,ADMET-AI,231,1,finite,finite
+Fraction unbound,ADMET-AI,232,1,finite,finite
+Fraction unbound,ADMET-AI,233,1,finite,finite
+Fraction unbound,ADMET-AI,234,1,finite,finite
+Fraction unbound,ADMET-AI,235,1,finite,finite
+Fraction unbound,ADMET-AI,236,1,finite,finite
+Fraction unbound,ADMET-AI,237,1,finite,finite
+Fraction unbound,ADMET-AI,238,1,finite,finite
+Fraction unbound,ADMET-AI,239,1,finite,finite
+Fraction unbound,ADMET-AI,240,1,finite,finite
+Fraction unbound,ADMET-AI,241,1,finite,finite
+Fraction unbound,ADMET-AI,242,1,finite,finite
+Fraction unbound,ADMET-AI,243,1,finite,finite
+Fraction unbound,ADMET-AI,244,1,finite,finite
+Fraction unbound,ADMET-AI,245,1,finite,finite
+Fraction unbound,ADMET-AI,246,1,finite,finite
+Fraction unbound,ADMET-AI,247,1,finite,finite
+Fraction unbound,ADMET-AI,248,1,finite,finite
+Fraction unbound,ADMET-AI,249,1,finite,finite
+Fraction unbound,ADMET-AI,250,1,finite,finite
+Fraction unbound,ADMET-AI,251,1,finite,finite
+Fraction unbound,ADMET-AI,252,1,finite,finite
+Fraction unbound,ADMET-AI,253,1,finite,finite
+Fraction unbound,ADMET-AI,254,1,finite,finite
+Fraction unbound,ADMET-AI,255,1,finite,finite
+Fraction unbound,ADMET-AI,256,1,finite,finite
+Fraction unbound,ADMET-AI,257,1,finite,finite
+Fraction unbound,ADMET-AI,258,1,finite,finite
+Fraction unbound,ADMET-AI,259,1,finite,finite
+Fraction unbound,ADMET-AI,260,1,finite,finite
+Fraction unbound,ADMET-AI,261,1,finite,finite
+Fraction unbound,ADMET-AI,262,1,finite,finite
+Fraction unbound,ADMET-AI,263,1,finite,finite
+Fraction unbound,ADMET-AI,264,1,finite,finite
+Fraction unbound,ADMET-AI,265,1,finite,finite
+Fraction unbound,ADMET-AI,266,0,finite,blank
+Fraction unbound,ADMET-AI,267,0,finite,blank
+Fraction unbound,ADMET-AI,268,0,finite,blank
+Fraction unbound,ADMET-AI,269,0,finite,blank
+Fraction unbound,ADMET-AI,270,0,finite,blank
+Fraction unbound,ADMET-AI,271,0,finite,blank
+Fraction unbound,ADMET-AI,272,0,finite,blank
+Fraction unbound,ADMET-AI,273,0,finite,blank
+Fraction unbound,ADMET-AI,274,0,finite,blank
+Fraction unbound,ADMET-AI,275,0,finite,blank
+Fraction unbound,ADMET-AI,276,0,finite,blank
+Fraction unbound,ADMET-AI,277,0,finite,blank
+Fraction unbound,ADMET-AI,278,1,finite,finite
+Fraction unbound,ADMET-AI,279,1,finite,finite
+Fraction unbound,ADMET-AI,280,0,blank,finite
+Fraction unbound,ADMET-AI,281,1,finite,finite
+Fraction unbound,ADMET-AI,282,1,finite,finite
+Fraction unbound,ADMET-AI,283,1,finite,finite
+Fraction unbound,ADMET-AI,284,0,blank,finite
+Fraction unbound,ADMET-AI,285,0,blank,finite
+Fraction unbound,ADMET-AI,286,0,blank,finite
+Fraction unbound,ADMET-AI,287,0,blank,finite
+Fraction unbound,ADMET-AI,288,0,blank,finite
+Fraction unbound,ADMET-AI,289,0,blank,finite
+Fraction unbound,ADMET-AI,290,0,blank,finite
+Fraction unbound,ADMET-AI,291,0,blank,finite
+Fraction unbound,ADMET-AI,292,0,blank,finite
+Fraction unbound,ADMET-AI,293,0,blank,finite
+Fraction unbound,ADMET-AI,294,0,blank,finite
+Fraction unbound,ADMET-AI,295,0,blank,finite
+Fraction unbound,ADMET-AI,296,0,blank,finite
+Fraction unbound,ADMET-AI,297,0,blank,finite
+Fraction unbound,ADMET-AI,298,0,blank,finite
+Fraction unbound,ADMET-AI,299,0,blank,finite
+Fraction unbound,ADMET-AI,300,0,blank,finite
+Fraction unbound,ADMET-AI,301,0,blank,finite
+Fraction unbound,ADMET-AI,302,0,blank,finite
+Fraction unbound,ADMET-AI,303,0,blank,finite
+Fraction unbound,ADMET-AI,304,0,blank,finite
+Fraction unbound,ADMET-AI,305,1,finite,finite
+Fraction unbound,ADMET-AI,306,1,finite,finite
+Fraction unbound,ADMET-AI,307,1,finite,finite
+Fraction unbound,ADMET-AI,308,1,finite,finite
+Fraction unbound,ADMET-AI,309,1,finite,finite
+Fraction unbound,ADMET-AI,310,1,finite,finite
+Fraction unbound,ADMET-AI,311,1,finite,finite
+Fraction unbound,ADMET-AI,312,1,finite,finite
+Fraction unbound,ADMET-AI,313,1,finite,finite
+Fraction unbound,ADMET-AI,314,1,finite,finite
+Fraction unbound,ADMET-AI,315,1,finite,finite
+Fraction unbound,ADMET-AI,316,1,finite,finite
+Fraction unbound,ADMET-AI,317,1,finite,finite
+Fraction unbound,ADMET-AI,318,1,finite,finite
+Fraction unbound,ADMET-AI,319,1,finite,finite
+Fraction unbound,ADMET-AI,320,0,finite,blank
+Fraction unbound,ADMET-AI,321,1,finite,finite
+Fraction unbound,ADMET-AI,322,1,finite,finite
+Fraction unbound,ADMET-AI,323,1,finite,finite
+Fraction unbound,ADMET-AI,324,1,finite,finite
+Fraction unbound,ADMET-AI,325,1,finite,finite
+Fraction unbound,ADMET-AI,326,0,finite,blank
+Fraction unbound,ADMET-AI,327,1,finite,finite
+Fraction unbound,ADMET-AI,328,1,finite,finite
+Fraction unbound,ADMET-AI,329,1,finite,finite
+Fraction unbound,ADMET-AI,330,1,finite,finite
+Fraction unbound,ADMET-AI,331,1,finite,finite
+Fraction unbound,ADMET-AI,332,1,finite,finite
+Fraction unbound,ADMET-AI,333,1,finite,finite
+Fraction unbound,ADMET-AI,334,1,finite,finite
+Fraction unbound,ADMET-AI,335,1,finite,finite
+Fraction unbound,ADMET-AI,336,1,finite,finite
+Fraction unbound,ADMET-AI,337,1,finite,finite
+Fraction unbound,ADMET-AI,338,1,finite,finite
+Fraction unbound,ADMET-AI,339,1,finite,finite
+Fraction unbound,ADMET-AI,340,1,finite,finite
+Fraction unbound,ADMET-AI,341,1,finite,finite
+Fraction unbound,ADMET-AI,342,1,finite,finite
+Fraction unbound,ADMET-AI,343,1,finite,finite
+Fraction unbound,ADMET-AI,344,1,finite,finite
+Fraction unbound,ADMET-AI,345,1,finite,finite
+Fraction unbound,ADMET-AI,346,1,finite,finite
+Fraction unbound,ADMET-AI,347,1,finite,finite
+Fraction unbound,ADMET-AI,348,1,finite,finite
+Fraction unbound,ADMET-AI,349,1,finite,finite
+Fraction unbound,ADMET-AI,350,1,finite,finite
+Fraction unbound,ADMET-AI,351,1,finite,finite
+Fraction unbound,ADMET-AI,352,1,finite,finite
+Fraction unbound,ADMET-AI,353,1,finite,finite
+Fraction unbound,ADMET-AI,354,1,finite,finite
+Fraction unbound,ADMET-AI,355,1,finite,finite
+Fraction unbound,ADMET-AI,356,1,finite,finite
+Fraction unbound,ADMET-AI,357,1,finite,finite
+Fraction unbound,ADMET-AI,358,1,finite,finite
+Fraction unbound,ADMET-AI,359,1,finite,finite
+Fraction unbound,ADMET-AI,360,1,finite,finite
+Fraction unbound,ADMET-AI,361,1,finite,finite
+Fraction unbound,ADMET-AI,362,1,finite,finite
+Fraction unbound,ADMET-AI,363,1,finite,finite
+Fraction unbound,ADMET-AI,364,1,finite,finite
+Fraction unbound,ADMET-AI,365,1,finite,finite
+Fraction unbound,ADMET-AI,366,1,finite,finite
+Fraction unbound,ADMET-AI,367,1,finite,finite
+Fraction unbound,ADMET-AI,368,1,finite,finite
+Fraction unbound,ADMET-AI,369,1,finite,finite
+Fraction unbound,ADMET-AI,370,1,finite,finite
+Fraction unbound,ADMET-AI,371,1,finite,finite
+Fraction unbound,ADMET-AI,372,1,finite,finite
+Fraction unbound,ADMET-AI,373,1,finite,finite
+Fraction unbound,ADMET-AI,374,1,finite,finite
+Fraction unbound,ADMET-AI,375,1,finite,finite
+Fraction unbound,ADMET-AI,376,1,finite,finite
+Fraction unbound,ADMET-AI,377,1,finite,finite
+Fraction unbound,ADMET-AI,378,1,finite,finite
+Fraction unbound,ADMET-AI,379,1,finite,finite
+Fraction unbound,ADMET-AI,380,1,finite,finite
+Fraction unbound,ADMET-AI,381,1,finite,finite
+Fraction unbound,ADMET-AI,382,1,finite,finite
+Fraction unbound,ADMET-AI,383,1,finite,finite
+Fraction unbound,ADMET-AI,384,1,finite,finite
+Fraction unbound,ADMET-AI,385,1,finite,finite
+Fraction unbound,ADMET-AI,386,1,finite,finite
+Fraction unbound,ADMET-AI,387,1,finite,finite
+Fraction unbound,ADMET-AI,388,1,finite,finite
+Fraction unbound,ADMET-AI,389,1,finite,finite
+Fraction unbound,ADMET-AI,390,1,finite,finite
+Fraction unbound,ADMET-AI,391,1,finite,finite
+Fraction unbound,ADMET-AI,392,1,finite,finite
+Fraction unbound,ADMET-AI,393,1,finite,finite
+Fraction unbound,ADMET-AI,394,0,blank,finite
+Fraction unbound,ADMET-AI,395,1,finite,finite
+Fraction unbound,ADMET-AI,396,1,finite,finite
+Fraction unbound,ADMET-AI,397,1,finite,finite
+Fraction unbound,ADMET-AI,398,1,finite,finite
+Fraction unbound,ADMET-AI,399,0,blank,finite
+Fraction unbound,ADMET-AI,400,1,finite,finite
+Fraction unbound,ADMET-AI,401,1,finite,finite
+Fraction unbound,ADMET-AI,402,1,finite,finite
+Fraction unbound,ADMET-AI,403,1,finite,finite
+Fraction unbound,ADMET-AI,404,1,finite,finite
+Fraction unbound,ADMET-AI,405,0,blank,finite
+Fraction unbound,ADMET-AI,406,1,finite,finite
+Fraction unbound,ADMET-AI,407,1,finite,finite
+Fraction unbound,ADMET-AI,408,1,finite,finite
+Fraction unbound,ADMET-AI,409,1,finite,finite
+Fraction unbound,ADMET-AI,410,1,finite,finite
+Fraction unbound,ADMET-AI,411,1,finite,finite
+Fraction unbound,ADMET-AI,412,1,finite,finite
+Fraction unbound,ADMET-AI,413,1,finite,finite
+Fraction unbound,ADMET-AI,414,1,finite,finite
+Fraction unbound,ADMET-AI,415,1,finite,finite
+Fraction unbound,ADMET-AI,416,1,finite,finite
+Fraction unbound,ADMET-AI,417,1,finite,finite
+Fraction unbound,ADMET-AI,418,1,finite,finite
+Fraction unbound,ADMET-AI,419,1,finite,finite
+Fraction unbound,ADMET-AI,420,1,finite,finite
+Fraction unbound,ADMET-AI,421,1,finite,finite
+Fraction unbound,ADMET-AI,422,1,finite,finite
+Fraction unbound,ADMET-AI,423,1,finite,finite
+Fraction unbound,ADMET-AI,424,1,finite,finite
+Fraction unbound,ADMET-AI,425,1,finite,finite
+Fraction unbound,ADMET-AI,426,1,finite,finite
+Fraction unbound,ADMET-AI,427,1,finite,finite
+Fraction unbound,ADMET-AI,428,1,finite,finite
+Fraction unbound,ADMET-AI,429,1,finite,finite
+Fraction unbound,ADMET-AI,430,1,finite,finite
+Fraction unbound,ADMET-AI,431,1,finite,finite
+Fraction unbound,ADMET-AI,432,1,finite,finite
+Fraction unbound,ADMET-AI,433,1,finite,finite
+Fraction unbound,ADMET-AI,434,1,finite,finite
+Fraction unbound,ADMET-AI,435,1,finite,finite
+Fraction unbound,ADMET-AI,436,1,finite,finite
+Fraction unbound,ADMET-AI,437,1,finite,finite
+Fraction unbound,ADMET-AI,438,1,finite,finite
+Fraction unbound,ADMET-AI,439,1,finite,finite
+Fraction unbound,ADMET-AI,440,1,finite,finite
+Fraction unbound,ADMET-AI,441,0,blank,finite
+Fraction unbound,ADMET-AI,442,1,finite,finite
+Fraction unbound,ADMET-AI,443,1,finite,finite
+Fraction unbound,ADMET-AI,444,1,finite,finite
+Fraction unbound,ADMET-AI,445,1,finite,finite
+Fraction unbound,ADMET-AI,446,1,finite,finite
+Fraction unbound,ADMET-AI,447,1,finite,finite
+Fraction unbound,ADMET-AI,448,1,finite,finite
+Fraction unbound,ADMET-AI,449,1,finite,finite
+Fraction unbound,ADMET-AI,450,1,finite,finite
+Fraction unbound,ADMET-AI,451,1,finite,finite
+Fraction unbound,ADMET-AI,452,1,finite,finite
+Fraction unbound,ADMET-AI,453,1,finite,finite
+Fraction unbound,ADMET-AI,454,1,finite,finite
+Fraction unbound,ADMET-AI,455,1,finite,finite
+Fraction unbound,ADMET-AI,456,0,blank,finite
+Fraction unbound,ADMET-AI,457,0,blank,finite
+Fraction unbound,ADMET-AI,458,1,finite,finite
+Fraction unbound,ADMET-AI,459,1,finite,finite
+Fraction unbound,ADMET-AI,460,1,finite,finite
+Fraction unbound,ADMET-AI,461,1,finite,finite
+Fraction unbound,ADMET-AI,462,1,finite,finite
+Fraction unbound,ADMET-AI,463,1,finite,finite
+Fraction unbound,ADMET-AI,464,1,finite,finite
+Fraction unbound,ADMET-AI,465,1,finite,finite
+Fraction unbound,ADMET-AI,466,1,finite,finite
+Fraction unbound,ADMET-AI,467,1,finite,finite
+Fraction unbound,ADMET-AI,468,1,finite,finite
+Fraction unbound,ADMET-AI,469,1,finite,finite
+Fraction unbound,ADMET-AI,470,0,blank,finite
+Fraction unbound,ADMET-AI,471,0,blank,finite
+Fraction unbound,ADMET-AI,472,0,blank,finite
+Fraction unbound,ADMET-AI,473,0,blank,finite
+Fraction unbound,ADMET-AI,474,0,blank,finite
+Fraction unbound,ADMET-AI,475,0,blank,finite
+Fraction unbound,ADMET-AI,476,0,blank,finite
+Fraction unbound,ADMET-AI,477,0,blank,finite
+Fraction unbound,ADMET-AI,478,0,blank,finite
+Fraction unbound,ADMET-AI,479,0,blank,finite
+Fraction unbound,ADMET-AI,480,0,blank,finite
+Fraction unbound,ADMET-AI,481,0,blank,finite
+Fraction unbound,ADMET-AI,482,0,blank,finite
+Fraction unbound,ADMET-AI,483,0,blank,finite
+Fraction unbound,ADMET-AI,484,0,blank,finite
+Fraction unbound,ADMET-AI,485,0,blank,finite
+Fraction unbound,ADMETlab 3.0,229,1,finite,finite
+Fraction unbound,ADMETlab 3.0,230,1,finite,finite
+Fraction unbound,ADMETlab 3.0,231,1,finite,finite
+Fraction unbound,ADMETlab 3.0,232,1,finite,finite
+Fraction unbound,ADMETlab 3.0,233,1,finite,finite
+Fraction unbound,ADMETlab 3.0,234,1,finite,finite
+Fraction unbound,ADMETlab 3.0,235,1,finite,finite
+Fraction unbound,ADMETlab 3.0,236,1,finite,finite
+Fraction unbound,ADMETlab 3.0,237,1,finite,finite
+Fraction unbound,ADMETlab 3.0,238,1,finite,finite
+Fraction unbound,ADMETlab 3.0,239,1,finite,finite
+Fraction unbound,ADMETlab 3.0,240,1,finite,finite
+Fraction unbound,ADMETlab 3.0,241,1,finite,finite
+Fraction unbound,ADMETlab 3.0,242,1,finite,finite
+Fraction unbound,ADMETlab 3.0,243,1,finite,finite
+Fraction unbound,ADMETlab 3.0,244,1,finite,finite
+Fraction unbound,ADMETlab 3.0,245,1,finite,finite
+Fraction unbound,ADMETlab 3.0,246,1,finite,finite
+Fraction unbound,ADMETlab 3.0,247,1,finite,finite
+Fraction unbound,ADMETlab 3.0,248,1,finite,finite
+Fraction unbound,ADMETlab 3.0,249,1,finite,finite
+Fraction unbound,ADMETlab 3.0,250,1,finite,finite
+Fraction unbound,ADMETlab 3.0,251,1,finite,finite
+Fraction unbound,ADMETlab 3.0,252,1,finite,finite
+Fraction unbound,ADMETlab 3.0,253,1,finite,finite
+Fraction unbound,ADMETlab 3.0,254,1,finite,finite
+Fraction unbound,ADMETlab 3.0,255,1,finite,finite
+Fraction unbound,ADMETlab 3.0,256,1,finite,finite
+Fraction unbound,ADMETlab 3.0,257,1,finite,finite
+Fraction unbound,ADMETlab 3.0,258,1,finite,finite
+Fraction unbound,ADMETlab 3.0,259,1,finite,finite
+Fraction unbound,ADMETlab 3.0,260,1,finite,finite
+Fraction unbound,ADMETlab 3.0,261,1,finite,finite
+Fraction unbound,ADMETlab 3.0,262,1,finite,finite
+Fraction unbound,ADMETlab 3.0,263,1,finite,finite
+Fraction unbound,ADMETlab 3.0,264,1,finite,finite
+Fraction unbound,ADMETlab 3.0,265,1,finite,finite
+Fraction unbound,ADMETlab 3.0,266,1,finite,finite
+Fraction unbound,ADMETlab 3.0,267,1,finite,finite
+Fraction unbound,ADMETlab 3.0,268,1,finite,finite
+Fraction unbound,ADMETlab 3.0,269,1,finite,finite
+Fraction unbound,ADMETlab 3.0,270,1,finite,finite
+Fraction unbound,ADMETlab 3.0,271,1,finite,finite
+Fraction unbound,ADMETlab 3.0,272,1,finite,finite
+Fraction unbound,ADMETlab 3.0,273,1,finite,finite
+Fraction unbound,ADMETlab 3.0,274,1,finite,finite
+Fraction unbound,ADMETlab 3.0,275,1,finite,finite
+Fraction unbound,ADMETlab 3.0,276,1,finite,finite
+Fraction unbound,ADMETlab 3.0,277,1,finite,finite
+Fraction unbound,ADMETlab 3.0,278,1,finite,finite
+Fraction unbound,ADMETlab 3.0,279,1,finite,finite
+Fraction unbound,ADMETlab 3.0,280,0,blank,finite
+Fraction unbound,ADMETlab 3.0,281,1,finite,finite
+Fraction unbound,ADMETlab 3.0,282,1,finite,finite
+Fraction unbound,ADMETlab 3.0,283,1,finite,finite
+Fraction unbound,ADMETlab 3.0,284,0,blank,finite
+Fraction unbound,ADMETlab 3.0,285,0,blank,finite
+Fraction unbound,ADMETlab 3.0,286,0,blank,finite
+Fraction unbound,ADMETlab 3.0,287,0,blank,finite
+Fraction unbound,ADMETlab 3.0,288,0,blank,finite
+Fraction unbound,ADMETlab 3.0,289,0,blank,finite
+Fraction unbound,ADMETlab 3.0,290,0,blank,finite
+Fraction unbound,ADMETlab 3.0,291,0,blank,finite
+Fraction unbound,ADMETlab 3.0,292,0,blank,finite
+Fraction unbound,ADMETlab 3.0,293,0,blank,finite
+Fraction unbound,ADMETlab 3.0,294,0,blank,finite
+Fraction unbound,ADMETlab 3.0,295,0,blank,finite
+Fraction unbound,ADMETlab 3.0,296,0,blank,finite
+Fraction unbound,ADMETlab 3.0,297,0,blank,finite
+Fraction unbound,ADMETlab 3.0,298,0,blank,finite
+Fraction unbound,ADMETlab 3.0,299,0,blank,finite
+Fraction unbound,ADMETlab 3.0,300,0,blank,finite
+Fraction unbound,ADMETlab 3.0,301,0,blank,finite
+Fraction unbound,ADMETlab 3.0,302,0,blank,finite
+Fraction unbound,ADMETlab 3.0,303,0,blank,finite
+Fraction unbound,ADMETlab 3.0,304,0,blank,finite
+Fraction unbound,ADMETlab 3.0,305,1,finite,finite
+Fraction unbound,ADMETlab 3.0,306,1,finite,finite
+Fraction unbound,ADMETlab 3.0,307,1,finite,finite
+Fraction unbound,ADMETlab 3.0,308,1,finite,finite
+Fraction unbound,ADMETlab 3.0,309,1,finite,finite
+Fraction unbound,ADMETlab 3.0,310,1,finite,finite
+Fraction unbound,ADMETlab 3.0,311,1,finite,finite
+Fraction unbound,ADMETlab 3.0,312,1,finite,finite
+Fraction unbound,ADMETlab 3.0,313,1,finite,finite
+Fraction unbound,ADMETlab 3.0,314,1,finite,finite
+Fraction unbound,ADMETlab 3.0,315,1,finite,finite
+Fraction unbound,ADMETlab 3.0,316,1,finite,finite
+Fraction unbound,ADMETlab 3.0,317,1,finite,finite
+Fraction unbound,ADMETlab 3.0,318,1,finite,finite
+Fraction unbound,ADMETlab 3.0,319,1,finite,finite
+Fraction unbound,ADMETlab 3.0,320,1,finite,finite
+Fraction unbound,ADMETlab 3.0,321,1,finite,finite
+Fraction unbound,ADMETlab 3.0,322,1,finite,finite
+Fraction unbound,ADMETlab 3.0,323,1,finite,finite
+Fraction unbound,ADMETlab 3.0,324,1,finite,finite
+Fraction unbound,ADMETlab 3.0,325,1,finite,finite
+Fraction unbound,ADMETlab 3.0,326,1,finite,finite
+Fraction unbound,ADMETlab 3.0,327,1,finite,finite
+Fraction unbound,ADMETlab 3.0,328,1,finite,finite
+Fraction unbound,ADMETlab 3.0,329,1,finite,finite
+Fraction unbound,ADMETlab 3.0,330,1,finite,finite
+Fraction unbound,ADMETlab 3.0,331,1,finite,finite
+Fraction unbound,ADMETlab 3.0,332,1,finite,finite
+Fraction unbound,ADMETlab 3.0,333,1,finite,finite
+Fraction unbound,ADMETlab 3.0,334,1,finite,finite
+Fraction unbound,ADMETlab 3.0,335,1,finite,finite
+Fraction unbound,ADMETlab 3.0,336,1,finite,finite
+Fraction unbound,ADMETlab 3.0,337,1,finite,finite
+Fraction unbound,ADMETlab 3.0,338,1,finite,finite
+Fraction unbound,ADMETlab 3.0,339,1,finite,finite
+Fraction unbound,ADMETlab 3.0,340,1,finite,finite
+Fraction unbound,ADMETlab 3.0,341,1,finite,finite
+Fraction unbound,ADMETlab 3.0,342,1,finite,finite
+Fraction unbound,ADMETlab 3.0,343,1,finite,finite
+Fraction unbound,ADMETlab 3.0,344,1,finite,finite
+Fraction unbound,ADMETlab 3.0,345,1,finite,finite
+Fraction unbound,ADMETlab 3.0,346,1,finite,finite
+Fraction unbound,ADMETlab 3.0,347,1,finite,finite
+Fraction unbound,ADMETlab 3.0,348,1,finite,finite
+Fraction unbound,ADMETlab 3.0,349,1,finite,finite
+Fraction unbound,ADMETlab 3.0,350,1,finite,finite
+Fraction unbound,ADMETlab 3.0,351,1,finite,finite
+Fraction unbound,ADMETlab 3.0,352,1,finite,finite
+Fraction unbound,ADMETlab 3.0,353,1,finite,finite
+Fraction unbound,ADMETlab 3.0,354,1,finite,finite
+Fraction unbound,ADMETlab 3.0,355,1,finite,finite
+Fraction unbound,ADMETlab 3.0,356,1,finite,finite
+Fraction unbound,ADMETlab 3.0,357,1,finite,finite
+Fraction unbound,ADMETlab 3.0,358,1,finite,finite
+Fraction unbound,ADMETlab 3.0,359,1,finite,finite
+Fraction unbound,ADMETlab 3.0,360,1,finite,finite
+Fraction unbound,ADMETlab 3.0,361,1,finite,finite
+Fraction unbound,ADMETlab 3.0,362,1,finite,finite
+Fraction unbound,ADMETlab 3.0,363,1,finite,finite
+Fraction unbound,ADMETlab 3.0,364,1,finite,finite
+Fraction unbound,ADMETlab 3.0,365,1,finite,finite
+Fraction unbound,ADMETlab 3.0,366,1,finite,finite
+Fraction unbound,ADMETlab 3.0,367,1,finite,finite
+Fraction unbound,ADMETlab 3.0,368,1,finite,finite
+Fraction unbound,ADMETlab 3.0,369,1,finite,finite
+Fraction unbound,ADMETlab 3.0,370,1,finite,finite
+Fraction unbound,ADMETlab 3.0,371,1,finite,finite
+Fraction unbound,ADMETlab 3.0,372,1,finite,finite
+Fraction unbound,ADMETlab 3.0,373,1,finite,finite
+Fraction unbound,ADMETlab 3.0,374,1,finite,finite
+Fraction unbound,ADMETlab 3.0,375,1,finite,finite
+Fraction unbound,ADMETlab 3.0,376,1,finite,finite
+Fraction unbound,ADMETlab 3.0,377,1,finite,finite
+Fraction unbound,ADMETlab 3.0,378,1,finite,finite
+Fraction unbound,ADMETlab 3.0,379,1,finite,finite
+Fraction unbound,ADMETlab 3.0,380,1,finite,finite
+Fraction unbound,ADMETlab 3.0,381,1,finite,finite
+Fraction unbound,ADMETlab 3.0,382,1,finite,finite
+Fraction unbound,ADMETlab 3.0,383,1,finite,finite
+Fraction unbound,ADMETlab 3.0,384,1,finite,finite
+Fraction unbound,ADMETlab 3.0,385,1,finite,finite
+Fraction unbound,ADMETlab 3.0,386,1,finite,finite
+Fraction unbound,ADMETlab 3.0,387,1,finite,finite
+Fraction unbound,ADMETlab 3.0,388,1,finite,finite
+Fraction unbound,ADMETlab 3.0,389,1,finite,finite
+Fraction unbound,ADMETlab 3.0,390,1,finite,finite
+Fraction unbound,ADMETlab 3.0,391,1,finite,finite
+Fraction unbound,ADMETlab 3.0,392,1,finite,finite
+Fraction unbound,ADMETlab 3.0,393,1,finite,finite
+Fraction unbound,ADMETlab 3.0,394,0,blank,finite
+Fraction unbound,ADMETlab 3.0,395,1,finite,finite
+Fraction unbound,ADMETlab 3.0,396,1,finite,finite
+Fraction unbound,ADMETlab 3.0,397,1,finite,finite
+Fraction unbound,ADMETlab 3.0,398,1,finite,finite
+Fraction unbound,ADMETlab 3.0,399,0,blank,finite
+Fraction unbound,ADMETlab 3.0,400,1,finite,finite
+Fraction unbound,ADMETlab 3.0,401,1,finite,finite
+Fraction unbound,ADMETlab 3.0,402,1,finite,finite
+Fraction unbound,ADMETlab 3.0,403,1,finite,finite
+Fraction unbound,ADMETlab 3.0,404,1,finite,finite
+Fraction unbound,ADMETlab 3.0,405,0,blank,finite
+Fraction unbound,ADMETlab 3.0,406,1,finite,finite
+Fraction unbound,ADMETlab 3.0,407,1,finite,finite
+Fraction unbound,ADMETlab 3.0,408,1,finite,finite
+Fraction unbound,ADMETlab 3.0,409,1,finite,finite
+Fraction unbound,ADMETlab 3.0,410,1,finite,finite
+Fraction unbound,ADMETlab 3.0,411,1,finite,finite
+Fraction unbound,ADMETlab 3.0,412,1,finite,finite
+Fraction unbound,ADMETlab 3.0,413,1,finite,finite
+Fraction unbound,ADMETlab 3.0,414,1,finite,finite
+Fraction unbound,ADMETlab 3.0,415,1,finite,finite
+Fraction unbound,ADMETlab 3.0,416,1,finite,finite
+Fraction unbound,ADMETlab 3.0,417,1,finite,finite
+Fraction unbound,ADMETlab 3.0,418,1,finite,finite
+Fraction unbound,ADMETlab 3.0,419,1,finite,finite
+Fraction unbound,ADMETlab 3.0,420,1,finite,finite
+Fraction unbound,ADMETlab 3.0,421,1,finite,finite
+Fraction unbound,ADMETlab 3.0,422,1,finite,finite
+Fraction unbound,ADMETlab 3.0,423,1,finite,finite
+Fraction unbound,ADMETlab 3.0,424,1,finite,finite
+Fraction unbound,ADMETlab 3.0,425,1,finite,finite
+Fraction unbound,ADMETlab 3.0,426,1,finite,finite
+Fraction unbound,ADMETlab 3.0,427,1,finite,finite
+Fraction unbound,ADMETlab 3.0,428,1,finite,finite
+Fraction unbound,ADMETlab 3.0,429,1,finite,finite
+Fraction unbound,ADMETlab 3.0,430,1,finite,finite
+Fraction unbound,ADMETlab 3.0,431,1,finite,finite
+Fraction unbound,ADMETlab 3.0,432,1,finite,finite
+Fraction unbound,ADMETlab 3.0,433,1,finite,finite
+Fraction unbound,ADMETlab 3.0,434,1,finite,finite
+Fraction unbound,ADMETlab 3.0,435,1,finite,finite
+Fraction unbound,ADMETlab 3.0,436,1,finite,finite
+Fraction unbound,ADMETlab 3.0,437,1,finite,finite
+Fraction unbound,ADMETlab 3.0,438,1,finite,finite
+Fraction unbound,ADMETlab 3.0,439,1,finite,finite
+Fraction unbound,ADMETlab 3.0,440,1,finite,finite
+Fraction unbound,ADMETlab 3.0,441,0,blank,finite
+Fraction unbound,ADMETlab 3.0,442,1,finite,finite
+Fraction unbound,ADMETlab 3.0,443,1,finite,finite
+Fraction unbound,ADMETlab 3.0,444,1,finite,finite
+Fraction unbound,ADMETlab 3.0,445,1,finite,finite
+Fraction unbound,ADMETlab 3.0,446,1,finite,finite
+Fraction unbound,ADMETlab 3.0,447,1,finite,finite
+Fraction unbound,ADMETlab 3.0,448,1,finite,finite
+Fraction unbound,ADMETlab 3.0,449,1,finite,finite
+Fraction unbound,ADMETlab 3.0,450,1,finite,finite
+Fraction unbound,ADMETlab 3.0,451,1,finite,finite
+Fraction unbound,ADMETlab 3.0,452,1,finite,finite
+Fraction unbound,ADMETlab 3.0,453,1,finite,finite
+Fraction unbound,ADMETlab 3.0,454,1,finite,finite
+Fraction unbound,ADMETlab 3.0,455,1,finite,finite
+Fraction unbound,ADMETlab 3.0,456,0,blank,finite
+Fraction unbound,ADMETlab 3.0,457,0,blank,finite
+Fraction unbound,ADMETlab 3.0,458,1,finite,finite
+Fraction unbound,ADMETlab 3.0,459,1,finite,finite
+Fraction unbound,ADMETlab 3.0,460,1,finite,finite
+Fraction unbound,ADMETlab 3.0,461,1,finite,finite
+Fraction unbound,ADMETlab 3.0,462,1,finite,finite
+Fraction unbound,ADMETlab 3.0,463,1,finite,finite
+Fraction unbound,ADMETlab 3.0,464,1,finite,finite
+Fraction unbound,ADMETlab 3.0,465,1,finite,finite
+Fraction unbound,ADMETlab 3.0,466,1,finite,finite
+Fraction unbound,ADMETlab 3.0,467,1,finite,finite
+Fraction unbound,ADMETlab 3.0,468,1,finite,finite
+Fraction unbound,ADMETlab 3.0,469,1,finite,finite
+Fraction unbound,ADMETlab 3.0,470,0,blank,finite
+Fraction unbound,ADMETlab 3.0,471,0,blank,finite
+Fraction unbound,ADMETlab 3.0,472,0,blank,finite
+Fraction unbound,ADMETlab 3.0,473,0,blank,finite
+Fraction unbound,ADMETlab 3.0,474,0,blank,finite
+Fraction unbound,ADMETlab 3.0,475,0,blank,finite
+Fraction unbound,ADMETlab 3.0,476,0,blank,finite
+Fraction unbound,ADMETlab 3.0,477,0,blank,finite
+Fraction unbound,ADMETlab 3.0,478,0,blank,finite
+Fraction unbound,ADMETlab 3.0,479,0,blank,finite
+Fraction unbound,ADMETlab 3.0,480,0,blank,finite
+Fraction unbound,ADMETlab 3.0,481,0,blank,finite
+Fraction unbound,ADMETlab 3.0,482,0,blank,finite
+Fraction unbound,ADMETlab 3.0,483,0,blank,finite
+Fraction unbound,ADMETlab 3.0,484,0,blank,finite
+Fraction unbound,ADMETlab 3.0,485,0,blank,finite

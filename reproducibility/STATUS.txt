@@ -1,0 +1,5 @@
+GITHUB_REPRODUCTION_PACKAGE
+Repository: https://github.com/BOYA1999/From-assay-defined-labels-to-regulatory-use-an-evidence-framework-for-ADMET-predictions
+Snapshot date: 2026-10-27
+Author-created code uses the repository's existing MIT licence. Third-party materials retain source-specific terms.
+No Zenodo DOI is assigned or implied.

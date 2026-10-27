@@ -1,0 +1,15 @@
+{
+  "data/biliary_seven_drug_inputs.csv": "ce418f4855fcc59e3473ac802da7157e1b00e80142004c3189cc614ae2f0f106",
+  "data/deepdelta_identity_folds.csv": "8c9daae81cf91e6099d8946ff24d19ece2ad1cdd4c001a4468067b81cef17717",
+  "data/nature_field_mapping.csv": "def66adcaab29c1b4f1f6403dbd2a5be26a1637537e12f4ef8b0c948949f7dd6",
+  "data/nature_supplied_columns.csv": "af89293765c1b25ce812664c0d98fd4a310b675c641028daef509e428a75f0ca",
+  "data/ppb_observed_predicted.csv": "10b8219b8eb8f616edd81f304d298d4e286a7690b63b980dda31256b5cb66274",
+  "data/ppb_reported_summaries.csv": "6ce272d9f02cb8e3e97814827709532217319f1bce041be195c7fa6973f40865",
+  "expected_outputs/nature_masks.csv": "f13923de2f47d2b69f049294ac061b68f33f4d77371e41a5cf620ef76ae9068d",
+  "expected_outputs/results.json": "4c4af6ebb585b8aac19953fb876d4978dd58bc55ff5c00e421ee630dbcfd5d45",
+  "extract_inputs.py": "10f5054c6b96061a1546b3b0504e971c83b755028f6f7e2995853e9ee59cf0e8",
+  "frozen_nature_checks.json": "fc37d3478fd39299be9df6cb14c06a981be8e011a7485534a65ab30e67f97a76",
+  "README.md": "25ef01755672bfab68aaf43f1c9e6b93257c042261729d3647acc5a43f66f0e4",
+  "replay.py": "62fe5ac6a300caed6127521e1211dda48a180e35b6c84fbbd37f44c604fde025",
+  "source_manifest.json": "463c9bcd95d748e7d666b71d21c98fc4bccf1cf61abb6ca53d7239d1078a4930"
+}

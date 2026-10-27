@@ -1,0 +1,41 @@
+{
+  "review_version": "v13",
+  "packaged_on": "2026-10-11",
+  "source_checks_first_completed": "2026-10-09 to 2026-10-10; existing limits carried through v12",
+  "sources": {
+    "HepClear.csv": {
+      "doi": "10.1186/s13321-023-00769-x",
+      "url": "https://raw.githubusercontent.com/RekerLab/DeepDelta/cd9b131559d54be639fcb9455e4c057a3dfd2c6b/Datasets/Benchmarks/HepClear.csv",
+      "sha256": "a24df6658fe5896e47e9685c8e85a511a7374444c809e507ddaa793c172afa90",
+      "version": "Git commit cd9b131559d54be639fcb9455e4c057a3dfd2c6b",
+      "rights": "Article CC BY 4.0. Repository LICENSE offers GPLv2 for non-commercial academic software use and a separate Duke commercial licence. Original repository data and code are not redistributed here; exported equality hashes identify duplicate raw strings only. No chemical standardisation is applied.",
+      "licence_url": "https://github.com/RekerLab/DeepDelta/blob/cd9b131559d54be639fcb9455e4c057a3dfd2c6b/LICENSE",
+      "split_code_url": "https://github.com/RekerLab/DeepDelta/blob/cd9b131559d54be639fcb9455e4c057a3dfd2c6b/Code/cross_validations.py",
+      "split_code_sha256": "a9b40a934c74e1da389fbf382b8c2012bb44b60ed3b3924e36002e7e1bf62940"
+    },
+    "ref22_mmc2.xls": {
+      "doi": "10.1016/j.ejps.2024.106946",
+      "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0928098724002598-mmc2.xls",
+      "sha256": "9863217202dd139e7c0b33e9cb52806defe00319e8319844591931c90f6f679b",
+      "version": "Official mmc2.xls snapshot obtained 2026-10-10",
+      "rights": "Han et al., The state-of-the-art machine learning model for plasma protein binding prediction: Computational modeling with OCHEM and experimental validation, European Journal of Pharmaceutical Sciences (2024). Source article states CC BY 4.0. Numerical fields and source cell locators are extracted; no article or full workbook is redistributed.",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "ref58_source.xlsx": {
+      "doi": "10.1038/s42003-023-05216-z",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs42003-023-05216-z/MediaObjects/42003_2023_5216_MOESM4_ESM.xlsx",
+      "sha256": "cba0d4467fc21396e3558b521643f6072519896c9d957b8def04e2f5db1fb0c9",
+      "version": "Official Supplementary Data 1 snapshot obtained 2026-10-10",
+      "rights": "Arakawa et al., Induction of open-form bile canaliculus formation by hepatocytes for evaluation of biliary drug excretion, Communications Biology (2023). Article CC BY 4.0. Only Figure 5d/5e numerical cells are extracted.",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "R42_MOESM5.xlsx": {
+      "doi": "10.1038/s41586-026-11013-5",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-026-11013-5/MediaObjects/41586_2026_11013_MOESM5_ESM.xlsx",
+      "sha256": "c76915f4695841a0fa1bd389e35e8087d4028ec2ad6bc2a56d11d87a9eaafbbe",
+      "version": "Official MOESM5 snapshot matched independently on 2026-10-09 and 2026-10-10",
+      "rights": "Development of a random background to understand ligand optimization, Nature (2026), DOI above. Article CC BY 4.0. Selected supplied transformed columns, row identifiers and source summary values are extracted; the full workbook and article are not redistributed.",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  }
+}

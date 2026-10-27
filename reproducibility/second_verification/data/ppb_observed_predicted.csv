@@ -1,0 +1,869 @@
+dataset,model,source_row,observed_cell,predicted_cell,observed_ppb_percent,predicted_ppb_percent
+25 new measurements_set,ADMETlab3.0,3,C3,D3,64.19,45.8
+25 new measurements_set,ADMETlab3.0,4,C4,D4,99.99,98.5
+25 new measurements_set,ADMETlab3.0,5,C5,D5,99.01,85.1
+25 new measurements_set,ADMETlab3.0,6,C6,D6,97.62,98.4
+25 new measurements_set,ADMETlab3.0,7,C7,D7,99.96,98.0
+25 new measurements_set,ADMETlab3.0,8,C8,D8,99.5,96.9
+25 new measurements_set,ADMETlab3.0,9,C9,D9,97.64,94.3
+25 new measurements_set,ADMETlab3.0,10,C10,D10,98.29,98.7
+25 new measurements_set,ADMETlab3.0,11,C11,D11,99.24,98.2
+25 new measurements_set,ADMETlab3.0,12,C12,D12,93.08,95.6
+25 new measurements_set,ADMETlab3.0,13,C13,D13,94.13,88.0
+25 new measurements_set,ADMETlab3.0,14,C14,D14,99.76,98.1
+25 new measurements_set,ADMETlab3.0,15,C15,D15,98.83,97.6
+25 new measurements_set,ADMETlab3.0,16,C16,D16,99.55,98.4
+25 new measurements_set,ADMETlab3.0,17,C17,D17,99.56,98.7
+25 new measurements_set,ADMETlab3.0,18,C18,D18,99.64,98.7
+25 new measurements_set,ADMETlab3.0,19,C19,D19,99.95,98.7
+25 new measurements_set,ADMETlab3.0,20,C20,D20,97.63,97.6
+25 new measurements_set,ADMETlab3.0,21,C21,D21,97.43,98.4
+25 new measurements_set,ADMETlab3.0,22,C22,D22,96.11,82.2
+25 new measurements_set,ADMETlab3.0,23,C23,D23,99.3,99.1
+25 new measurements_set,ADMETlab3.0,24,C24,D24,99.16,98.9
+25 new measurements_set,ADMETlab3.0,25,C25,D25,64.4,95.3
+25 new measurements_set,ADMETlab3.0,26,C26,D26,97.51,97.9
+25 new measurements_set,ADMETlab3.0,27,C27,D27,9.6,41.1
+25 new measurements_set,admetSAR3.0,3,C3,F3,64.19,79.4
+25 new measurements_set,admetSAR3.0,4,C4,F4,99.99,100.0
+25 new measurements_set,admetSAR3.0,5,C5,F5,99.01,78.1
+25 new measurements_set,admetSAR3.0,6,C6,F6,97.62,100.0
+25 new measurements_set,admetSAR3.0,7,C7,F7,99.96,100.0
+25 new measurements_set,admetSAR3.0,8,C8,F8,99.5,95.3
+25 new measurements_set,admetSAR3.0,9,C9,F9,97.64,95.4
+25 new measurements_set,admetSAR3.0,10,C10,F10,98.29,100.0
+25 new measurements_set,admetSAR3.0,11,C11,F11,99.24,96.8
+25 new measurements_set,admetSAR3.0,12,C12,F12,93.08,90.5
+25 new measurements_set,admetSAR3.0,13,C13,F13,94.13,80.6
+25 new measurements_set,admetSAR3.0,14,C14,F14,99.76,100.0
+25 new measurements_set,admetSAR3.0,15,C15,F15,98.83,98.0
+25 new measurements_set,admetSAR3.0,16,C16,F16,99.55,100.0
+25 new measurements_set,admetSAR3.0,17,C17,F17,99.56,92.5
+25 new measurements_set,admetSAR3.0,18,C18,F18,99.64,100.0
+25 new measurements_set,admetSAR3.0,19,C19,F19,99.95,95.1
+25 new measurements_set,admetSAR3.0,20,C20,F20,97.63,100.0
+25 new measurements_set,admetSAR3.0,21,C21,F21,97.43,91.2
+25 new measurements_set,admetSAR3.0,22,C22,F22,96.11,83.2
+25 new measurements_set,admetSAR3.0,23,C23,F23,99.3,100.0
+25 new measurements_set,admetSAR3.0,24,C24,F24,99.16,100.0
+25 new measurements_set,admetSAR3.0,25,C25,F25,64.4,88.6
+25 new measurements_set,admetSAR3.0,26,C26,F26,97.51,99.4
+25 new measurements_set,admetSAR3.0,27,C27,F27,9.6,25.6
+25 new measurements_set,DruMAP,3,C3,H3,64.19,82.83
+25 new measurements_set,DruMAP,4,C4,H4,99.99,98.37
+25 new measurements_set,DruMAP,5,C5,H5,99.01,85.68
+25 new measurements_set,DruMAP,6,C6,H6,97.62,95.15
+25 new measurements_set,DruMAP,7,C7,H7,99.96,98.75
+25 new measurements_set,DruMAP,8,C8,H8,99.5,95.49
+25 new measurements_set,DruMAP,9,C9,H9,97.64,96.85
+25 new measurements_set,DruMAP,10,C10,H10,98.29,96.0
+25 new measurements_set,DruMAP,11,C11,H11,99.24,94.28
+25 new measurements_set,DruMAP,12,C12,H12,93.08,93.09
+25 new measurements_set,DruMAP,13,C13,H13,94.13,77.2
+25 new measurements_set,DruMAP,14,C14,H14,99.76,95.54
+25 new measurements_set,DruMAP,15,C15,H15,98.83,95.54
+25 new measurements_set,DruMAP,16,C16,H16,99.55,96.84
+25 new measurements_set,DruMAP,17,C17,H17,99.56,97.27
+25 new measurements_set,DruMAP,18,C18,H18,99.64,98.84
+25 new measurements_set,DruMAP,19,C19,H19,99.95,96.87
+25 new measurements_set,DruMAP,20,C20,H20,97.63,96.47
+25 new measurements_set,DruMAP,21,C21,H21,97.43,96.84
+25 new measurements_set,DruMAP,22,C22,H22,96.11,90.31
+25 new measurements_set,DruMAP,23,C23,H23,99.3,98.57
+25 new measurements_set,DruMAP,24,C24,H24,99.16,98.1
+25 new measurements_set,DruMAP,25,C25,H25,64.4,79.02
+25 new measurements_set,DruMAP,26,C26,H26,97.51,98.35
+25 new measurements_set,DruMAP,27,C27,H27,9.6,60.27
+25 new measurements_set,Pangu Drug Molecule,3,C3,J3,64.19,75.9
+25 new measurements_set,Pangu Drug Molecule,4,C4,J4,99.99,95.7
+25 new measurements_set,Pangu Drug Molecule,5,C5,J5,99.01,79.4
+25 new measurements_set,Pangu Drug Molecule,6,C6,J6,97.62,91.8
+25 new measurements_set,Pangu Drug Molecule,7,C7,J7,99.96,99.5
+25 new measurements_set,Pangu Drug Molecule,8,C8,J8,99.5,89.6
+25 new measurements_set,Pangu Drug Molecule,9,C9,J9,97.64,100.0
+25 new measurements_set,Pangu Drug Molecule,10,C10,J10,98.29,96.9
+25 new measurements_set,Pangu Drug Molecule,11,C11,J11,99.24,80.9
+25 new measurements_set,Pangu Drug Molecule,12,C12,J12,93.08,94.8
+25 new measurements_set,Pangu Drug Molecule,13,C13,J13,94.13,80.173
+25 new measurements_set,Pangu Drug Molecule,14,C14,J14,99.76,97.0
+25 new measurements_set,Pangu Drug Molecule,15,C15,J15,98.83,100.0
+25 new measurements_set,Pangu Drug Molecule,16,C16,J16,99.55,97.2
+25 new measurements_set,Pangu Drug Molecule,17,C17,J17,99.56,93.7
+25 new measurements_set,Pangu Drug Molecule,18,C18,J18,99.64,100.0
+25 new measurements_set,Pangu Drug Molecule,19,C19,J19,99.95,100.0
+25 new measurements_set,Pangu Drug Molecule,20,C20,J20,97.63,100.0
+25 new measurements_set,Pangu Drug Molecule,21,C21,J21,97.43,90.6
+25 new measurements_set,Pangu Drug Molecule,22,C22,J22,96.11,75.8
+25 new measurements_set,Pangu Drug Molecule,23,C23,J23,99.3,95.4
+25 new measurements_set,Pangu Drug Molecule,24,C24,J24,99.16,100.0
+25 new measurements_set,Pangu Drug Molecule,25,C25,J25,64.4,78.1
+25 new measurements_set,Pangu Drug Molecule,26,C26,J26,97.51,95.3
+25 new measurements_set,Pangu Drug Molecule,27,C27,J27,9.6,20.8
+25 new measurements_set,pkCSM(Deep-PK),3,C3,L3,64.19,44.99
+25 new measurements_set,pkCSM(Deep-PK),4,C4,L4,99.99,101.78
+25 new measurements_set,pkCSM(Deep-PK),5,C5,L5,99.01,85.94
+25 new measurements_set,pkCSM(Deep-PK),6,C6,L6,97.62,82.17
+25 new measurements_set,pkCSM(Deep-PK),7,C7,L7,99.96,106.45
+25 new measurements_set,pkCSM(Deep-PK),8,C8,L8,99.5,88.54
+25 new measurements_set,pkCSM(Deep-PK),9,C9,L9,97.64,84.28
+25 new measurements_set,pkCSM(Deep-PK),10,C10,L10,98.29,58.69
+25 new measurements_set,pkCSM(Deep-PK),11,C11,L11,99.24,94.37
+25 new measurements_set,pkCSM(Deep-PK),12,C12,L12,93.08,73.48
+25 new measurements_set,pkCSM(Deep-PK),13,C13,L13,94.13,59.12
+25 new measurements_set,pkCSM(Deep-PK),14,C14,L14,99.76,103.65
+25 new measurements_set,pkCSM(Deep-PK),15,C15,L15,98.83,95.38
+25 new measurements_set,pkCSM(Deep-PK),16,C16,L16,99.55,92.31
+25 new measurements_set,pkCSM(Deep-PK),17,C17,L17,99.56,79.66
+25 new measurements_set,pkCSM(Deep-PK),18,C18,L18,99.64,101.41
+25 new measurements_set,pkCSM(Deep-PK),19,C19,L19,99.95,88.1
+25 new measurements_set,pkCSM(Deep-PK),20,C20,L20,97.63,95.67
+25 new measurements_set,pkCSM(Deep-PK),21,C21,L21,97.43,91.55
+25 new measurements_set,pkCSM(Deep-PK),22,C22,L22,96.11,58.15
+25 new measurements_set,pkCSM(Deep-PK),23,C23,L23,99.3,99.79
+25 new measurements_set,pkCSM(Deep-PK),24,C24,L24,99.16,66.42
+25 new measurements_set,pkCSM(Deep-PK),25,C25,L25,64.4,64.54
+25 new measurements_set,pkCSM(Deep-PK),26,C26,L26,97.51,106.07
+25 new measurements_set,pkCSM(Deep-PK),27,C27,L27,9.6,38.38
+25 new measurements_set,PreADMET,3,C3,N3,64.19,73.53
+25 new measurements_set,PreADMET,4,C4,N4,99.99,89.58
+25 new measurements_set,PreADMET,5,C5,N5,99.01,80.75
+25 new measurements_set,PreADMET,6,C6,N6,97.62,91.85
+25 new measurements_set,PreADMET,7,C7,N7,99.96,95.32
+25 new measurements_set,PreADMET,8,C8,N8,99.5,96.43
+25 new measurements_set,PreADMET,9,C9,N9,97.64,96.88
+25 new measurements_set,PreADMET,10,C10,N10,98.29,88.91
+25 new measurements_set,PreADMET,11,C11,N11,99.24,87.34
+25 new measurements_set,PreADMET,12,C12,N12,93.08,83.31
+25 new measurements_set,PreADMET,13,C13,N13,94.13,75.917
+25 new measurements_set,PreADMET,14,C14,N14,99.76,93.67
+25 new measurements_set,PreADMET,15,C15,N15,98.83,90.58
+25 new measurements_set,PreADMET,16,C16,N16,99.55,91.02
+25 new measurements_set,PreADMET,17,C17,N17,99.56,96.51
+25 new measurements_set,PreADMET,18,C18,N18,99.64,100.0
+25 new measurements_set,PreADMET,19,C19,N19,99.95,93.68
+25 new measurements_set,PreADMET,20,C20,N20,97.63,90.87
+25 new measurements_set,PreADMET,21,C21,N21,97.43,90.12
+25 new measurements_set,PreADMET,22,C22,N22,96.11,85.59
+25 new measurements_set,PreADMET,23,C23,N23,99.3,100.0
+25 new measurements_set,PreADMET,24,C24,N24,99.16,100.0
+25 new measurements_set,PreADMET,25,C25,N25,64.4,87.14
+25 new measurements_set,PreADMET,26,C26,N26,97.51,90.69
+25 new measurements_set,PreADMET,27,C27,N27,9.6,62.4
+25 new measurements_set,Our model,3,C3,P3,64.19,56.07
+25 new measurements_set,Our model,4,C4,P4,99.99,99.17
+25 new measurements_set,Our model,5,C5,P5,99.01,88.62
+25 new measurements_set,Our model,6,C6,P6,97.62,97.52
+25 new measurements_set,Our model,7,C7,P7,99.96,99.45
+25 new measurements_set,Our model,8,C8,P8,99.5,97.64
+25 new measurements_set,Our model,9,C9,P9,97.64,97.63
+25 new measurements_set,Our model,10,C10,P10,98.29,97.7
+25 new measurements_set,Our model,11,C11,P11,99.24,97.59
+25 new measurements_set,Our model,12,C12,P12,93.08,97.47
+25 new measurements_set,Our model,13,C13,P13,94.13,87.52
+25 new measurements_set,Our model,14,C14,P14,99.76,98.53
+25 new measurements_set,Our model,15,C15,P15,98.83,98.55
+25 new measurements_set,Our model,16,C16,P16,99.55,97.51
+25 new measurements_set,Our model,17,C17,P17,99.56,98.61
+25 new measurements_set,Our model,18,C18,P18,99.64,99.41
+25 new measurements_set,Our model,19,C19,P19,99.95,98.93
+25 new measurements_set,Our model,20,C20,P20,97.63,96.59
+25 new measurements_set,Our model,21,C21,P21,97.43,97.56
+25 new measurements_set,Our model,22,C22,P22,96.11,93.2
+25 new measurements_set,Our model,23,C23,P23,99.3,98.97
+25 new measurements_set,Our model,24,C24,P24,99.16,98.91
+25 new measurements_set,Our model,25,C25,P25,64.4,76.84
+25 new measurements_set,Our model,26,C26,P26,97.51,99.26
+25 new measurements_set,Our model,27,C27,P27,9.6,30.11
+PFC_test_set,ADMETlab3.0,3,F3,H3,96.04,99.0
+PFC_test_set,ADMETlab3.0,4,F4,H4,94.82,98.6
+PFC_test_set,ADMETlab3.0,5,F5,H5,99.93,99.4
+PFC_test_set,ADMETlab3.0,6,F6,H6,99.81,99.3
+PFC_test_set,ADMETlab3.0,7,F7,H7,62.2,99.1
+PFC_test_set,ADMETlab3.0,8,F8,H8,99.82,99.3
+PFC_test_set,ADMETlab3.0,9,F9,H9,97.11,99.2
+PFC_test_set,ADMETlab3.0,10,F10,H10,98.83,99.2
+PFC_test_set,ADMETlab3.0,11,F11,H11,98.77,98.9
+PFC_test_set,ADMETlab3.0,12,F12,H12,99.06,93.8
+PFC_test_set,ADMETlab3.0,13,F13,H13,99.41,99.0
+PFC_test_set,ADMETlab3.0,14,F14,H14,99.73,99.2
+PFC_test_set,ADMETlab3.0,15,F15,H15,99.32,99.0
+PFC_test_set,ADMETlab3.0,16,F16,H16,99.51,99.2
+PFC_test_set,ADMETlab3.0,17,F17,H17,99.54,98.4
+PFC_test_set,ADMETlab3.0,18,F18,H18,99.9,99.0
+PFC_test_set,ADMETlab3.0,19,F19,H19,99.69,95.8
+PFC_test_set,ADMETlab3.0,20,F20,H20,97.29,99.5
+PFC_test_set,ADMETlab3.0,21,F21,H21,99.3,99.2
+PFC_test_set,ADMETlab3.0,22,F22,H22,99.5,98.5
+PFC_test_set,ADMETlab3.0,23,F23,H23,99.99,99.3
+PFC_test_set,ADMETlab3.0,24,F24,H24,89.97,94.5
+PFC_test_set,ADMETlab3.0,25,F25,H25,88.3,97.5
+PFC_test_set,ADMETlab3.0,26,F26,H26,90.7,98.1
+PFC_test_set,ADMETlab3.0,27,F27,H27,99.94,99.3
+PFC_test_set,ADMETlab3.0,28,F28,H28,99.91,99.0
+PFC_test_set,ADMETlab3.0,29,F29,H29,99.82,98.6
+PFC_test_set,ADMETlab3.0,30,F30,H30,99.85,97.2
+PFC_test_set,ADMETlab3.0,31,F31,H31,99.93,98.6
+PFC_test_set,ADMETlab3.0,32,F32,H32,99.96,98.7
+PFC_test_set,ADMETlab3.0,33,F33,H33,99.85,99.2
+PFC_test_set,ADMETlab3.0,34,F34,H34,82.86,97.1
+PFC_test_set,ADMETlab3.0,35,F35,H35,92.03,98.7
+PFC_test_set,ADMETlab3.0,36,F36,H36,99.61,98.3
+PFC_test_set,ADMETlab3.0,37,F37,H37,98.83,97.7
+PFC_test_set,ADMETlab3.0,38,F38,H38,95.6,98.2
+PFC_test_set,ADMETlab3.0,39,F39,H39,99.79,98.5
+PFC_test_set,ADMETlab3.0,40,F40,H40,98.57,98.9
+PFC_test_set,ADMETlab3.0,41,F41,H41,94.72,99.5
+PFC_test_set,ADMETlab3.0,42,F42,H42,99.74,98.9
+PFC_test_set,ADMETlab3.0,43,F43,H43,92.36,94.9
+PFC_test_set,ADMETlab3.0,44,F44,H44,91.97,99.1
+PFC_test_set,ADMETlab3.0,45,F45,H45,99.77,99.1
+PFC_test_set,ADMETlab3.0,46,F46,H46,99.91,98.9
+PFC_test_set,ADMETlab3.0,47,F47,H47,99.79,98.9
+PFC_test_set,ADMETlab3.0,48,F48,H48,99.53,99.2
+PFC_test_set,ADMETlab3.0,49,F49,H49,99.9,99.1
+PFC_test_set,ADMETlab3.0,50,F50,H50,99.6,99.3
+PFC_test_set,ADMETlab3.0,51,F51,H51,99.93,99.1
+PFC_test_set,ADMETlab3.0,52,F52,H52,90.44,96.4
+PFC_test_set,ADMETlab3.0,53,F53,H53,99.97,96.9
+PFC_test_set,ADMETlab3.0,54,F54,H54,99.83,99.2
+PFC_test_set,ADMETlab3.0,55,F55,H55,98.84,99.3
+PFC_test_set,ADMETlab3.0,56,F56,H56,98.74,89.3
+PFC_test_set,ADMETlab3.0,57,F57,H57,99.94,99.0
+PFC_test_set,ADMETlab3.0,58,F58,H58,46.8,95.3
+PFC_test_set,ADMETlab3.0,59,F59,H59,26.98,88.4
+PFC_test_set,ADMETlab3.0,60,F60,H60,68.92,90.1
+PFC_test_set,ADMETlab3.0,61,F61,H61,98.91,99.3
+PFC_test_set,ADMETlab3.0,62,F62,H62,99.49,99.1
+PFC_test_set,ADMETlab3.0,63,F63,H63,99.42,98.4
+PFC_test_set,ADMETlab3.0,64,F64,H64,93.3,98.9
+PFC_test_set,ADMETlab3.0,65,F65,H65,95.67,99.4
+PFC_test_set,admetSAR3.0,3,F3,J3,96.04,100.0
+PFC_test_set,admetSAR3.0,4,F4,J4,94.82,70.4
+PFC_test_set,admetSAR3.0,5,F5,J5,99.93,100.0
+PFC_test_set,admetSAR3.0,6,F6,J6,99.81,100.0
+PFC_test_set,admetSAR3.0,7,F7,J7,62.2,75.5
+PFC_test_set,admetSAR3.0,8,F8,J8,99.82,95.5
+PFC_test_set,admetSAR3.0,9,F9,J9,97.11,99.0
+PFC_test_set,admetSAR3.0,10,F10,J10,98.83,100.0
+PFC_test_set,admetSAR3.0,11,F11,J11,98.77,100.0
+PFC_test_set,admetSAR3.0,12,F12,J12,99.06,74.6
+PFC_test_set,admetSAR3.0,13,F13,J13,99.41,74.4
+PFC_test_set,admetSAR3.0,14,F14,J14,99.73,100.0
+PFC_test_set,admetSAR3.0,15,F15,J15,99.32,79.7
+PFC_test_set,admetSAR3.0,16,F16,J16,99.51,100.0
+PFC_test_set,admetSAR3.0,17,F17,J17,99.54,86.9
+PFC_test_set,admetSAR3.0,18,F18,J18,99.9,99.9
+PFC_test_set,admetSAR3.0,19,F19,J19,99.69,80.5
+PFC_test_set,admetSAR3.0,20,F20,J20,97.29,100.0
+PFC_test_set,admetSAR3.0,21,F21,J21,99.3,100.0
+PFC_test_set,admetSAR3.0,22,F22,J22,99.5,90.6
+PFC_test_set,admetSAR3.0,23,F23,J23,99.99,100.0
+PFC_test_set,admetSAR3.0,24,F24,J24,89.97,80.6
+PFC_test_set,admetSAR3.0,25,F25,J25,88.3,71.5
+PFC_test_set,admetSAR3.0,26,F26,J26,90.7,67.0
+PFC_test_set,admetSAR3.0,27,F27,J27,99.94,95.5
+PFC_test_set,admetSAR3.0,28,F28,J28,99.91,100.0
+PFC_test_set,admetSAR3.0,29,F29,J29,99.82,100.0
+PFC_test_set,admetSAR3.0,30,F30,J30,99.85,89.0
+PFC_test_set,admetSAR3.0,31,F31,J31,99.93,100.0
+PFC_test_set,admetSAR3.0,32,F32,J32,99.96,91.8
+PFC_test_set,admetSAR3.0,33,F33,J33,99.85,100.0
+PFC_test_set,admetSAR3.0,34,F34,J34,82.86,61.6
+PFC_test_set,admetSAR3.0,35,F35,J35,92.03,99.0
+PFC_test_set,admetSAR3.0,36,F36,J36,99.61,100.0
+PFC_test_set,admetSAR3.0,37,F37,J37,98.83,77.3
+PFC_test_set,admetSAR3.0,38,F38,J38,95.6,74.6
+PFC_test_set,admetSAR3.0,39,F39,J39,99.79,90.9
+PFC_test_set,admetSAR3.0,40,F40,J40,98.57,100.0
+PFC_test_set,admetSAR3.0,41,F41,J41,94.72,100.0
+PFC_test_set,admetSAR3.0,42,F42,J42,99.74,85.1
+PFC_test_set,admetSAR3.0,43,F43,J43,92.36,70.4
+PFC_test_set,admetSAR3.0,44,F44,J44,91.97,100.0
+PFC_test_set,admetSAR3.0,45,F45,J45,99.77,83.2
+PFC_test_set,admetSAR3.0,46,F46,J46,99.91,99.9
+PFC_test_set,admetSAR3.0,47,F47,J47,99.79,92.8
+PFC_test_set,admetSAR3.0,48,F48,J48,99.53,100.0
+PFC_test_set,admetSAR3.0,49,F49,J49,99.9,95.5
+PFC_test_set,admetSAR3.0,50,F50,J50,99.6,100.0
+PFC_test_set,admetSAR3.0,51,F51,J51,99.93,95.5
+PFC_test_set,admetSAR3.0,52,F52,J52,90.44,70.1
+PFC_test_set,admetSAR3.0,53,F53,J53,99.97,96.1
+PFC_test_set,admetSAR3.0,54,F54,J54,99.83,100.0
+PFC_test_set,admetSAR3.0,55,F55,J55,98.84,100.0
+PFC_test_set,admetSAR3.0,56,F56,J56,98.74,94.9
+PFC_test_set,admetSAR3.0,57,F57,J57,99.94,100.0
+PFC_test_set,admetSAR3.0,58,F58,J58,46.8,60.9
+PFC_test_set,admetSAR3.0,59,F59,J59,26.98,53.1
+PFC_test_set,admetSAR3.0,60,F60,J60,68.92,52.9
+PFC_test_set,admetSAR3.0,61,F61,J61,98.91,100.0
+PFC_test_set,admetSAR3.0,62,F62,J62,99.49,95.4
+PFC_test_set,admetSAR3.0,63,F63,J63,99.42,100.0
+PFC_test_set,admetSAR3.0,64,F64,J64,93.3,81.49
+PFC_test_set,admetSAR3.0,65,F65,J65,95.67,100.0
+PFC_test_set,DruMAP,3,F3,L3,96.04,94.7
+PFC_test_set,DruMAP,4,F4,L4,94.82,77.1
+PFC_test_set,DruMAP,5,F5,L5,99.93,94.4
+PFC_test_set,DruMAP,6,F6,L6,99.81,93.8
+PFC_test_set,DruMAP,7,F7,L7,62.2,75.1
+PFC_test_set,DruMAP,8,F8,L8,99.82,95.4
+PFC_test_set,DruMAP,9,F9,L9,97.11,94.9
+PFC_test_set,DruMAP,10,F10,L10,98.83,93.4
+PFC_test_set,DruMAP,11,F11,L11,98.77,93.1
+PFC_test_set,DruMAP,12,F12,L12,99.06,69.0
+PFC_test_set,DruMAP,13,F13,L13,99.41,94.3
+PFC_test_set,DruMAP,14,F14,L14,99.73,95.0
+PFC_test_set,DruMAP,15,F15,L15,99.32,87.6
+PFC_test_set,DruMAP,16,F16,L16,99.51,93.7
+PFC_test_set,DruMAP,17,F17,L17,99.54,76.8
+PFC_test_set,DruMAP,18,F18,L18,99.9,76.8
+PFC_test_set,DruMAP,19,F19,L19,99.69,78.8
+PFC_test_set,DruMAP,20,F20,L20,97.29,95.2
+PFC_test_set,DruMAP,21,F21,L21,99.3,94.9
+PFC_test_set,DruMAP,22,F22,L22,99.5,84.1
+PFC_test_set,DruMAP,23,F23,L23,99.99,94.2
+PFC_test_set,DruMAP,24,F24,L24,89.97,74.3
+PFC_test_set,DruMAP,25,F25,L25,88.3,63.6
+PFC_test_set,DruMAP,26,F26,L26,90.7,66.8
+PFC_test_set,DruMAP,27,F27,L27,99.94,75.8
+PFC_test_set,DruMAP,28,F28,L28,99.91,94.2
+PFC_test_set,DruMAP,29,F29,L29,99.82,95.4
+PFC_test_set,DruMAP,30,F30,L30,99.85,69.6
+PFC_test_set,DruMAP,31,F31,L31,99.93,93.9
+PFC_test_set,DruMAP,32,F32,L32,99.96,87.6
+PFC_test_set,DruMAP,33,F33,L33,99.85,94.9
+PFC_test_set,DruMAP,34,F34,L34,82.86,65.69999999999999
+PFC_test_set,DruMAP,35,F35,L35,92.03,94.7
+PFC_test_set,DruMAP,36,F36,L36,99.61,92.8
+PFC_test_set,DruMAP,37,F37,L37,98.83,71.4
+PFC_test_set,DruMAP,38,F38,L38,95.6,71.5
+PFC_test_set,DruMAP,39,F39,L39,99.79,93.8
+PFC_test_set,DruMAP,40,F40,L40,98.57,93.2
+PFC_test_set,DruMAP,41,F41,L41,94.72,85.3
+PFC_test_set,DruMAP,42,F42,L42,99.74,92.6
+PFC_test_set,DruMAP,43,F43,L43,92.36,63.9
+PFC_test_set,DruMAP,44,F44,L44,91.97,93.8
+PFC_test_set,DruMAP,45,F45,L45,99.77,94.9
+PFC_test_set,DruMAP,46,F46,L46,99.91,92.4
+PFC_test_set,DruMAP,47,F47,L47,99.79,92.7
+PFC_test_set,DruMAP,48,F48,L48,99.53,93.7
+PFC_test_set,DruMAP,49,F49,L49,99.9,93.1
+PFC_test_set,DruMAP,50,F50,L50,99.6,78.1
+PFC_test_set,DruMAP,51,F51,L51,99.93,95.2
+PFC_test_set,DruMAP,52,F52,L52,90.44,78.3
+PFC_test_set,DruMAP,53,F53,L53,99.97,94.2
+PFC_test_set,DruMAP,54,F54,L54,99.83,92.3
+PFC_test_set,DruMAP,55,F55,L55,98.84,95.1
+PFC_test_set,DruMAP,56,F56,L56,98.74,83.2
+PFC_test_set,DruMAP,57,F57,L57,99.94,92.0
+PFC_test_set,DruMAP,58,F58,L58,46.8,62.9
+PFC_test_set,DruMAP,59,F59,L59,26.98,69.0
+PFC_test_set,DruMAP,60,F60,L60,68.92,70.9
+PFC_test_set,DruMAP,61,F61,L61,98.91,94.0
+PFC_test_set,DruMAP,62,F62,L62,99.49,95.8
+PFC_test_set,DruMAP,63,F63,L63,99.42,93.6
+PFC_test_set,DruMAP,64,F64,L64,93.3,73.1
+PFC_test_set,DruMAP,65,F65,L65,95.67,95.2
+PFC_test_set,Pangu Drug,3,F3,N3,96.04,100.0
+PFC_test_set,Pangu Drug,4,F4,N4,94.82,0.84365
+PFC_test_set,Pangu Drug,5,F5,N5,99.93,99.549
+PFC_test_set,Pangu Drug,6,F6,N6,99.81,100.0
+PFC_test_set,Pangu Drug,7,F7,N7,62.2,84.242
+PFC_test_set,Pangu Drug,8,F8,N8,99.82,95.675
+PFC_test_set,Pangu Drug,9,F9,N9,97.11,100.0
+PFC_test_set,Pangu Drug,10,F10,N10,98.83,96.359
+PFC_test_set,Pangu Drug,11,F11,N11,98.77,98.996
+PFC_test_set,Pangu Drug,12,F12,N12,99.06,69.841
+PFC_test_set,Pangu Drug,13,F13,N13,99.41,94.749
+PFC_test_set,Pangu Drug,14,F14,N14,99.73,98.202
+PFC_test_set,Pangu Drug,15,F15,N15,99.32,93.829
+PFC_test_set,Pangu Drug,16,F16,N16,99.51,99.628
+PFC_test_set,Pangu Drug,17,F17,N17,99.54,89.165
+PFC_test_set,Pangu Drug,18,F18,N18,99.9,80.09
+PFC_test_set,Pangu Drug,19,F19,N19,99.69,75.428
+PFC_test_set,Pangu Drug,20,F20,N20,97.29,93.722
+PFC_test_set,Pangu Drug,21,F21,N21,99.3,100.0
+PFC_test_set,Pangu Drug,22,F22,N22,99.5,96.541
+PFC_test_set,Pangu Drug,23,F23,N23,99.99,100.0
+PFC_test_set,Pangu Drug,24,F24,N24,89.97,81.927
+PFC_test_set,Pangu Drug,25,F25,N25,88.3,67.303
+PFC_test_set,Pangu Drug,26,F26,N26,90.7,74.647
+PFC_test_set,Pangu Drug,27,F27,N27,99.94,76.789
+PFC_test_set,Pangu Drug,28,F28,N28,99.91,97.063
+PFC_test_set,Pangu Drug,29,F29,N29,99.82,100.0
+PFC_test_set,Pangu Drug,30,F30,N30,99.85,88.774
+PFC_test_set,Pangu Drug,31,F31,N31,99.93,99.402
+PFC_test_set,Pangu Drug,32,F32,N32,99.96,94.761
+PFC_test_set,Pangu Drug,33,F33,N33,99.85,99.18
+PFC_test_set,Pangu Drug,34,F34,N34,82.86,54.997
+PFC_test_set,Pangu Drug,35,F35,N35,92.03,90.274
+PFC_test_set,Pangu Drug,36,F36,N36,99.61,100.0
+PFC_test_set,Pangu Drug,37,F37,N37,98.83,75.097
+PFC_test_set,Pangu Drug,38,F38,N38,95.6,81.284
+PFC_test_set,Pangu Drug,39,F39,N39,99.79,94.49
+PFC_test_set,Pangu Drug,40,F40,N40,98.57,100.0
+PFC_test_set,Pangu Drug,41,F41,N41,94.72,87.081
+PFC_test_set,Pangu Drug,42,F42,N42,99.74,90.119
+PFC_test_set,Pangu Drug,43,F43,N43,92.36,63.886
+PFC_test_set,Pangu Drug,44,F44,N44,91.97,88.429
+PFC_test_set,Pangu Drug,45,F45,N45,99.77,95.634
+PFC_test_set,Pangu Drug,46,F46,N46,99.91,96.699
+PFC_test_set,Pangu Drug,47,F47,N47,99.79,91.981
+PFC_test_set,Pangu Drug,48,F48,N48,99.53,99.628
+PFC_test_set,Pangu Drug,49,F49,N49,99.9,95.399
+PFC_test_set,Pangu Drug,50,F50,N50,99.6,81.547
+PFC_test_set,Pangu Drug,51,F51,N51,99.93,91.575
+PFC_test_set,Pangu Drug,52,F52,N52,90.44,83.155
+PFC_test_set,Pangu Drug,53,F53,N53,99.97,88.881
+PFC_test_set,Pangu Drug,54,F54,N54,99.83,100.0
+PFC_test_set,Pangu Drug,55,F55,N55,98.84,97.715
+PFC_test_set,Pangu Drug,56,F56,N56,98.74,55.153
+PFC_test_set,Pangu Drug,57,F57,N57,99.94,98.373
+PFC_test_set,Pangu Drug,58,F58,N58,46.8,56.411
+PFC_test_set,Pangu Drug,59,F59,N59,26.98,37.835
+PFC_test_set,Pangu Drug,60,F60,N60,68.92,46.569
+PFC_test_set,Pangu Drug,61,F61,N61,98.91,100.0
+PFC_test_set,Pangu Drug,62,F62,N62,99.49,98.169
+PFC_test_set,Pangu Drug,63,F63,N63,99.42,100.0
+PFC_test_set,Pangu Drug,64,F64,N64,93.3,87.777
+PFC_test_set,Pangu Drug,65,F65,N65,95.67,94.433
+PFC_test_set,pkCSM(Deep-PK),3,F3,P3,96.04,65.44
+PFC_test_set,pkCSM(Deep-PK),4,F4,P4,94.82,37.26
+PFC_test_set,pkCSM(Deep-PK),5,F5,P5,99.93,50.4
+PFC_test_set,pkCSM(Deep-PK),6,F6,P6,99.81,49.9
+PFC_test_set,pkCSM(Deep-PK),7,F7,P7,62.2,29.77
+PFC_test_set,pkCSM(Deep-PK),8,F8,P8,99.82,37.93
+PFC_test_set,pkCSM(Deep-PK),9,F9,P9,97.11,76.59
+PFC_test_set,pkCSM(Deep-PK),10,F10,P10,98.83,76.1
+PFC_test_set,pkCSM(Deep-PK),11,F11,P11,98.77,57.68
+PFC_test_set,pkCSM(Deep-PK),12,F12,P12,99.06,37.62
+PFC_test_set,pkCSM(Deep-PK),13,F13,P13,99.41,52.28
+PFC_test_set,pkCSM(Deep-PK),14,F14,P14,99.73,59.17
+PFC_test_set,pkCSM(Deep-PK),15,F15,P15,99.32,45.98
+PFC_test_set,pkCSM(Deep-PK),16,F16,P16,99.51,46.88
+PFC_test_set,pkCSM(Deep-PK),17,F17,P17,99.54,38.09
+PFC_test_set,pkCSM(Deep-PK),18,F18,P18,99.9,46.01
+PFC_test_set,pkCSM(Deep-PK),19,F19,P19,99.69,41.35
+PFC_test_set,pkCSM(Deep-PK),20,F20,P20,97.29,68.6
+PFC_test_set,pkCSM(Deep-PK),21,F21,P21,99.3,65.84
+PFC_test_set,pkCSM(Deep-PK),22,F22,P22,99.5,50.14
+PFC_test_set,pkCSM(Deep-PK),23,F23,P23,99.99,46.58
+PFC_test_set,pkCSM(Deep-PK),24,F24,P24,89.97,35.44
+PFC_test_set,pkCSM(Deep-PK),25,F25,P25,88.3,34.6
+PFC_test_set,pkCSM(Deep-PK),26,F26,P26,90.7,32.97
+PFC_test_set,pkCSM(Deep-PK),27,F27,P27,99.94,55.48
+PFC_test_set,pkCSM(Deep-PK),28,F28,P28,99.91,53.76
+PFC_test_set,pkCSM(Deep-PK),29,F29,P29,99.82,79.19
+PFC_test_set,pkCSM(Deep-PK),30,F30,P30,99.85,50.9
+PFC_test_set,pkCSM(Deep-PK),31,F31,P31,99.93,67.46
+PFC_test_set,pkCSM(Deep-PK),32,F32,P32,99.96,54.86
+PFC_test_set,pkCSM(Deep-PK),33,F33,P33,99.85,59.34
+PFC_test_set,pkCSM(Deep-PK),34,F34,P34,82.86,27.24
+PFC_test_set,pkCSM(Deep-PK),35,F35,P35,92.03,76.02
+PFC_test_set,pkCSM(Deep-PK),36,F36,P36,99.61,85.54
+PFC_test_set,pkCSM(Deep-PK),37,F37,P37,98.83,42.61
+PFC_test_set,pkCSM(Deep-PK),38,F38,P38,95.6,40.22
+PFC_test_set,pkCSM(Deep-PK),39,F39,P39,99.79,58.79
+PFC_test_set,pkCSM(Deep-PK),40,F40,P40,98.57,59.69
+PFC_test_set,pkCSM(Deep-PK),41,F41,P41,94.72,57.67
+PFC_test_set,pkCSM(Deep-PK),42,F42,P42,99.74,47.0
+PFC_test_set,pkCSM(Deep-PK),43,F43,P43,92.36,32.32
+PFC_test_set,pkCSM(Deep-PK),44,F44,P44,91.97,76.37
+PFC_test_set,pkCSM(Deep-PK),45,F45,P45,99.77,57.61
+PFC_test_set,pkCSM(Deep-PK),46,F46,P46,99.91,38.28
+PFC_test_set,pkCSM(Deep-PK),47,F47,P47,99.79,50.7
+PFC_test_set,pkCSM(Deep-PK),48,F48,P48,99.53,46.88
+PFC_test_set,pkCSM(Deep-PK),49,F49,P49,99.9,53.59
+PFC_test_set,pkCSM(Deep-PK),50,F50,P50,99.6,53.13
+PFC_test_set,pkCSM(Deep-PK),51,F51,P51,99.93,53.59
+PFC_test_set,pkCSM(Deep-PK),52,F52,P52,90.44,37.45
+PFC_test_set,pkCSM(Deep-PK),53,F53,P53,99.97,59.28
+PFC_test_set,pkCSM(Deep-PK),54,F54,P54,99.83,42.76
+PFC_test_set,pkCSM(Deep-PK),55,F55,P55,98.84,61.79
+PFC_test_set,pkCSM(Deep-PK),56,F56,P56,98.74,75.19
+PFC_test_set,pkCSM(Deep-PK),57,F57,P57,99.94,42.67
+PFC_test_set,pkCSM(Deep-PK),58,F58,P58,46.8,32.09
+PFC_test_set,pkCSM(Deep-PK),59,F59,P59,26.98,30.11
+PFC_test_set,pkCSM(Deep-PK),60,F60,P60,68.92,22.95
+PFC_test_set,pkCSM(Deep-PK),61,F61,P61,98.91,59.61
+PFC_test_set,pkCSM(Deep-PK),62,F62,P62,99.49,61.71
+PFC_test_set,pkCSM(Deep-PK),63,F63,P63,99.42,50.7
+PFC_test_set,pkCSM(Deep-PK),64,F64,P64,93.3,28.33
+PFC_test_set,pkCSM(Deep-PK),65,F65,P65,95.67,66.59
+PFC_test_set,PreADMET,3,F3,R3,96.04,100.0
+PFC_test_set,PreADMET,4,F4,R4,94.82,46.153999
+PFC_test_set,PreADMET,5,F5,R5,99.93,93.958797
+PFC_test_set,PreADMET,6,F6,R6,99.81,97.426095
+PFC_test_set,PreADMET,7,F7,R7,62.2,92.651817
+PFC_test_set,PreADMET,8,F8,R8,99.82,100.0
+PFC_test_set,PreADMET,9,F9,R9,97.11,100.0
+PFC_test_set,PreADMET,10,F10,R10,98.83,100.0
+PFC_test_set,PreADMET,11,F11,R11,98.77,100.0
+PFC_test_set,PreADMET,12,F12,R12,99.06,100.0
+PFC_test_set,PreADMET,13,F13,R13,99.41,94.800228
+PFC_test_set,PreADMET,14,F14,R14,99.73,95.172366
+PFC_test_set,PreADMET,15,F15,R15,99.32,96.276075
+PFC_test_set,PreADMET,16,F16,R16,99.51,100.0
+PFC_test_set,PreADMET,17,F17,R17,99.54,85.079409
+PFC_test_set,PreADMET,18,F18,R18,99.9,100.0
+PFC_test_set,PreADMET,19,F19,R19,99.69,100.0
+PFC_test_set,PreADMET,20,F20,R20,97.29,91.482237
+PFC_test_set,PreADMET,21,F21,R21,99.3,100.0
+PFC_test_set,PreADMET,22,F22,R22,99.5,94.068404
+PFC_test_set,PreADMET,23,F23,R23,99.99,96.092554
+PFC_test_set,PreADMET,24,F24,R24,89.97,90.796458
+PFC_test_set,PreADMET,25,F25,R25,88.3,74.215172
+PFC_test_set,PreADMET,26,F26,R26,90.7,48.259945
+PFC_test_set,PreADMET,27,F27,R27,99.94,100.0
+PFC_test_set,PreADMET,28,F28,R28,99.91,98.003852
+PFC_test_set,PreADMET,29,F29,R29,99.82,82.289033
+PFC_test_set,PreADMET,30,F30,R30,99.85,95.462241
+PFC_test_set,PreADMET,31,F31,R31,99.93,96.456913
+PFC_test_set,PreADMET,32,F32,R32,99.96,97.308179
+PFC_test_set,PreADMET,33,F33,R33,99.85,94.705929
+PFC_test_set,PreADMET,34,F34,R34,82.86,33.192241
+PFC_test_set,PreADMET,35,F35,R35,92.03,100.0
+PFC_test_set,PreADMET,36,F36,R36,99.61,100.0
+PFC_test_set,PreADMET,37,F37,R37,98.83,99.258606
+PFC_test_set,PreADMET,38,F38,R38,95.6,92.704963
+PFC_test_set,PreADMET,39,F39,R39,99.79,100.0
+PFC_test_set,PreADMET,40,F40,R40,98.57,100.0
+PFC_test_set,PreADMET,41,F41,R41,94.72,100.0
+PFC_test_set,PreADMET,42,F42,R42,99.74,97.689096
+PFC_test_set,PreADMET,43,F43,R43,92.36,90.626736
+PFC_test_set,PreADMET,44,F44,R44,91.97,100.0
+PFC_test_set,PreADMET,45,F45,R45,99.77,96.439932
+PFC_test_set,PreADMET,46,F46,R46,99.91,100.0
+PFC_test_set,PreADMET,47,F47,R47,99.79,98.683909
+PFC_test_set,PreADMET,48,F48,R48,99.53,100.0
+PFC_test_set,PreADMET,49,F49,R49,99.9,99.227586
+PFC_test_set,PreADMET,50,F50,R50,99.6,100.0
+PFC_test_set,PreADMET,51,F51,R51,99.93,88.80071
+PFC_test_set,PreADMET,52,F52,R52,90.44,76.133651
+PFC_test_set,PreADMET,53,F53,R53,99.97,88.507062
+PFC_test_set,PreADMET,54,F54,R54,99.83,98.607067
+PFC_test_set,PreADMET,55,F55,R55,98.84,92.990948
+PFC_test_set,PreADMET,56,F56,R56,98.74,83.732096
+PFC_test_set,PreADMET,57,F57,R57,99.94,100.0
+PFC_test_set,PreADMET,58,F58,R58,46.8,49.406126
+PFC_test_set,PreADMET,59,F59,R59,26.98,15.355718
+PFC_test_set,PreADMET,60,F60,R60,68.92,6.016927
+PFC_test_set,PreADMET,61,F61,R61,98.91,96.167816
+PFC_test_set,PreADMET,62,F62,R62,99.49,97.122213
+PFC_test_set,PreADMET,63,F63,R63,99.42,100.0
+PFC_test_set,PreADMET,64,F64,R64,93.3,79.212265
+PFC_test_set,PreADMET,65,F65,R65,95.67,90.837948
+PFC_test_set,Our model,3,F3,T3,96.04,99.87
+PFC_test_set,Our model,4,F4,T4,94.82,96.61
+PFC_test_set,Our model,5,F5,T5,99.93,99.9
+PFC_test_set,Our model,6,F6,T6,99.81,99.88
+PFC_test_set,Our model,7,F7,T7,62.2,97.67
+PFC_test_set,Our model,8,F8,T8,99.82,99.88
+PFC_test_set,Our model,9,F9,T9,97.11,99.86
+PFC_test_set,Our model,10,F10,T10,98.83,99.86
+PFC_test_set,Our model,11,F11,T11,98.77,99.65
+PFC_test_set,Our model,12,F12,T12,99.06,98.31
+PFC_test_set,Our model,13,F13,T13,99.41,99.69
+PFC_test_set,Our model,14,F14,T14,99.73,99.93
+PFC_test_set,Our model,15,F15,T15,99.32,99.63
+PFC_test_set,Our model,16,F16,T16,99.51,99.88
+PFC_test_set,Our model,17,F17,T17,99.54,98.5
+PFC_test_set,Our model,18,F18,T18,99.9,99.72
+PFC_test_set,Our model,19,F19,T19,99.69,99.11
+PFC_test_set,Our model,20,F20,T20,97.29,99.96
+PFC_test_set,Our model,21,F21,T21,99.3,99.86
+PFC_test_set,Our model,22,F22,T22,99.5,98.63
+PFC_test_set,Our model,23,F23,T23,99.99,99.88
+PFC_test_set,Our model,24,F24,T24,89.97,97.04
+PFC_test_set,Our model,25,F25,T25,88.3,97.92
+PFC_test_set,Our model,26,F26,T26,90.7,95.13
+PFC_test_set,Our model,27,F27,T27,99.94,99.88
+PFC_test_set,Our model,28,F28,T28,99.91,99.86
+PFC_test_set,Our model,29,F29,T29,99.82,99.92
+PFC_test_set,Our model,30,F30,T30,99.85,98.72
+PFC_test_set,Our model,31,F31,T31,99.93,99.86
+PFC_test_set,Our model,32,F32,T32,99.96,99.37
+PFC_test_set,Our model,33,F33,T33,99.85,99.92
+PFC_test_set,Our model,34,F34,T34,82.86,81.95
+PFC_test_set,Our model,35,F35,T35,92.03,99.81
+PFC_test_set,Our model,36,F36,T36,99.61,99.64
+PFC_test_set,Our model,37,F37,T37,98.83,98.86
+PFC_test_set,Our model,38,F38,T38,95.6,98.93
+PFC_test_set,Our model,39,F39,T39,99.79,99.8
+PFC_test_set,Our model,40,F40,T40,98.57,99.68
+PFC_test_set,Our model,41,F41,T41,94.72,99.93
+PFC_test_set,Our model,42,F42,T42,99.74,99.58
+PFC_test_set,Our model,43,F43,T43,92.36,95.84
+PFC_test_set,Our model,44,F44,T44,91.97,99.82
+PFC_test_set,Our model,45,F45,T45,99.77,99.82
+PFC_test_set,Our model,46,F46,T46,99.91,99.72
+PFC_test_set,Our model,47,F47,T47,99.79,99.78
+PFC_test_set,Our model,48,F48,T48,99.53,99.88
+PFC_test_set,Our model,49,F49,T49,99.9,99.88
+PFC_test_set,Our model,50,F50,T50,99.6,99.88
+PFC_test_set,Our model,51,F51,T51,99.93,99.88
+PFC_test_set,Our model,52,F52,T52,90.44,96.29
+PFC_test_set,Our model,53,F53,T53,99.97,99.79
+PFC_test_set,Our model,54,F54,T54,99.83,99.81
+PFC_test_set,Our model,55,F55,T55,98.84,99.94
+PFC_test_set,Our model,56,F56,T56,98.74,99.27
+PFC_test_set,Our model,57,F57,T57,99.94,99.83
+PFC_test_set,Our model,58,F58,T58,46.8,89.43
+PFC_test_set,Our model,59,F59,T59,26.98,68.25
+PFC_test_set,Our model,60,F60,T60,68.92,83.01
+PFC_test_set,Our model,61,F61,T61,98.91,99.91
+PFC_test_set,Our model,62,F62,T62,99.49,99.88
+PFC_test_set,Our model,63,F63,T63,99.42,99.73
+PFC_test_set,Our model,64,F64,T64,93.3,97.8
+PFC_test_set,Our model,65,F65,T65,95.67,99.95
+PFC99_test_set,ADMETlab3.0,3,F3,H3,99.93,99.4
+PFC99_test_set,ADMETlab3.0,4,F4,H4,99.81,99.3
+PFC99_test_set,ADMETlab3.0,5,F5,H5,99.82,99.3
+PFC99_test_set,ADMETlab3.0,6,F6,H6,99.06,93.8
+PFC99_test_set,ADMETlab3.0,7,F7,H7,99.41,99.0
+PFC99_test_set,ADMETlab3.0,8,F8,H8,99.73,99.2
+PFC99_test_set,ADMETlab3.0,9,F9,H9,99.32,99.0
+PFC99_test_set,ADMETlab3.0,10,F10,H10,99.51,99.2
+PFC99_test_set,ADMETlab3.0,11,F11,H11,99.54,98.4
+PFC99_test_set,ADMETlab3.0,12,F12,H12,99.9,99.0
+PFC99_test_set,ADMETlab3.0,13,F13,H13,99.69,95.8
+PFC99_test_set,ADMETlab3.0,14,F14,H14,99.3,99.2
+PFC99_test_set,ADMETlab3.0,15,F15,H15,99.5,98.5
+PFC99_test_set,ADMETlab3.0,16,F16,H16,99.99,99.3
+PFC99_test_set,ADMETlab3.0,17,F17,H17,99.94,99.3
+PFC99_test_set,ADMETlab3.0,18,F18,H18,99.91,99.0
+PFC99_test_set,ADMETlab3.0,19,F19,H19,99.82,98.6
+PFC99_test_set,ADMETlab3.0,20,F20,H20,99.85,97.2
+PFC99_test_set,ADMETlab3.0,21,F21,H21,99.93,98.6
+PFC99_test_set,ADMETlab3.0,22,F22,H22,99.96,98.7
+PFC99_test_set,ADMETlab3.0,23,F23,H23,99.85,99.2
+PFC99_test_set,ADMETlab3.0,24,F24,H24,99.61,98.3
+PFC99_test_set,ADMETlab3.0,25,F25,H25,99.79,98.5
+PFC99_test_set,ADMETlab3.0,26,F26,H26,99.74,98.9
+PFC99_test_set,ADMETlab3.0,27,F27,H27,99.77,99.1
+PFC99_test_set,ADMETlab3.0,28,F28,H28,99.91,98.9
+PFC99_test_set,ADMETlab3.0,29,F29,H29,99.79,98.9
+PFC99_test_set,ADMETlab3.0,30,F30,H30,99.53,99.2
+PFC99_test_set,ADMETlab3.0,31,F31,H31,99.9,99.1
+PFC99_test_set,ADMETlab3.0,32,F32,H32,99.6,99.3
+PFC99_test_set,ADMETlab3.0,33,F33,H33,99.93,99.1
+PFC99_test_set,ADMETlab3.0,34,F34,H34,99.97,96.9
+PFC99_test_set,ADMETlab3.0,35,F35,H35,99.83,99.2
+PFC99_test_set,ADMETlab3.0,36,F36,H36,99.94,99.0
+PFC99_test_set,ADMETlab3.0,37,F37,H37,99.49,99.1
+PFC99_test_set,ADMETlab3.0,38,F38,H38,99.42,98.4
+PFC99_test_set,admetSAR3.0,3,F3,J3,99.93,100.0
+PFC99_test_set,admetSAR3.0,4,F4,J4,99.81,100.0
+PFC99_test_set,admetSAR3.0,5,F5,J5,99.82,95.5
+PFC99_test_set,admetSAR3.0,6,F6,J6,99.06,74.6
+PFC99_test_set,admetSAR3.0,7,F7,J7,99.41,74.4
+PFC99_test_set,admetSAR3.0,8,F8,J8,99.73,100.0
+PFC99_test_set,admetSAR3.0,9,F9,J9,99.32,79.7
+PFC99_test_set,admetSAR3.0,10,F10,J10,99.51,100.0
+PFC99_test_set,admetSAR3.0,11,F11,J11,99.54,86.9
+PFC99_test_set,admetSAR3.0,12,F12,J12,99.9,99.9
+PFC99_test_set,admetSAR3.0,13,F13,J13,99.69,80.5
+PFC99_test_set,admetSAR3.0,14,F14,J14,99.3,100.0
+PFC99_test_set,admetSAR3.0,15,F15,J15,99.5,90.6
+PFC99_test_set,admetSAR3.0,16,F16,J16,99.99,100.0
+PFC99_test_set,admetSAR3.0,17,F17,J17,99.94,95.5
+PFC99_test_set,admetSAR3.0,18,F18,J18,99.91,100.0
+PFC99_test_set,admetSAR3.0,19,F19,J19,99.82,100.0
+PFC99_test_set,admetSAR3.0,20,F20,J20,99.85,89.0
+PFC99_test_set,admetSAR3.0,21,F21,J21,99.93,100.0
+PFC99_test_set,admetSAR3.0,22,F22,J22,99.96,91.8
+PFC99_test_set,admetSAR3.0,23,F23,J23,99.85,100.0
+PFC99_test_set,admetSAR3.0,24,F24,J24,99.61,100.0
+PFC99_test_set,admetSAR3.0,25,F25,J25,99.79,90.9
+PFC99_test_set,admetSAR3.0,26,F26,J26,99.74,85.1
+PFC99_test_set,admetSAR3.0,27,F27,J27,99.77,83.2
+PFC99_test_set,admetSAR3.0,28,F28,J28,99.91,99.9
+PFC99_test_set,admetSAR3.0,29,F29,J29,99.79,92.8
+PFC99_test_set,admetSAR3.0,30,F30,J30,99.53,100.0
+PFC99_test_set,admetSAR3.0,31,F31,J31,99.9,95.5
+PFC99_test_set,admetSAR3.0,32,F32,J32,99.6,100.0
+PFC99_test_set,admetSAR3.0,33,F33,J33,99.93,95.5
+PFC99_test_set,admetSAR3.0,34,F34,J34,99.97,96.1
+PFC99_test_set,admetSAR3.0,35,F35,J35,99.83,100.0
+PFC99_test_set,admetSAR3.0,36,F36,J36,99.94,100.0
+PFC99_test_set,admetSAR3.0,37,F37,J37,99.49,95.4
+PFC99_test_set,admetSAR3.0,38,F38,J38,99.42,100.0
+PFC99_test_set,DruMAP,3,F3,L3,99.93,94.4
+PFC99_test_set,DruMAP,4,F4,L4,99.81,93.8
+PFC99_test_set,DruMAP,5,F5,L5,99.82,95.4
+PFC99_test_set,DruMAP,6,F6,L6,99.06,69.0
+PFC99_test_set,DruMAP,7,F7,L7,99.41,94.3
+PFC99_test_set,DruMAP,8,F8,L8,99.73,95.0
+PFC99_test_set,DruMAP,9,F9,L9,99.32,87.6
+PFC99_test_set,DruMAP,10,F10,L10,99.51,93.7
+PFC99_test_set,DruMAP,11,F11,L11,99.54,76.8
+PFC99_test_set,DruMAP,12,F12,L12,99.9,76.8
+PFC99_test_set,DruMAP,13,F13,L13,99.69,78.8
+PFC99_test_set,DruMAP,14,F14,L14,99.3,94.9
+PFC99_test_set,DruMAP,15,F15,L15,99.5,84.1
+PFC99_test_set,DruMAP,16,F16,L16,99.99,94.2
+PFC99_test_set,DruMAP,17,F17,L17,99.94,75.8
+PFC99_test_set,DruMAP,18,F18,L18,99.91,94.2
+PFC99_test_set,DruMAP,19,F19,L19,99.82,95.4
+PFC99_test_set,DruMAP,20,F20,L20,99.85,69.6
+PFC99_test_set,DruMAP,21,F21,L21,99.93,93.9
+PFC99_test_set,DruMAP,22,F22,L22,99.96,87.6
+PFC99_test_set,DruMAP,23,F23,L23,99.85,94.9
+PFC99_test_set,DruMAP,24,F24,L24,99.61,92.8
+PFC99_test_set,DruMAP,25,F25,L25,99.79,93.8
+PFC99_test_set,DruMAP,26,F26,L26,99.74,92.6
+PFC99_test_set,DruMAP,27,F27,L27,99.77,94.9
+PFC99_test_set,DruMAP,28,F28,L28,99.91,92.4
+PFC99_test_set,DruMAP,29,F29,L29,99.79,92.7
+PFC99_test_set,DruMAP,30,F30,L30,99.53,93.7
+PFC99_test_set,DruMAP,31,F31,L31,99.9,93.1
+PFC99_test_set,DruMAP,32,F32,L32,99.6,78.1
+PFC99_test_set,DruMAP,33,F33,L33,99.93,95.2
+PFC99_test_set,DruMAP,34,F34,L34,99.97,94.2
+PFC99_test_set,DruMAP,35,F35,L35,99.83,92.3
+PFC99_test_set,DruMAP,36,F36,L36,99.94,92.0
+PFC99_test_set,DruMAP,37,F37,L37,99.49,95.8
+PFC99_test_set,DruMAP,38,F38,L38,99.42,93.6
+PFC99_test_set,Pangu Drug,3,F3,N3,99.93,99.549
+PFC99_test_set,Pangu Drug,4,F4,N4,99.81,100.0
+PFC99_test_set,Pangu Drug,5,F5,N5,99.82,95.675
+PFC99_test_set,Pangu Drug,6,F6,N6,99.06,69.841
+PFC99_test_set,Pangu Drug,7,F7,N7,99.41,94.749
+PFC99_test_set,Pangu Drug,8,F8,N8,99.73,98.202
+PFC99_test_set,Pangu Drug,9,F9,N9,99.32,93.829
+PFC99_test_set,Pangu Drug,10,F10,N10,99.51,99.628
+PFC99_test_set,Pangu Drug,11,F11,N11,99.54,89.165
+PFC99_test_set,Pangu Drug,12,F12,N12,99.9,80.09
+PFC99_test_set,Pangu Drug,13,F13,N13,99.69,75.428
+PFC99_test_set,Pangu Drug,14,F14,N14,99.3,100.0
+PFC99_test_set,Pangu Drug,15,F15,N15,99.5,96.541
+PFC99_test_set,Pangu Drug,16,F16,N16,99.99,100.0
+PFC99_test_set,Pangu Drug,17,F17,N17,99.94,76.789
+PFC99_test_set,Pangu Drug,18,F18,N18,99.91,97.063
+PFC99_test_set,Pangu Drug,19,F19,N19,99.82,100.0
+PFC99_test_set,Pangu Drug,20,F20,N20,99.85,88.774
+PFC99_test_set,Pangu Drug,21,F21,N21,99.93,99.402
+PFC99_test_set,Pangu Drug,22,F22,N22,99.96,94.761
+PFC99_test_set,Pangu Drug,23,F23,N23,99.85,99.18
+PFC99_test_set,Pangu Drug,24,F24,N24,99.61,100.0
+PFC99_test_set,Pangu Drug,25,F25,N25,99.79,94.49
+PFC99_test_set,Pangu Drug,26,F26,N26,99.74,90.119
+PFC99_test_set,Pangu Drug,27,F27,N27,99.77,95.634
+PFC99_test_set,Pangu Drug,28,F28,N28,99.91,96.699
+PFC99_test_set,Pangu Drug,29,F29,N29,99.79,91.981
+PFC99_test_set,Pangu Drug,30,F30,N30,99.53,99.628
+PFC99_test_set,Pangu Drug,31,F31,N31,99.9,95.399
+PFC99_test_set,Pangu Drug,32,F32,N32,99.6,81.547
+PFC99_test_set,Pangu Drug,33,F33,N33,99.93,91.575
+PFC99_test_set,Pangu Drug,34,F34,N34,99.97,88.881
+PFC99_test_set,Pangu Drug,35,F35,N35,99.83,100.0
+PFC99_test_set,Pangu Drug,36,F36,N36,99.94,98.373
+PFC99_test_set,Pangu Drug,37,F37,N37,99.49,98.169
+PFC99_test_set,Pangu Drug,38,F38,N38,99.42,100.0
+PFC99_test_set,pkCSM(Deep-PK),3,F3,P3,99.93,50.4
+PFC99_test_set,pkCSM(Deep-PK),4,F4,P4,99.81,49.9
+PFC99_test_set,pkCSM(Deep-PK),5,F5,P5,99.82,37.93
+PFC99_test_set,pkCSM(Deep-PK),6,F6,P6,99.06,37.62
+PFC99_test_set,pkCSM(Deep-PK),7,F7,P7,99.41,52.28
+PFC99_test_set,pkCSM(Deep-PK),8,F8,P8,99.73,59.17
+PFC99_test_set,pkCSM(Deep-PK),9,F9,P9,99.32,45.98
+PFC99_test_set,pkCSM(Deep-PK),10,F10,P10,99.51,46.88
+PFC99_test_set,pkCSM(Deep-PK),11,F11,P11,99.54,38.09
+PFC99_test_set,pkCSM(Deep-PK),12,F12,P12,99.9,46.01
+PFC99_test_set,pkCSM(Deep-PK),13,F13,P13,99.69,41.35
+PFC99_test_set,pkCSM(Deep-PK),14,F14,P14,99.3,65.84
+PFC99_test_set,pkCSM(Deep-PK),15,F15,P15,99.5,50.14
+PFC99_test_set,pkCSM(Deep-PK),16,F16,P16,99.99,46.58
+PFC99_test_set,pkCSM(Deep-PK),17,F17,P17,99.94,55.48
+PFC99_test_set,pkCSM(Deep-PK),18,F18,P18,99.91,53.76
+PFC99_test_set,pkCSM(Deep-PK),19,F19,P19,99.82,79.19
+PFC99_test_set,pkCSM(Deep-PK),20,F20,P20,99.85,50.9
+PFC99_test_set,pkCSM(Deep-PK),21,F21,P21,99.93,67.46
+PFC99_test_set,pkCSM(Deep-PK),22,F22,P22,99.96,54.86
+PFC99_test_set,pkCSM(Deep-PK),23,F23,P23,99.85,59.34
+PFC99_test_set,pkCSM(Deep-PK),24,F24,P24,99.61,85.54
+PFC99_test_set,pkCSM(Deep-PK),25,F25,P25,99.79,58.79
+PFC99_test_set,pkCSM(Deep-PK),26,F26,P26,99.74,47.0
+PFC99_test_set,pkCSM(Deep-PK),27,F27,P27,99.77,57.61
+PFC99_test_set,pkCSM(Deep-PK),28,F28,P28,99.91,38.28
+PFC99_test_set,pkCSM(Deep-PK),29,F29,P29,99.79,50.7
+PFC99_test_set,pkCSM(Deep-PK),30,F30,P30,99.53,46.88
+PFC99_test_set,pkCSM(Deep-PK),31,F31,P31,99.9,53.59
+PFC99_test_set,pkCSM(Deep-PK),32,F32,P32,99.6,53.13
+PFC99_test_set,pkCSM(Deep-PK),33,F33,P33,99.93,53.59
+PFC99_test_set,pkCSM(Deep-PK),34,F34,P34,99.97,59.28
+PFC99_test_set,pkCSM(Deep-PK),35,F35,P35,99.83,42.76
+PFC99_test_set,pkCSM(Deep-PK),36,F36,P36,99.94,42.67
+PFC99_test_set,pkCSM(Deep-PK),37,F37,P37,99.49,61.71
+PFC99_test_set,pkCSM(Deep-PK),38,F38,P38,99.42,50.7
+PFC99_test_set,PreADMET,3,F3,R3,99.93,93.958797
+PFC99_test_set,PreADMET,4,F4,R4,99.81,97.426095
+PFC99_test_set,PreADMET,5,F5,R5,99.82,100.0
+PFC99_test_set,PreADMET,6,F6,R6,99.06,100.0
+PFC99_test_set,PreADMET,7,F7,R7,99.41,94.800228
+PFC99_test_set,PreADMET,8,F8,R8,99.73,95.172366
+PFC99_test_set,PreADMET,9,F9,R9,99.32,96.276075
+PFC99_test_set,PreADMET,10,F10,R10,99.51,100.0
+PFC99_test_set,PreADMET,11,F11,R11,99.54,85.079409
+PFC99_test_set,PreADMET,12,F12,R12,99.9,100.0
+PFC99_test_set,PreADMET,13,F13,R13,99.69,100.0
+PFC99_test_set,PreADMET,14,F14,R14,99.3,100.0
+PFC99_test_set,PreADMET,15,F15,R15,99.5,94.068404
+PFC99_test_set,PreADMET,16,F16,R16,99.99,96.092554
+PFC99_test_set,PreADMET,17,F17,R17,99.94,100.0
+PFC99_test_set,PreADMET,18,F18,R18,99.91,98.003852
+PFC99_test_set,PreADMET,19,F19,R19,99.82,82.289033
+PFC99_test_set,PreADMET,20,F20,R20,99.85,95.462241
+PFC99_test_set,PreADMET,21,F21,R21,99.93,96.456913
+PFC99_test_set,PreADMET,22,F22,R22,99.96,97.308179
+PFC99_test_set,PreADMET,23,F23,R23,99.85,94.705929
+PFC99_test_set,PreADMET,24,F24,R24,99.61,100.0
+PFC99_test_set,PreADMET,25,F25,R25,99.79,100.0
+PFC99_test_set,PreADMET,26,F26,R26,99.74,97.689096
+PFC99_test_set,PreADMET,27,F27,R27,99.77,96.439932
+PFC99_test_set,PreADMET,28,F28,R28,99.91,100.0
+PFC99_test_set,PreADMET,29,F29,R29,99.79,98.683909
+PFC99_test_set,PreADMET,30,F30,R30,99.53,100.0
+PFC99_test_set,PreADMET,31,F31,R31,99.9,99.227586
+PFC99_test_set,PreADMET,32,F32,R32,99.6,100.0
+PFC99_test_set,PreADMET,33,F33,R33,99.93,88.80071
+PFC99_test_set,PreADMET,34,F34,R34,99.97,88.507062
+PFC99_test_set,PreADMET,35,F35,R35,99.83,98.607067
+PFC99_test_set,PreADMET,36,F36,R36,99.94,100.0
+PFC99_test_set,PreADMET,37,F37,R37,99.49,97.122213
+PFC99_test_set,PreADMET,38,F38,R38,99.42,100.0
+PFC99_test_set,Our model,3,F3,T3,99.93,99.9
+PFC99_test_set,Our model,4,F4,T4,99.81,99.88
+PFC99_test_set,Our model,5,F5,T5,99.82,99.88
+PFC99_test_set,Our model,6,F6,T6,99.06,98.31
+PFC99_test_set,Our model,7,F7,T7,99.41,99.69
+PFC99_test_set,Our model,8,F8,T8,99.73,99.93
+PFC99_test_set,Our model,9,F9,T9,99.32,99.63
+PFC99_test_set,Our model,10,F10,T10,99.51,99.88
+PFC99_test_set,Our model,11,F11,T11,99.54,98.5
+PFC99_test_set,Our model,12,F12,T12,99.9,99.72
+PFC99_test_set,Our model,13,F13,T13,99.69,99.11
+PFC99_test_set,Our model,14,F14,T14,99.3,99.86
+PFC99_test_set,Our model,15,F15,T15,99.5,98.63
+PFC99_test_set,Our model,16,F16,T16,99.99,99.88
+PFC99_test_set,Our model,17,F17,T17,99.94,99.88
+PFC99_test_set,Our model,18,F18,T18,99.91,99.86
+PFC99_test_set,Our model,19,F19,T19,99.82,99.92
+PFC99_test_set,Our model,20,F20,T20,99.85,98.72
+PFC99_test_set,Our model,21,F21,T21,99.93,99.86
+PFC99_test_set,Our model,22,F22,T22,99.96,99.37
+PFC99_test_set,Our model,23,F23,T23,99.85,99.92
+PFC99_test_set,Our model,24,F24,T24,99.61,99.64
+PFC99_test_set,Our model,25,F25,T25,99.79,99.8
+PFC99_test_set,Our model,26,F26,T26,99.74,99.58
+PFC99_test_set,Our model,27,F27,T27,99.77,99.82
+PFC99_test_set,Our model,28,F28,T28,99.91,99.72
+PFC99_test_set,Our model,29,F29,T29,99.79,99.78
+PFC99_test_set,Our model,30,F30,T30,99.53,99.88
+PFC99_test_set,Our model,31,F31,T31,99.9,99.88
+PFC99_test_set,Our model,32,F32,T32,99.6,99.88
+PFC99_test_set,Our model,33,F33,T33,99.93,99.88
+PFC99_test_set,Our model,34,F34,T34,99.97,99.79
+PFC99_test_set,Our model,35,F35,T35,99.83,99.81
+PFC99_test_set,Our model,36,F36,T36,99.94,99.83
+PFC99_test_set,Our model,37,F37,T37,99.49,99.88
+PFC99_test_set,Our model,38,F38,T38,99.42,99.73

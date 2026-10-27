@@ -1,0 +1,515 @@
+{
+  "status": "PASS_FROZEN_CALCULATION_REPLAY",
+  "python": "3.12.0",
+  "scope": "Replay of existing review checks; not model retraining, original-analysis reconstruction or correction of published estimates.",
+  "input_sha256": {
+    "biliary_seven_drug_inputs.csv": "ce418f4855fcc59e3473ac802da7157e1b00e80142004c3189cc614ae2f0f106",
+    "deepdelta_identity_folds.csv": "8c9daae81cf91e6099d8946ff24d19ece2ad1cdd4c001a4468067b81cef17717",
+    "nature_field_mapping.csv": "def66adcaab29c1b4f1f6403dbd2a5be26a1637537e12f4ef8b0c948949f7dd6",
+    "nature_supplied_columns.csv": "af89293765c1b25ce812664c0d98fd4a310b675c641028daef509e428a75f0ca",
+    "ppb_observed_predicted.csv": "10b8219b8eb8f616edd81f304d298d4e286a7690b63b980dda31256b5cb66274",
+    "ppb_reported_summaries.csv": "6ce272d9f02cb8e3e97814827709532217319f1bce041be195c7fa6973f40865"
+  },
+  "deepdelta": {
+    "records": 881,
+    "unique_raw_smiles": 775,
+    "folds": [
+      {
+        "seed": 0,
+        "fold": 1,
+        "train_unique_raw_smiles": 707,
+        "test_unique_raw_smiles": 87,
+        "overlap_unique_raw_smiles": 19
+      },
+      {
+        "seed": 0,
+        "fold": 2,
+        "train_unique_raw_smiles": 706,
+        "test_unique_raw_smiles": 88,
+        "overlap_unique_raw_smiles": 19
+      },
+      {
+        "seed": 0,
+        "fold": 3,
+        "train_unique_raw_smiles": 708,
+        "test_unique_raw_smiles": 88,
+        "overlap_unique_raw_smiles": 21
+      },
+      {
+        "seed": 0,
+        "fold": 4,
+        "train_unique_raw_smiles": 705,
+        "test_unique_raw_smiles": 86,
+        "overlap_unique_raw_smiles": 16
+      },
+      {
+        "seed": 0,
+        "fold": 5,
+        "train_unique_raw_smiles": 705,
+        "test_unique_raw_smiles": 88,
+        "overlap_unique_raw_smiles": 18
+      },
+      {
+        "seed": 0,
+        "fold": 6,
+        "train_unique_raw_smiles": 709,
+        "test_unique_raw_smiles": 87,
+        "overlap_unique_raw_smiles": 21
+      },
+      {
+        "seed": 0,
+        "fold": 7,
+        "train_unique_raw_smiles": 709,
+        "test_unique_raw_smiles": 87,
+        "overlap_unique_raw_smiles": 21
+      },
+      {
+        "seed": 0,
+        "fold": 8,
+        "train_unique_raw_smiles": 710,
+        "test_unique_raw_smiles": 86,
+        "overlap_unique_raw_smiles": 21
+      },
+      {
+        "seed": 0,
+        "fold": 9,
+        "train_unique_raw_smiles": 709,
+        "test_unique_raw_smiles": 87,
+        "overlap_unique_raw_smiles": 21
+      },
+      {
+        "seed": 0,
+        "fold": 10,
+        "train_unique_raw_smiles": 701,
+        "test_unique_raw_smiles": 85,
+        "overlap_unique_raw_smiles": 11
+      }
+    ]
+  },
+  "ppb": [
+    {
+      "dataset": "25 new measurements_set",
+      "model": "ADMETlab3.0",
+      "source_cell": "E28",
+      "source_labelled_r2": "0.7074944993050424",
+      "n": 25,
+      "pearson_r_squared": 0.7074944993050424,
+      "predictive_r_squared": 0.7032637218808522,
+      "rmse_percentage_points": 10.491842926769348
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "admetSAR3.0",
+      "source_cell": "G28",
+      "source_labelled_r2": "0.7922888045164508",
+      "n": 25,
+      "pearson_r_squared": 0.7922888045164511,
+      "predictive_r_squared": 0.7813873222878297,
+      "rmse_percentage_points": 9.005423254905901
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "DruMAP",
+      "source_cell": "I28",
+      "source_labelled_r2": "0.7700420764539371",
+      "n": 25,
+      "pearson_r_squared": 0.7700420764539371,
+      "predictive_r_squared": 0.5968634039512852,
+      "rmse_percentage_points": 12.229045751815633
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "Pangu Drug Molecule",
+      "source_cell": "K28",
+      "source_labelled_r2": "0.8033568592352562",
+      "n": 25,
+      "pearson_r_squared": 0.8033568592352567,
+      "predictive_r_squared": 0.7777191648419597,
+      "rmse_percentage_points": 9.08066109707878
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "pkCSM(Deep-PK)",
+      "source_cell": "M28",
+      "source_labelled_r2": "0.4465747294391522",
+      "n": 25,
+      "pearson_r_squared": 0.4465747294391524,
+      "predictive_r_squared": 0.09468928736439453,
+      "rmse_percentage_points": 18.325898941116094
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "PreADMET",
+      "source_cell": "O28",
+      "source_labelled_r2": "0.5702966708098159",
+      "n": 25,
+      "pearson_r_squared": 0.5702966708098163,
+      "predictive_r_squared": 0.456581249789177,
+      "rmse_percentage_points": 14.198215618872675
+    },
+    {
+      "dataset": "25 new measurements_set",
+      "model": "Our model",
+      "source_cell": "Q28",
+      "source_labelled_r2": "0.9324583677618852",
+      "n": 25,
+      "pearson_r_squared": 0.9324583677618852,
+      "predictive_r_squared": 0.9093945314176708,
+      "rmse_percentage_points": 5.79753878814105
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "ADMETlab3.0",
+      "source_cell": "I66",
+      "source_labelled_r2": "0.35882380528344815",
+      "n": 63,
+      "pearson_r_squared": 0.35882380528344787,
+      "predictive_r_squared": 0.12008149022512127,
+      "rmse_percentage_points": 11.760993641209549
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "admetSAR3.0",
+      "source_cell": "K66",
+      "source_labelled_r2": "0.4478900167995565",
+      "n": 63,
+      "pearson_r_squared": 0.44789001679955615,
+      "predictive_r_squared": 0.13453726347362926,
+      "rmse_percentage_points": 11.663985610307495
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "DruMAP",
+      "source_cell": "M66",
+      "source_labelled_r2": "0.26961286988663913",
+      "n": 63,
+      "pearson_r_squared": 0.2696128698866389,
+      "predictive_r_squared": -0.33174408445238934,
+      "rmse_percentage_points": 14.468822090910258
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "Pangu Drug",
+      "source_cell": "O66",
+      "source_labelled_r2": "0.3047728402016714",
+      "n": 63,
+      "pearson_r_squared": 0.30477284020167117,
+      "predictive_r_squared": -0.8905195376265469,
+      "rmse_percentage_points": 17.239051750117067
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "pkCSM(Deep-PK)",
+      "source_cell": "Q66",
+      "source_labelled_r2": "0.1916073931521895",
+      "n": 63,
+      "pearson_r_squared": 0.19160739315218953,
+      "predictive_r_squared": -12.326706159315211,
+      "rmse_percentage_points": 45.77034641676979
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "PreADMET",
+      "source_cell": "S66",
+      "source_labelled_r2": "0.5305663257007998",
+      "n": 63,
+      "pearson_r_squared": 0.5305663257007999,
+      "predictive_r_squared": -0.39237716817643764,
+      "rmse_percentage_points": 14.794532118371377
+    },
+    {
+      "dataset": "PFC_test_set",
+      "model": "Our model",
+      "source_cell": "U66",
+      "source_labelled_r2": "0.7220681701597805",
+      "n": 63,
+      "pearson_r_squared": 0.7220681701597808,
+      "predictive_r_squared": 0.45178254666438733,
+      "rmse_percentage_points": 9.283232281231662
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "ADMETlab3.0",
+      "source_cell": "I39",
+      "source_labelled_r2": "0.12601565166469805",
+      "n": 36,
+      "pearson_r_squared": 0.12601565166469814,
+      "predictive_r_squared": -42.982271975238504,
+      "rmse_percentage_points": 1.5014298740422962
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "admetSAR3.0",
+      "source_cell": "K39",
+      "source_labelled_r2": "0.2226794202298429",
+      "n": 36,
+      "pearson_r_squared": 0.22267942022984308,
+      "predictive_r_squared": -1694.213373096937,
+      "rmse_percentage_points": 9.321341254228264
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "DruMAP",
+      "source_cell": "M39",
+      "source_labelled_r2": "0.05178514911858984",
+      "n": 36,
+      "pearson_r_squared": 0.05178514911858988,
+      "predictive_r_squared": -3131.062433478504,
+      "rmse_percentage_points": 12.670140422794585
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "Pangu Drug",
+      "source_cell": "O39",
+      "source_labelled_r2": "0.02617420346043519",
+      "n": 36,
+      "pearson_r_squared": 0.0261742034604352,
+      "predictive_r_squared": -1879.8986171357835,
+      "rmse_percentage_points": 9.818585277987411
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "pkCSM(Deep-PK)",
+      "source_cell": "Q39",
+      "source_labelled_r2": "0.006915763649900831",
+      "n": 36,
+      "pearson_r_squared": 0.006915763649900827,
+      "predictive_r_squared": -45547.192822377954,
+      "rmse_percentage_points": 48.3172043778289
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "PreADMET",
+      "source_cell": "S39",
+      "source_labelled_r2": "0.022523714498226224",
+      "n": 36,
+      "pearson_r_squared": 0.022523714498226235,
+      "predictive_r_squared": -543.2430026391687,
+      "rmse_percentage_points": 5.28156525423376
+    },
+    {
+      "dataset": "PFC99_test_set",
+      "model": "Our model",
+      "source_cell": "U39",
+      "source_labelled_r2": "0.1746865974219043",
+      "n": 36,
+      "pearson_r_squared": 0.17468659742190437,
+      "predictive_r_squared": -2.0725725959301955,
+      "rmse_percentage_points": 0.3968416980778774
+    }
+  ],
+  "biliary": [
+    {
+      "donor": "JFC",
+      "drugs": 7,
+      "untransformed_drug_mean_pearson_r": 0.9693739833144289,
+      "author_reported_r": 0.969,
+      "transformation": "none",
+      "drug_means": [
+        187.7254798680162,
+        100.86777599135371,
+        158.04026602687648,
+        240.50767682946437,
+        479.1955334202631,
+        1009.2748439600276,
+        37.26801697739381
+      ]
+    },
+    {
+      "donor": "HUM181001B",
+      "drugs": 7,
+      "untransformed_drug_mean_pearson_r": 0.9424446736778509,
+      "author_reported_r": 0.966,
+      "transformation": "none",
+      "drug_means": [
+        97.79560791102794,
+        211.41076269288274,
+        171.2620077395384,
+        156.60368459855755,
+        232.1130116224551,
+        531.8522798629263,
+        27.637993084087917
+      ]
+    }
+  ],
+  "biliary_max_abs_cached_mean_difference": 2.842170943040401e-14,
+  "biliary_max_abs_cached_sd_difference": 9.379164112033322e-13,
+  "nature": [
+    {
+      "endpoint": "Solubility",
+      "model": "Deep-PK",
+      "experimental_column": "I",
+      "prediction_column": "L",
+      "reported_rho_cell": "C506",
+      "source_reported_rho": "0.20469880771321408",
+      "finite_pair_n": 220,
+      "finite_pair_spearman_rho": 0.024333824064357534,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Solubility",
+      "model": "ADMET-AI",
+      "experimental_column": "I",
+      "prediction_column": "O",
+      "reported_rho_cell": "C495",
+      "source_reported_rho": "0.2972276188190578",
+      "finite_pair_n": 220,
+      "finite_pair_spearman_rho": 0.1678000957383002,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Solubility",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "I",
+      "prediction_column": "R",
+      "reported_rho_cell": "C501",
+      "source_reported_rho": "0.33709831690046776",
+      "finite_pair_n": 220,
+      "finite_pair_spearman_rho": 0.14695799883863667,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Plasma T1/2",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "U",
+      "prediction_column": "AD",
+      "reported_rho_cell": "C499",
+      "source_reported_rho": "-0.03246391086011239",
+      "finite_pair_n": 240,
+      "finite_pair_spearman_rho": 0.024296868065606762,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Permeability",
+      "model": "Deep-PK",
+      "experimental_column": "AG",
+      "prediction_column": "AJ",
+      "reported_rho_cell": "C504",
+      "source_reported_rho": "0.23363768293314938",
+      "finite_pair_n": 240,
+      "finite_pair_spearman_rho": 0.22082361304425277,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Permeability",
+      "model": "ADMET-AI",
+      "experimental_column": "AG",
+      "prediction_column": "AM",
+      "reported_rho_cell": "C493",
+      "source_reported_rho": "0.3751543073621681",
+      "finite_pair_n": 240,
+      "finite_pair_spearman_rho": 0.37102648722775733,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Permeability",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "AG",
+      "prediction_column": "AP",
+      "reported_rho_cell": "C498",
+      "source_reported_rho": "0.19019496334189032",
+      "finite_pair_n": 240,
+      "finite_pair_spearman_rho": 0.2352411142643839,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Microsomes T1/2",
+      "model": "Deep-PK",
+      "experimental_column": "AS",
+      "prediction_column": "AV",
+      "reported_rho_cell": "C503",
+      "source_reported_rho": "-0.03113788546014387",
+      "finite_pair_n": 233,
+      "finite_pair_spearman_rho": 0.0813687056830939,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "Microsomes T1/2",
+      "model": "ADMET-AI",
+      "experimental_column": "AS",
+      "prediction_column": "AY",
+      "reported_rho_cell": "C492",
+      "source_reported_rho": "0.17470362840977455",
+      "finite_pair_n": 193,
+      "finite_pair_spearman_rho": 0.3288387409354842,
+      "shared_parent_n": 14
+    },
+    {
+      "endpoint": "Microsomes T1/2",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "AS",
+      "prediction_column": "BB",
+      "reported_rho_cell": "C497",
+      "source_reported_rho": "0.09929140633440292",
+      "finite_pair_n": 240,
+      "finite_pair_spearman_rho": 0.12126298227030753,
+      "shared_parent_n": 17
+    },
+    {
+      "endpoint": "hERG",
+      "model": "Deep-PK",
+      "experimental_column": "BE",
+      "prediction_column": "BH",
+      "reported_rho_cell": "C507",
+      "source_reported_rho": "0.3556608725071758",
+      "finite_pair_n": 222,
+      "finite_pair_spearman_rho": 0.38029097846907883,
+      "shared_parent_n": 16
+    },
+    {
+      "endpoint": "hERG",
+      "model": "ADMET-AI",
+      "experimental_column": "BE",
+      "prediction_column": "BK",
+      "reported_rho_cell": "C496",
+      "source_reported_rho": "0.24063048594569664",
+      "finite_pair_n": 222,
+      "finite_pair_spearman_rho": 0.20602847935374483,
+      "shared_parent_n": 16
+    },
+    {
+      "endpoint": "hERG",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "BE",
+      "prediction_column": "BN",
+      "reported_rho_cell": "C502",
+      "source_reported_rho": "0.26043860231426935",
+      "finite_pair_n": 222,
+      "finite_pair_spearman_rho": 0.288317027810642,
+      "shared_parent_n": 16
+    },
+    {
+      "endpoint": "Fraction unbound",
+      "model": "Deep-PK",
+      "experimental_column": "BQ",
+      "prediction_column": "BT",
+      "reported_rho_cell": "C505",
+      "source_reported_rho": "0.37777871286059467",
+      "finite_pair_n": 211,
+      "finite_pair_spearman_rho": 0.4020206710638844,
+      "shared_parent_n": 16
+    },
+    {
+      "endpoint": "Fraction unbound",
+      "model": "ADMET-AI",
+      "experimental_column": "BQ",
+      "prediction_column": "BW",
+      "reported_rho_cell": "C494",
+      "source_reported_rho": "0.5347845085694863",
+      "finite_pair_n": 199,
+      "finite_pair_spearman_rho": 0.4631355501506161,
+      "shared_parent_n": 15
+    },
+    {
+      "endpoint": "Fraction unbound",
+      "model": "ADMETlab 3.0",
+      "experimental_column": "BQ",
+      "prediction_column": "BZ",
+      "reported_rho_cell": "C500",
+      "source_reported_rho": "0.44834355629642814",
+      "finite_pair_n": 213,
+      "finite_pair_spearman_rho": 0.5109174521836858,
+      "shared_parent_n": 16
+    }
+  ]
+}
